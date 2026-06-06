@@ -30,6 +30,23 @@ export default function ThinkerDetail() {
 
   const { frontmatter, body } = item;
   const fm = frontmatter as unknown as Record<string, unknown>;
+
+  // Portrait image mapping
+  const PORTRAIT_MAP: Record<string, string> = {
+    'buckminster-fuller': '/manus-storage/thinker-buckminster-fuller_f24f7022.jpg',
+    'ken-wilber': '/manus-storage/thinker-ken-wilber_03617f79.jpg',
+    'teilhard-de-chardin': '/manus-storage/thinker-teilhard-de-chardin_1ff8e71f.jpg',
+    'david-bohm': '/manus-storage/thinker-david-bohm_91f9ff3e.jpg',
+    'iain-mcgilchrist': '/manus-storage/thinker-iain-mcgilchrist_b00602f4.jpg',
+    'douglas-engelbart': '/manus-storage/thinker-douglas-engelbart_f2977f68.jpg',
+    'kevin-kelly': '/manus-storage/thinker-kevin-kelly_6684eadd.jpg',
+    'gregory-bateson': '/manus-storage/thinker-gregory-bateson_6b84c8dc.jpg',
+    'christopher-alexander': '/manus-storage/thinker-christopher-alexander_286bb0f6.jpg',
+    'stewart-brand': '/manus-storage/thinker-stewart-brand_c48007d3.jpg',
+    'albert-einstein': '/manus-storage/thinker-albert-einstein_10502570.jpg',
+    'sri-aurobindo': '/manus-storage/thinker-sri-aurobindo_1740d639.jpg',
+  };
+  const portraitUrl = PORTRAIT_MAP[slug] || null;
   const relatedPillars = (fm['related_pillars'] as string[]) || [];
   const relatedProjects = (fm['related_projects'] as string[]) || [];
   const keyIdeas = (fm['key_ideas'] as string[]) || [];
@@ -55,6 +72,27 @@ export default function ThinkerDetail() {
             </span>
           </Link>
         </div>
+
+        {/* Portrait banner */}
+        {portraitUrl && (
+          <div
+            className="mb-12 rounded-sm overflow-hidden"
+            style={{ height: 280, position: 'relative' }}
+          >
+            <img
+              src={portraitUrl}
+              alt={`${frontmatter.title} — editorial portrait`}
+              style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
+            />
+            <div
+              style={{
+                position: 'absolute',
+                inset: 0,
+                background: 'linear-gradient(to right, rgba(249,247,242,0.85) 30%, rgba(249,247,242,0.1) 100%)',
+              }}
+            />
+          </div>
+        )}
 
         {/* Header */}
         <header className="mb-12">

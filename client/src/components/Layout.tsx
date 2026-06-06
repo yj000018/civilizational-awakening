@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { href: '/pillars', label: 'Pillars' },
   { href: '/projects', label: 'Projects' },
   { href: '/thinkers', label: 'Thinkers' },
+  { href: '/essays', label: 'Essays' },
   { href: '/map', label: 'Map' },
   { href: '/connect', label: 'Connect' },
 ];

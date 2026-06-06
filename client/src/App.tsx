@@ -1,6 +1,6 @@
 /**
  * App — Civilizational Awakening
- * Routes: /, /inquiry, /pillars, /pillars/:slug, /projects, /projects/:slug, /concepts/:slug, /map, /connect
+ * Routes: /, /inquiry, /pillars, /pillars/:slug, /projects, /projects/:slug, /concepts/:slug, /essays, /essays/:slug, /thinkers, /thinkers/:slug, /map, /connect
  */
 
 import { Toaster } from "@/components/ui/sonner";
@@ -20,6 +20,8 @@ import ProjectDetail from "./pages/ProjectDetail";
 import ConceptDetail from "./pages/ConceptDetail";
 import Thinkers from "./pages/Thinkers";
 import ThinkerDetail from "./pages/ThinkerDetail";
+import Essays from "./pages/Essays";
+import EssayDetail from "./pages/EssayDetail";
 import MapPage from "./pages/Map";
 import Connect from "./pages/Connect";
 
@@ -35,6 +37,8 @@ function Router() {
       <Route path="/concepts/:slug" component={ConceptDetail} />
       <Route path="/thinkers" component={Thinkers} />
       <Route path="/thinkers/:slug" component={ThinkerDetail} />
+      <Route path="/essays" component={Essays} />
+      <Route path="/essays/:slug" component={EssayDetail} />
       <Route path="/map" component={MapPage} />
       <Route path="/connect" component={Connect} />
       <Route path="/404" component={NotFound} />
