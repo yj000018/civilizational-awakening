@@ -97,7 +97,9 @@ if (!DEEPL_KEY) {
 }
 
 // Auto-detect Free vs Pro endpoint
-const DEEPL_BASE = DEEPL_KEY.endsWith(':fx')
+// DeepL Free keys: may end with :fx OR be a plain UUID without suffix
+// Force free endpoint if key looks like a UUID (no domain prefix)
+const DEEPL_BASE = (DEEPL_KEY.endsWith(':fx') || /^[a-f0-9-]{36}$/.test(DEEPL_KEY))
   ? 'https://api-free.deepl.com'
   : 'https://api.deepl.com';
 
