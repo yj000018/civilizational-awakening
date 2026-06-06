@@ -18,6 +18,8 @@ import PillarDetail from "./pages/PillarDetail";
 import Projects from "./pages/Projects";
 import ProjectDetail from "./pages/ProjectDetail";
 import ConceptDetail from "./pages/ConceptDetail";
+import Thinkers from "./pages/Thinkers";
+import ThinkerDetail from "./pages/ThinkerDetail";
 import MapPage from "./pages/Map";
 import Connect from "./pages/Connect";
 
@@ -31,6 +33,8 @@ function Router() {
       <Route path="/projects" component={Projects} />
       <Route path="/projects/:slug" component={ProjectDetail} />
       <Route path="/concepts/:slug" component={ConceptDetail} />
+      <Route path="/thinkers" component={Thinkers} />
+      <Route path="/thinkers/:slug" component={ThinkerDetail} />
       <Route path="/map" component={MapPage} />
       <Route path="/connect" component={Connect} />
       <Route path="/404" component={NotFound} />
