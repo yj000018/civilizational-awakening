@@ -4,9 +4,10 @@
 
 import Layout from '@/components/Layout';
 import ContentPage from '@/components/ContentPage';
-import { getContentBySlug } from '@/lib/content';
+import { useContent } from '@/lib/content';
 
 export default function Inquiry() {
+  const { getContentBySlug } = useContent();
   const item = getContentBySlug('concept', 'civilizational-awakening');
 
   if (!item) {

@@ -5,7 +5,7 @@
  */
 
 import Layout from '@/components/Layout';
-import { getAllContent } from '@/lib/content';
+import { useContent } from '@/lib/content';
 import { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { useLocation } from 'wouter';
@@ -31,6 +31,7 @@ interface GraphLink extends d3.SimulationLinkDatum<GraphNode> {
 }
 
 function buildGraph() {
+  const { getAllContent } = useContent();
   const all = getAllContent();
   const nodes: GraphNode[] = [];
   const links: GraphLink[] = [];

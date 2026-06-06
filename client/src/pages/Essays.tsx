@@ -4,10 +4,11 @@
  */
 
 import Layout from '@/components/Layout';
-import { getContentByType, PILLAR_DISPLAY } from '@/lib/content';
+import { useContent, PILLAR_DISPLAY } from '@/lib/content';
 import { Link } from 'wouter';
 
 export default function Essays() {
+  const { getContentByType } = useContent();
   const essays = getContentByType('essay');
 
   // Group by pillar

@@ -5,12 +5,13 @@
 import { useParams } from 'wouter';
 import Layout from '@/components/Layout';
 import ContentPage from '@/components/ContentPage';
-import { getContentBySlug, getContentByType } from '@/lib/content';
+import { useContent } from '@/lib/content';
 import { Link } from 'wouter';
 
 export default function PillarDetail() {
   const params = useParams<{ slug: string }>();
   const slug = params.slug;
+  const { getContentBySlug, getContentByType } = useContent();
   const item = getContentBySlug('pillar', slug);
 
   // Projects belonging to this pillar

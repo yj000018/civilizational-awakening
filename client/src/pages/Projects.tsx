@@ -4,9 +4,10 @@
 
 import Layout from '@/components/Layout';
 import ContentIndex from '@/components/ContentIndex';
-import { getContentByType } from '@/lib/content';
+import { useContent } from '@/lib/content';
 
 export default function Projects() {
+  const { getContentByType } = useContent();
   const projects = getContentByType('project');
 
   return (

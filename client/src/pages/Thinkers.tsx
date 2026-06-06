@@ -3,7 +3,7 @@
  */
 
 import Layout from '@/components/Layout';
-import { getContentByType } from '@/lib/content';
+import { useContent } from '@/lib/content';
 import { Link } from 'wouter';
 
 const LINEAGE_ORDER = [
@@ -33,6 +33,7 @@ const LINEAGE_LABELS: Record<string, string> = {
 };
 
 export default function Thinkers() {
+  const { getContentByType } = useContent();
   const thinkers = getContentByType('thinker');
 
   // Group by lineage_category

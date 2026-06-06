@@ -4,7 +4,7 @@
  */
 
 import { Link } from 'wouter';
-import { ContentItem, getRelatedContent, PILLAR_DISPLAY } from '@/lib/content';
+import { ContentItem, useContent, PILLAR_DISPLAY } from '@/lib/content';
 import RelatedContent from './RelatedContent';
 import { marked } from 'marked';
 
@@ -20,6 +20,7 @@ function renderMarkdown(md: string): string {
 
 export default function ContentPage({ item, backHref, backLabel }: ContentPageProps) {
   const { frontmatter, body } = item;
+  const { getRelatedContent } = useContent();
   const related = getRelatedContent(frontmatter);
   const pillarSlug = frontmatter.pillar || '';
   const pillarDisplay = PILLAR_DISPLAY[pillarSlug] || pillarSlug;

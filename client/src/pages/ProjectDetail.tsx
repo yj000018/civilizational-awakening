@@ -5,12 +5,13 @@
 import { useParams } from 'wouter';
 import Layout from '@/components/Layout';
 import ContentPage from '@/components/ContentPage';
-import { getContentBySlug } from '@/lib/content';
+import { useContent } from '@/lib/content';
 import { Link } from 'wouter';
 
 export default function ProjectDetail() {
   const params = useParams<{ slug: string }>();
   const slug = params.slug;
+  const { getContentBySlug } = useContent();
   const item = getContentBySlug('project', slug);
 
   if (!item) {

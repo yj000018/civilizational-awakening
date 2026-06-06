@@ -4,7 +4,7 @@
  */
 
 import Layout from '@/components/Layout';
-import { getContentBySlug, getContentByType, PILLAR_DISPLAY } from '@/lib/content';
+import { useContent, PILLAR_DISPLAY } from '@/lib/content';
 import { Link } from 'wouter';
 import { marked } from 'marked';
 import { useMemo } from 'react';
@@ -14,6 +14,7 @@ interface Props {
 }
 
 export default function EssayDetail({ params }: Props) {
+  const { getContentBySlug, getContentByType } = useContent();
   const essay = getContentBySlug('essay', params.slug);
 
   const htmlBody = useMemo(() => {

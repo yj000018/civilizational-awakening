@@ -4,13 +4,14 @@
 
 import { useParams } from 'wouter';
 import Layout from '@/components/Layout';
-import { getContentBySlug, getContentByType, PILLAR_DISPLAY } from '@/lib/content';
+import { useContent, PILLAR_DISPLAY } from '@/lib/content';
 import { Link } from 'wouter';
 import { marked } from 'marked';
 
 export default function ThinkerDetail() {
   const params = useParams<{ slug: string }>();
   const slug = params.slug;
+  const { getContentBySlug, getContentByType } = useContent();
   const item = getContentBySlug('thinker', slug);
 
   if (!item) {

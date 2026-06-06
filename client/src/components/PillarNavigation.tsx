@@ -4,7 +4,7 @@
  */
 
 import { Link } from 'wouter';
-import { getContentByType, PILLAR_ORDER, PILLAR_DISPLAY } from '@/lib/content';
+import { useContent, PILLAR_ORDER, PILLAR_DISPLAY } from '@/lib/content';
 
 const PILLAR_QUESTIONS: Record<string, string> = {
   'spirit-soul': 'Who are we?',
@@ -16,6 +16,7 @@ const PILLAR_QUESTIONS: Record<string, string> = {
 };
 
 export default function PillarNavigation({ compact = false }: { compact?: boolean }) {
+  const { getContentByType } = useContent();
   const pillars = getContentByType('pillar');
 
   const pillarMap = Object.fromEntries(pillars.map((p) => [p.slug, p]));

@@ -4,9 +4,10 @@
 
 import Layout from '@/components/Layout';
 import ContentIndex from '@/components/ContentIndex';
-import { getContentByType, PILLAR_ORDER } from '@/lib/content';
+import { useContent, PILLAR_ORDER } from '@/lib/content';
 
 export default function Pillars() {
+  const { getContentByType } = useContent();
   const allPillars = getContentByType('pillar');
   // Sort by canonical pillar order
   const sorted = [...allPillars].sort(

@@ -4,9 +4,10 @@
  */
 
 import { Link } from 'wouter';
-import { getContentByType, PILLAR_ORDER, PILLAR_DISPLAY, PROJECT_PILLAR_MAP } from '@/lib/content';
+import { useContent, PILLAR_ORDER, PILLAR_DISPLAY, PROJECT_PILLAR_MAP } from '@/lib/content';
 
 export default function ProjectConstellation() {
+  const { getContentByType } = useContent();
   const projects = getContentByType('project');
 
   // Group by pillar
