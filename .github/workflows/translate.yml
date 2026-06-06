@@ -9,6 +9,11 @@ on:
       # Only run when English source content changes
       - 'client/src/content/en/**/*.md'
 
+  # Monthly auto-retry: runs on the 2nd of each month at 06:00 UTC
+  # (DeepL Free tier resets on the 1st — this catches any files that failed due to quota)
+  schedule:
+    - cron: '0 6 2 * *'
+
   # Allow manual trigger with optional --force flag
   workflow_dispatch:
     inputs:
