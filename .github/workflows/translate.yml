@@ -1,6 +1,6 @@
 name: Auto-translate content (DeepL)
 
-# ─── TRIGGERS ────────────────────────────────────────────────────────────────
+# - TRIGGERS -
 on:
   push:
     branches:
@@ -18,7 +18,7 @@ on:
         default: 'false'
         type: boolean
 
-# ─── PREVENT INFINITE LOOPS ──────────────────────────────────────────────────
+# - PREVENT INFINITE LOOPS -
 # The auto-commit step pushes translated files. Without this, that push would
 # re-trigger the workflow. The [skip ci] commit message prefix prevents that.
 concurrency:
@@ -34,19 +34,19 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
 
     steps:
-      # ── 1. Checkout ──────────────────────────────────────────────────────
+      # - 1. Checkout -
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 2  # Need previous commit to detect changed files
 
-      # ── 2. Setup Node ────────────────────────────────────────────────────
+      # - 2. Setup Node -
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      # ── 3. Install dependencies ──────────────────────────────────────────
+      # - 3. Install dependencies -
       - name: Install pnpm
         uses: pnpm/action-setup@v3
         with:
@@ -55,11 +55,11 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      # ── 4. Install tsx for running TypeScript scripts ────────────────────
+      # - 4. Install tsx for running TypeScript scripts -
       - name: Install tsx
         run: pnpm add -g tsx
 
-      # ── 5. Detect changed source files ───────────────────────────────────
+      # - 5. Detect changed source files -
       - name: Detect changed Markdown files
         id: changed
         run: |
@@ -73,7 +73,7 @@ jobs:
             echo "Changed files: $CHANGED"
           fi
 
-      # ── 6. Run translation script ─────────────────────────────────────────
+      # - 6. Run translation script -
       - name: Run DeepL translation
         if: steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
         env:
@@ -87,30 +87,22 @@ jobs:
           fi
           tsx scripts/translate-site.ts $FORCE_FLAG
 
-      # ── 7. Commit translated files ────────────────────────────────────────
+      # - 7. Commit translated files -
       - name: Commit translated files
         if: steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Stage only translated files (fr/ and it/ directories)
           git add client/src/content/fr/ client/src/content/it/
-          
-          # Check if there are actual changes to commit
           if git diff --staged --quiet; then
             echo "No translation changes to commit."
           else
-            git commit -m "chore: auto-translate content [skip ci]
-
-Translated by DeepL via GitHub Actions.
-Source: client/src/content/en/
-Targets: fr, it
-Triggered by: ${{ github.event.head_commit.message }}"
+            git commit -m "chore: auto-translate content [skip ci]"
             git push
           fi
 
-      # ── 8. Summary ────────────────────────────────────────────────────────
+      # - 8. Summary -
       - name: Summary
         if: always()
         run: |
