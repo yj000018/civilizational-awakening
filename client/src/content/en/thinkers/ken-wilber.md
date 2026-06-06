@@ -24,6 +24,7 @@ tags:
 	- integral
 	- development
 	- philosophy
+ai_generated: true
 ---
 # Ken Wilber
 

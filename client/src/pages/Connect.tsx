@@ -1,13 +1,16 @@
 /**
  * Connect — contact form with Formspree
  * Design: editorial, minimal, warm
- * Formspree endpoint: user must replace FORMSPREE_ID with their own form ID
+ * Formspree endpoint: set VITE_FORMSPREE_ID in your .env file
+ * e.g. VITE_FORMSPREE_ID=xpwzgkbj
+ * Get your form ID at https://formspree.io
  */
 
 import Layout from '@/components/Layout';
 import { useState } from 'react';
 
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xpwzgkbj'; // placeholder — replace with real ID
+const FORMSPREE_ID = import.meta.env.VITE_FORMSPREE_ID as string | undefined;
+const FORMSPREE_ENDPOINT = FORMSPREE_ID ? `https://formspree.io/f/${FORMSPREE_ID}` : null;
 
 type FormState = 'idle' | 'submitting' | 'success' | 'error';
 
@@ -38,6 +41,10 @@ export default function Connect() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (!FORMSPREE_ENDPOINT) {
+      setState('error');
+      return;
+    }
     setState('submitting');
 
     try {
@@ -113,6 +120,14 @@ export default function Connect() {
           </div>
 
           {/* Form */}
+          {!FORMSPREE_ENDPOINT && (
+            <div
+              className="mb-6 p-4 border rounded-sm text-sm"
+              style={{ borderColor: 'var(--destructive)', color: 'var(--destructive)', opacity: 0.8 }}
+            >
+              ⚠ Contact form not yet configured. Set <code>VITE_FORMSPREE_ID</code> in your environment to activate.
+            </div>
+          )}
           {state === 'success' ? (
             <div
               className="p-8 border rounded-sm"

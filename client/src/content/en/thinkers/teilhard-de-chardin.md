@@ -23,6 +23,7 @@ tags:
 	- civilization
 	- spirituality
 	- evolution
+ai_generated: true
 ---
 # Pierre Teilhard de Chardin
 

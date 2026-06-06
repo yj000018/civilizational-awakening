@@ -5,6 +5,7 @@ slug: toward-a-multispecies-civilization
 pillar: civilization
 summary: "The next civilization will not be built for humans alone. As AI, synthetic biology, and ecological awareness converge, we are forced to ask: what does civilization look like when it serves all forms of intelligence and life? This is not a distant question — it is already the design challenge of our time."
 status: published
+ai_generated: true
 ---
 
 There is a moment, just before dawn, when the world is neither asleep nor awake. The birds have begun, but the city has not. In that thin light, you can feel something we usually forget: that we share this planet with countless other forms of life, each running its own quiet intelligence, each part of a whole we barely understand. For ten thousand years, we built civilization as if we were alone. That era is ending. Not because we chose to end it, but because the tools we are creating — and the crises we are facing — no longer let us pretend.

@@ -7,6 +7,7 @@ import { Link } from 'wouter';
 import { ContentItem, useContent, PILLAR_DISPLAY } from '@/lib/content';
 import RelatedContent from './RelatedContent';
 import { marked } from 'marked';
+import DOMPurify from 'dompurify';
 
 interface ContentPageProps {
   item: ContentItem;
@@ -15,7 +16,8 @@ interface ContentPageProps {
 }
 
 function renderMarkdown(md: string): string {
-  return marked.parse(md, { async: false }) as string;
+  const raw = marked.parse(md, { async: false }) as string;
+  return DOMPurify.sanitize(raw);
 }
 
 export default function ContentPage({ item, backHref, backLabel }: ContentPageProps) {

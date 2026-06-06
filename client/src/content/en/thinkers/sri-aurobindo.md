@@ -23,6 +23,7 @@ tags:
 	- spirituality
 	- evolution
 	- philosophy
+ai_generated: true
 ---
 # Sri Aurobindo
 

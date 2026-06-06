@@ -5,6 +5,7 @@ slug: civilizational-awakening-essay
 pillar: civilization
 summary: "A civilizational awakening is a profound shift in collective and individual consciousness, moving beyond political or technological changes to embrace interconnectedness and guide humanity's evolution in the age of AI."
 status: published
+ai_generated: true
 ---
 
 Awakening occurs at dawn, when the world trembles in the delicate balance between night and day. Just as the first light transforms the landscape, a civilizational awakening beckons, calling us to open our eyes to a new horizon — a dawn not of machines but of consciousness itself. It invites us to question, to grow, and to become something more profound than we have been.

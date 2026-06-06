@@ -7,6 +7,7 @@ import Layout from '@/components/Layout';
 import { useContent, PILLAR_DISPLAY } from '@/lib/content';
 import { Link } from 'wouter';
 import { marked } from 'marked';
+import DOMPurify from 'dompurify';
 import { useMemo } from 'react';
 
 interface Props {
@@ -19,7 +20,7 @@ export default function EssayDetail({ params }: Props) {
 
   const htmlBody = useMemo(() => {
     if (!essay?.body) return '';
-    return marked.parse(essay.body) as string;
+    return DOMPurify.sanitize(marked.parse(essay.body) as string);
   }, [essay?.body]);
 
   if (!essay) {

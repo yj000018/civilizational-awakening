@@ -7,6 +7,7 @@ import Layout from '@/components/Layout';
 import { useContent, PILLAR_DISPLAY } from '@/lib/content';
 import { Link } from 'wouter';
 import { marked } from 'marked';
+import DOMPurify from 'dompurify';
 
 export default function ThinkerDetail() {
   const params = useParams<{ slug: string }>();
@@ -137,7 +138,7 @@ export default function ThinkerDetail() {
           <article className="flex-1 min-w-0">
             <div
               className="prose-ca"
-              dangerouslySetInnerHTML={{ __html: marked.parse(body, { async: false }) as string }}
+              dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(marked.parse(body, { async: false }) as string) }}
             />
           </article>
 

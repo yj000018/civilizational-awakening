@@ -5,6 +5,7 @@ slug: how-consciousness-becomes-contribution
 pillar: body-action
 summary: "The essay explores how true contribution stems from aligning with one's deepest nature, rather than mere effort, and discusses the implications for individual fulfillment and societal evolution in the age of AI."
 status: published
+ai_generated: true
 ---
 
 In an age where artificial intelligence promises accelerated enlightenment and convenience, humanity grapples with an ancient question: How do we, as conscious beings, contribute meaningfully to the world around us? Our modern dilemma is not merely in producing more or doing more but in connecting deeply—genuinely aligning with our intrinsic nature. Moving from mere awakening to meaningful action is the arduous journey every seeker must undertake, a voyage that transcends effort and encompasses true alignment.

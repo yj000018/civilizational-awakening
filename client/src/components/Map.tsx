@@ -1,4 +1,7 @@
 /**
+ * @unused — Google Maps scaffold (template default). Not imported anywhere in this project.
+ * The D3 force-directed graph at /map replaces this. Safe to delete if not needed.
+ *
  * GOOGLE MAPS FRONTEND INTEGRATION - ESSENTIAL GUIDE
  *
  * USAGE FROM PARENT COMPONENT:

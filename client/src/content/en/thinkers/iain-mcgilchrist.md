@@ -24,6 +24,7 @@ tags:
 	- consciousness
 	- civilization
 	- attention
+ai_generated: true
 ---
 # Iain McGilchrist
 

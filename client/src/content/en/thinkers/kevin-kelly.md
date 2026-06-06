@@ -23,6 +23,7 @@ tags:
 	- civilization
 	- systems
 	- future
+ai_generated: true
 ---
 # Kevin Kelly
 

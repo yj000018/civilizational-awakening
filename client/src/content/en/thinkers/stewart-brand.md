@@ -22,6 +22,7 @@ tags:
 	- long-term
 	- technology
 	- ecology
+ai_generated: true
 ---
 # Stewart Brand
 

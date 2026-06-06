@@ -24,6 +24,7 @@ tags:
 	- ecology
 	- mind
 	- communication
+ai_generated: true
 ---
 # Gregory Bateson
 

@@ -22,6 +22,7 @@ tags:
 	- systems
 	- civilization
 	- design
+ai_generated: true
 ---
 # Buckminster Fuller
 

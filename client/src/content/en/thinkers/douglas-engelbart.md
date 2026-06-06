@@ -22,6 +22,7 @@ tags:
 	- technology
 	- human-computer-symbiosis
 	- ai
+ai_generated: true
 ---
 # Douglas Engelbart
 

@@ -23,6 +23,7 @@ tags:
 	- consciousness
 	- dialogue
 	- wholeness
+ai_generated: true
 ---
 # David Bohm
 

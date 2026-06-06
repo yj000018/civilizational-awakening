@@ -5,6 +5,7 @@ slug: humans-lack-a-cognitive-operating-system
 pillar: mind
 summary: "Humans have developed advanced external tools but lack an internal cognitive operating system for managing attention, memory, context, and knowledge, a critical gap exacerbated by the age of AI, which this essay explores through a proposed architectural framework."
 status: published
+ai_generated: true
 ---
 
 We have walked on the moon, sequenced the genome, and built machines that speak in a thousand voices at once. Yet most of us cannot remember what we read last month, cannot find the thread of a thought we had at dawn, cannot hold the shape of our own becoming across the years. We have engineered the outer world to astonishing precision. The inner world remains a wilderness — vast, fertile, and almost entirely ungoverned.

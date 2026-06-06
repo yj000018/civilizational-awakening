@@ -23,6 +23,7 @@ tags:
 	- architecture
 	- patterns
 	- civilization
+ai_generated: true
 ---
 # Christopher Alexander
 

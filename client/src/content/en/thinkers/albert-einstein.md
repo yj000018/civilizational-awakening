@@ -22,6 +22,7 @@ tags:
 	- physics
 	- humanity
 	- responsibility
+ai_generated: true
 ---
 # Albert Einstein
 

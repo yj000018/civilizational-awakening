@@ -5,6 +5,7 @@ slug: we-need-a-better-capture-consolidation-context-pipeline
 pillar: mind
 summary: "The problem is not that we lack information — it is that we have no reliable pipeline from raw capture to consolidated knowledge to usable context. Most human knowledge evaporates. AI makes this worse before it makes it better."
 status: published
+ai_generated: true
 ---
 
 We stand at a precipice, awash in an ocean of information yet parched for wisdom. Every day, a deluge of data—thoughts, conversations, articles, insights—washes over us, much of it precious, yet most of it slips through our fingers like sand. We capture fragments, perhaps, but the vital process of transforming these raw captures into consolidated knowledge and then into usable, actionable context remains largely elusive. This is the silent tragedy of the information age: not a lack of input, but a profound failure of integration. Our collective and individual cognitive operating systems are overwhelmed, and paradoxically, the rise of AI, in its current chaotic state, threatens to exacerbate this fragmentation before it offers any genuine salvation.

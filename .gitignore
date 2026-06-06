@@ -6,3 +6,5 @@ dist/
 *.log
 .DS_Store
 .manus-logs/
+.project-config.json
+client/public/__manus__/
