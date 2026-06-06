@@ -29,6 +29,8 @@ jobs:
   translate:
     name: Translate Markdown content
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     # Skip if commit was made by the bot (extra safety against loops)
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
@@ -38,7 +40,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Need previous commit to detect changed files
+          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # - 2. Setup Node -
       - name: Setup Node.js
