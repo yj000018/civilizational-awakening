@@ -1,13 +1,21 @@
 /**
  * Layout — Civilizational Awakening
  * Design: minimal top nav, generous whitespace, editorial footer
- * Includes: Google Translate headless switcher in footer, Language link in nav
+ *
+ * Translation system:
+ * - PRIMARY: Static DeepL (GlobeLanguageSwitcher in nav header)
+ * - FALLBACK: Google Translate (feature-flagged, disabled by default)
+ *   To re-enable GT: set VITE_ENABLE_GOOGLE_TRANSLATE=true in .env
  */
 
 import { Link, useLocation } from 'wouter';
-import { useState, useCallback } from 'react';
+import { useState } from 'react';
 import { useScrollToTop } from '@/hooks/useScrollToTop';
-import LanguageSwitcher from '@/components/LanguageSwitcher';
+import GlobeLanguageSwitcher from '@/components/GlobeLanguageSwitcher';
+
+// ─── Feature flag: Google Translate fallback ─────────────────────────────────
+// Set VITE_ENABLE_GOOGLE_TRANSLATE=true in .env to re-enable
+const ENABLE_GOOGLE_TRANSLATE = import.meta.env.VITE_ENABLE_GOOGLE_TRANSLATE === 'true';
 
 const NAV_LINKS = [
   { href: '/inquiry', label: 'Inquiry' },
@@ -26,23 +34,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   // Fix: scroll to top on every route change
   useScrollToTop();
 
-  // Smooth scroll to language switcher in footer
-  const scrollToLanguage = useCallback((e: React.MouseEvent) => {
-    e.preventDefault();
-    setMenuOpen(false);
-    const target = document.getElementById('language-switcher');
-    if (target) {
-      target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    } else {
-      window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-    }
-  }, []);
-
   return (
     <>
-      {/* Google Translate UI suppression — hides all injected Google chrome */}
+      {/* Google Translate UI suppression — always active to prevent GT chrome leaking */}
       <style>{`
-        /* Hide GT toolbar/banner */
         .goog-te-banner-frame,
         .skiptranslate,
         #goog-gt-tt,
@@ -57,19 +52,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           height: 0 !important;
           overflow: hidden !important;
         }
-        /* Prevent GT from pushing body down */
-        body {
-          top: 0 !important;
-          position: static !important;
-        }
-        /* Hide GT iframe */
-        iframe.goog-te-menu-frame {
-          display: none !important;
-        }
-        /* Hide GT tooltip */
-        #goog-gt-tt {
-          display: none !important;
-        }
+        body { top: 0 !important; position: static !important; }
+        iframe.goog-te-menu-frame { display: none !important; }
+        #goog-gt-tt { display: none !important; }
       `}</style>
 
       <div className="min-h-screen flex flex-col" style={{ backgroundColor: 'var(--background)', color: 'var(--foreground)' }}>
@@ -95,7 +80,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </Link>
 
               {/* Desktop nav */}
-              <nav className="hidden md:flex items-center gap-8">
+              <nav className="hidden md:flex items-center gap-7">
                 {NAV_LINKS.map((link) => (
                   <Link key={link.href} href={link.href}>
                     <span
@@ -110,22 +95,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     </span>
                   </Link>
                 ))}
-                {/* Language anchor — scrolls to footer switcher */}
-                <a
-                  href="#language-switcher"
-                  onClick={scrollToLanguage}
-                  className="text-sm transition-opacity duration-150"
-                  style={{
-                    fontFamily: 'Inter, sans-serif',
-                    opacity: 0.4,
-                    fontWeight: '400',
-                    textDecoration: 'none',
-                    letterSpacing: '0.02em',
-                  }}
-                  aria-label="Change language"
-                >
-                  🌐
-                </a>
+                {/* Globe language switcher — DeepL static */}
+                <GlobeLanguageSwitcher />
               </nav>
 
               {/* Mobile menu toggle */}
@@ -154,15 +125,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     </span>
                   </Link>
                 ))}
-                {/* Mobile language link */}
-                <a
-                  href="#language-switcher"
-                  onClick={scrollToLanguage}
-                  className="block text-sm py-1"
-                  style={{ opacity: 0.5 }}
-                >
-                  🌐 Language
-                </a>
+                {/* Mobile globe switcher */}
+                <div className="pt-2 border-t" style={{ borderColor: 'var(--border)' }}>
+                  <GlobeLanguageSwitcher />
+                </div>
               </nav>
             )}
           </div>
@@ -200,16 +166,21 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               </div>
             </div>
 
-            {/* Language switcher — anchored section */}
-            <div
-              className="mt-10 pt-8 border-t flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6"
-              style={{ borderColor: 'var(--border)' }}
-            >
-              <LanguageSwitcher />
-              <p className="text-xs" style={{ opacity: 0.25, fontFamily: 'Inter, sans-serif', maxWidth: '48ch' }}>
-                Translations are provided automatically. Quality may vary on philosophical and technical content.
-              </p>
-            </div>
+            {/* Google Translate fallback — disabled by default, feature-flagged */}
+            {ENABLE_GOOGLE_TRANSLATE && (
+              <div
+                id="gt-fallback-section"
+                className="mt-10 pt-8 border-t"
+                style={{ borderColor: 'var(--border)' }}
+              >
+                {/* LanguageSwitcher (GT) rendered here when feature flag is on */}
+                {/* import LanguageSwitcher from '@/components/LanguageSwitcher'; */}
+                {/* <LanguageSwitcher /> */}
+                <p className="text-xs" style={{ opacity: 0.3, fontFamily: 'Inter, sans-serif' }}>
+                  Google Translate fallback (feature flag: VITE_ENABLE_GOOGLE_TRANSLATE)
+                </p>
+              </div>
+            )}
 
             <div className="mt-8 pt-6 border-t" style={{ borderColor: 'var(--border)' }}>
               <p className="text-xs" style={{ opacity: 0.3 }}>

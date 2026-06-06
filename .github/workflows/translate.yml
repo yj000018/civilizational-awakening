@@ -1,0 +1,121 @@
+name: Auto-translate content (DeepL)
+
+# ─── TRIGGERS ────────────────────────────────────────────────────────────────
+on:
+  push:
+    branches:
+      - main
+    paths:
+      # Only run when English source content changes
+      - 'client/src/content/en/**/*.md'
+
+  # Allow manual trigger with optional --force flag
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force retranslation of all files (ignore hash cache)'
+        required: false
+        default: 'false'
+        type: boolean
+
+# ─── PREVENT INFINITE LOOPS ──────────────────────────────────────────────────
+# The auto-commit step pushes translated files. Without this, that push would
+# re-trigger the workflow. The [skip ci] commit message prefix prevents that.
+concurrency:
+  group: translate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  translate:
+    name: Translate Markdown content
+    runs-on: ubuntu-latest
+
+    # Skip if commit was made by the bot (extra safety against loops)
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need previous commit to detect changed files
+
+      # ── 2. Setup Node ────────────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # ── 3. Install dependencies ──────────────────────────────────────────
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # ── 4. Install tsx for running TypeScript scripts ────────────────────
+      - name: Install tsx
+        run: pnpm add -g tsx
+
+      # ── 5. Detect changed source files ───────────────────────────────────
+      - name: Detect changed Markdown files
+        id: changed
+        run: |
+          # Get list of changed .md files in content/en/
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'client/src/content/en/**/*.md' 2>/dev/null || echo "")
+          if [ -z "$CHANGED" ] && [ "${{ github.event_name }}" = "push" ]; then
+            echo "No source Markdown files changed. Skipping translation."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changed files: $CHANGED"
+          fi
+
+      # ── 6. Run translation script ─────────────────────────────────────────
+      - name: Run DeepL translation
+        if: steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          TRANSLATION_SOURCE_LOCALE: en
+          TRANSLATION_TARGET_LOCALES: fr,it
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          tsx scripts/translate-site.ts $FORCE_FLAG
+
+      # ── 7. Commit translated files ────────────────────────────────────────
+      - name: Commit translated files
+        if: steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Stage only translated files (fr/ and it/ directories)
+          git add client/src/content/fr/ client/src/content/it/
+          
+          # Check if there are actual changes to commit
+          if git diff --staged --quiet; then
+            echo "No translation changes to commit."
+          else
+            git commit -m "chore: auto-translate content [skip ci]
+
+Translated by DeepL via GitHub Actions.
+Source: client/src/content/en/
+Targets: fr, it
+Triggered by: ${{ github.event.head_commit.message }}"
+            git push
+          fi
+
+      # ── 8. Summary ────────────────────────────────────────────────────────
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Translation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- Source locale: en" >> $GITHUB_STEP_SUMMARY
+          echo "- Target locales: fr, it" >> $GITHUB_STEP_SUMMARY
+          echo "- Trigger: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- Force mode: ${{ github.event.inputs.force || 'false' }}" >> $GITHUB_STEP_SUMMARY
