@@ -24,23 +24,23 @@ related_thinkers:
 translation:
   source_locale: en
   target_locale: it
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/projects/next-civ.md
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/next-civ.md
   source_hash: 0a8e5b908fafe1ee
   provider: deepl
-  translated_at: 2026-06-06T09:12:26.582Z
+  translated_at: 2026-07-02T08:52:58.725Z
 ---
 
 # Next Civ
 ## Posizionamento in una riga
-Next Civ è un quadro di riferimento per la ricerca sulla civiltà del futuro.
+Next Civ è un quadro di riferimento per la ricerca sulla prossima civiltà.
 ## Domanda centrale
-Quali sistemi sono necessari affinché l'umanità possa prosperare in un'era caratterizzata dall'intelligenza artificiale, dall'abbondanza e dall'intelligenza su scala planetaria?
+Quali sistemi sono necessari affinché l’umanità possa prosperare in un’era caratterizzata dall’intelligenza artificiale, dall’abbondanza e dall’intelligenza su scala planetaria?
 ## Tesi
-I prossimi decenni potrebbero trasformare l'intelligenza, il lavoro, la longevità, la governance, l'economia, l'istruzione, la creatività e l'identità umana.
-Next Civ esplora le questioni a livello di sistema sollevate da questa transizione. Si chiede quale tipo di civiltà diventi possibile quando l'IA, l'automazione, l'abbondanza, le reti e il potenziale umano non sono più forze marginali, ma condizioni operative centrali.
+I prossimi decenni potrebbero trasformare l’intelligenza, il lavoro, la longevità, la governance, l’economia, l’istruzione, la creatività e l’identità umana.
+Next Civ esplora le questioni a livello di sistema sollevate da questa transizione. Si chiede quale tipo di civiltà diventi possibile quando l’intelligenza artificiale, l’automazione, l’abbondanza, le reti e il potenziale umano non siano più forze marginali, ma condizioni operative centrali.
 ## Perché è importante
 La maggior parte delle discussioni sul futuro si concentra sulla tecnologia o sulla crisi. Next Civ pone una domanda più ampia: cosa richiederebbe una civiltà più saggia?
-Ciò include governance, coordinamento, fiducia, abbondanza, impresa sociale, capitale umano, intelligenza collettiva, sviluppo spirituale, etica multispecie e la progettazione di istituzioni che sostengano la prosperità.
+Ciò include la governance, il coordinamento, la fiducia, l’abbondanza, l’impresa sociale, il capitale umano, l’intelligenza collettiva, lo sviluppo spirituale, l’etica multispecie e la progettazione di istituzioni che sostengano la prosperità.
 ## Ambiti di ricerca
 - IA e abbondanza
 - governance e coordinamento
@@ -49,17 +49,17 @@ Ciò include governance, coordinamento, fiducia, abbondanza, impresa sociale, ca
 - fiducia e reputazione
 - longevità e significato
 - civiltà multispecie
-- educazione del futuro
+- istruzione del futuro
 - impresa sociale e contributo
-- memoria della civiltà
-## Relazione con il Risveglio Civiltà
-Il Risveglio Civiltà è l'indagine più ampia.
+- memoria civile
+## Relazione con il Risveglio Civile
+Il Risveglio Civile rappresenta l’indagine più ampia.
 Next Civ è il livello di ricerca e progettazione dei sistemi incentrato specificamente sul futuro della civiltà.
 ## Domande aperte
 - Cosa succederà dopo la scarsità come principio organizzativo principale?
-- Come sarà la governance in un'era di coordinamento mediato dall'IA?
-- Come può il potenziale umano diventare una risorsa della civiltà senza diventare un sistema di controllo?
-- Quali istituzioni sono necessarie per un'era di abbondanza e longevità?
-- Come dovrebbero relazionarsi gli esseri umani con altre specie e forme di intelligenza?
+- Come si configurerà la governance in un’era di coordinamento mediato dall’IA?
+- Come può il potenziale umano diventare una risorsa per la civiltà senza trasformarsi in un sistema di controllo?
+- Quali istituzioni sono necessarie per un’era di abbondanza e longevità?
+- Come dovrebbero relazionarsi gli esseri umani con le altre specie e forme di intelligenza?
 ## Stato attuale
-Pagina del progetto Ready P0. Bozza canonica GPT.
+Pagina del progetto P0 pronta. Bozza canonica GPT.

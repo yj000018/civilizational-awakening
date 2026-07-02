@@ -1,8 +1,8 @@
 ---
-title: Corpo / Meccanica
+title: Corpo / Azione
 slug: body-action
 type: pillar
-summary: In che modo la consapevolezza si trasforma in contributo?
+summary: In che modo la coscienza si trasforma in contributo?
 pillar: body-action
 status: ready
 visibility: public
@@ -24,10 +24,10 @@ related_essays:
 translation:
   source_locale: en
   target_locale: it
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/pillars/body-action.md
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/body-action.md
   source_hash: ca5b6012a807d272
   provider: deepl
-  translated_at: 2026-06-06T09:12:07.054Z
+  translated_at: 2026-07-02T08:52:48.239Z
 ---
 
 # Corpo / Azione
@@ -35,14 +35,14 @@ translation:
 In che modo la coscienza si trasforma in contributo?
 ## Tesi
 Il risveglio è incompleto se non si traduce in azione.
-Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra coscienza e impatto sociale.
+Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra la coscienza e l’impatto sociale.
 ## Perché è 
 importante
-Un futuro plasmato dall'IA non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventa visibile e sostenuto.
-Corpo / Azione è il luogo in cui l'indagine diventa pratica.
+Un futuro plasmato dall’intelligenza artificiale non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventi visibile e venga sostenuto.
+Corpo / Azione è il luogo in cui l’indagine diventa pratica.
 ## Temi chiave
 - scopo
-- agenzia
+- capacità di agire
 - contributo
 - incarnazione
 - azione
@@ -59,11 +59,11 @@ cambiamento** — chi sei come attore del cambiamento?
 Questo pilastro rifiuta la separazione tra vita interiore e contributo esterno.
 Si chiede come gli esseri umani possano diventare più consapevoli, più incarnati e più utili al mondo senza ridursi a metriche di produttività.
 ## Domande aperte
-- Come fa una persona a scoprire il proprio contributo?
+- In che modo una persona scopre il proprio contributo?
 - Cosa rende qualcuno un attore del cambiamento?
-- In che modo l'IA può sostenere lo scopo senza manipolare l'identità?
-- Come si può misurare l'impatto senza 
-appiattire il valore umano?
-- Come può l'impresa sociale rimanere radicata nella consapevolezza e nella cura?
+- In che modo l’IA può sostenere uno scopo senza manipolare l’identità?
+- Come si può misurare l’impatto senza 
+sminuire il valore umano?
+- In che modo l’impresa sociale può rimanere radicata nella consapevolezza e nella cura?
 ## Stato attuale
 Pagina del pilastro P0 pronta. Bozza canonica GPT.

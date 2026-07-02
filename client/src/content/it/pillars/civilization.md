@@ -2,7 +2,7 @@
 title: Civiltà
 slug: civilization
 type: pillar
-summary: Come possono gli esseri umani prosperare insieme?
+summary: In che modo gli esseri umani possono prosperare insieme?
 pillar: civilization
 status: ready
 visibility: public
@@ -30,21 +30,21 @@ related_thinkers:
 translation:
   source_locale: en
   target_locale: it
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/pillars/civilization.md
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/civilization.md
   source_hash: faaca10a252a8f1e
   provider: deepl
-  translated_at: 2026-06-06T09:12:08.686Z
+  translated_at: 2026-07-02T08:52:49.029Z
 ---
 
 # Civiltà
 ## Domanda fondamentale
 Come possono gli esseri umani prosperare insieme?
 ## Tesi
-L'era dell'IA solleva questioni fondamentali per la civiltà: coordinamento, governance, abbondanza, longevità, fiducia, intelligenza collettiva, 
+L’era dell’IA solleva questioni relative alla civiltà: coordinamento, governance, abbondanza, longevità, fiducia, intelligenza collettiva, 
 potenziale umano e il rapporto tra esseri umani, tecnologia e vita.
-Il pilastro della Civiltà si interroga su come l'umanità possa progettare sistemi che aiutino le persone e le società a prosperare insieme, piuttosto che limitarsi a ottimizzare l'estrazione, la competizione o il controllo.
+Il pilastro «Civiltà» si interroga su come l’umanità possa progettare sistemi che aiutino le persone e le società a prosperare insieme, anziché limitarsi a ottimizzare lo sfruttamento, la competizione o il controllo.
 ## Perché è importante
-L'IA può aumentare la produttività, ma la produttività da sola non è civiltà.
+L’IA può aumentare la produttività, ma la produttività da sola non è civiltà.
 Una civiltà fiorente ha bisogno di significato, coordinamento, legittimità, cura, bellezza, governance, memoria e orientamento condiviso. Ha bisogno di sistemi che rendano
 visibile il potenziale umano e sostengano il contributo senza ridurre le persone a punteggi o categorie.
 ## Temi chiave
@@ -66,7 +66,7 @@ stemi per mappare, sviluppare e scambiare il potenziale umano.
 - **Intelligenza collettiva** — come l’intelligenza si coordina su scala collettiva.
 ## Principio di progettazione
 La progettazione della civiltà deve includere sia i sistemi che l’anima.
-Non può essere solo governance tecnica o coordinamento economico. Deve chiedersi quali tipi di esseri, relazioni, istituzioni e culture siano degni di un futuro più abbondante.
+Non può limitarsi alla sola governance tecnica o al coordinamento economico. Deve chiedersi quali tipi di esseri, relazioni, istituzioni e culture siano degni di un futuro più abbondante.
 ## Pensatori correlati
 - Buckminster Fuller
 - Kevin Kelly
@@ -74,10 +74,10 @@ Non può essere solo governance tecnica o coordinamento economico. Deve chieders
 - Pierre Teilhard de
  Chardin
 ## Domande aperte
-- Cosa succede dopo la scarsità come principio organizzativo principale?
-- In che modo l'abbondanza, l'IA e la longevità dovrebbero rimodellare la civiltà?
+- Cosa succederà dopo la scarsità come principio organizzativo principale?
+- In che modo l’abbondanza, l’IA e la longevità dovrebbero rimodellare la civiltà?
 - Quali sistemi possono finanziare o sostenere il potenziale umano futuro?
-- Come può evolversi la governance con l'intelligenza collettiva?
+- Come può evolversi la governance grazie all’intelligenza collettiva?
 - Cosa richiederebbe una civiltà multispecie?
 ## Stato attuale
 Pagina pilastro P0 pronta. Bozza canonica GPT.

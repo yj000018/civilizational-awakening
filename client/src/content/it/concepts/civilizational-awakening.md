@@ -2,7 +2,7 @@
 title: Il risveglio della civiltà
 slug: civilizational-awakening
 type: concept
-summary: "Una riflessione che dura da una vita sul benessere umano nell'era dell'intelligenza artificiale."
+summary: Una ricerca che dura da una vita sul benessere umano nell’era dell’intelligenza artificiale.
 pillar: civilization
 status: ready
 visibility: public
@@ -27,44 +27,44 @@ related_concepts:
 translation:
   source_locale: en
   target_locale: it
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/concepts/civilizational-awakening.md
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/civilizational-awakening.md
   source_hash: a070532924f87f9c
   provider: deepl
-  translated_at: 2026-06-06T09:11:52.952Z
+  translated_at: 2026-07-02T08:52:40.146Z
 ---
 
-# Risveglio della civiltà
+# Il risveglio della civiltà
 ## Posizionamento in una riga
-Il Risveglio della civiltà è una ricerca permanente sul benessere umano nell’era dell’intelligenza artificiale.
+Il risveglio della civiltà è un’indagine che dura tutta la vita sulla piena realizzazione umana nell’era dell’intelligenza artificiale.
 ## Domanda centrale
 Cosa
  significa essere veramente umani quando l’intelligenza, la memoria, l’automazione, l’abbondanza, la longevità e il coordinamento su scala planetaria diventano programmabili?
 ## Tesi
-L'intelligenza artificiale non è solo un evento tecnologico. È uno specchio della civiltà.
-Costringe l'umanità a porsi domande più profonde: chi siamo, a cosa diamo valore, come ci coordiniamo, come ricordiamo, come agiamo e quale tipo di civiltà diventa possibile quando la scarsità non è più l'unico principio organizzativo?
-Civilizational Awak
-ening è il nome di questa indagine. Essa collega coscienza, cognizione, azione e civiltà in un'unica mappa navigabile di lavoro.
-## Che cos'è
-Non è un'azienda.
+L’intelligenza artificiale non è solo un evento tecnologico. È uno specchio della civiltà.
+Costringe l’umanità a porsi domande più profonde: chi siamo, a cosa diamo valore, come ci coordiniamo, come ricordiamo, come agiamo e quale tipo di civiltà diventa possibile quando la scarsità non è più l’unico principio organizzativo?
+«Risveglio
+civile» è il nome di questa indagine. Essa collega coscienza, cognizione, azione e civiltà in un’unica mappa navigabile del lavoro.
+## Di cosa si tratta
+Non è un’azienda.
 Non è un prodotto.
 Non è un movimento.
 Non è una religione.
 Non è un think tank.
 È una mappa coerente del lavoro di una vita: un campo di ricerca, creazione e contributo che esplora la prossima fase del potenziale umano.
 ## Pilastri
-L'indagine è organizzata in cinque livelli principali:
+L’indagine è organizzata in cinque livelli principali:
 - **Spirito / Anima** — chi siamo?
 - **Cuore** — cosa apre e
 nutre il cuore umano?
-- **Mente** — come si evolve l'intelligenza?
-- **Corpo / Azione** — come la coscienza diventa contributo?
-- **Civiltà** — come gli esseri umani prosperano insieme?
+- **Mente** — come si evolve l’intelligenza?
+- **Corpo / Azione** — in che modo la coscienza si trasforma in contributo?
+- **Civiltà** — come prosperano gli esseri umani insieme?
 Un livello trasversale — **Rete / Trasmissione** — collega idee, persone, opere, libri, comunità e progetti.
 ## Perché è importante
-L'era dell'IA rischia di diventare o una corsa alla produttività o un panico esistenziale. Entrambe le visioni tralasciano l'opportunità più profonda.
-La domanda più profonda è come l'intelligenza possa 
-aiutare l'umanità a ricordare se stessa: coordinarsi meglio, creare bellezza, servire la vita, sviluppare la coscienza e costruire sistemi degni del potenziale umano.
-Il Risveglio Civiltà abbraccia questa visione più ampia.
+L’era dell’IA rischia di trasformarsi in una corsa alla produttività o in un panico esistenziale. Entrambe queste visioni trascurano l’opportunità più profonda.
+La domanda più profonda è come l’intelligenza possa 
+aiutare l’umanità a ricordare se stessa: coordinarsi meglio, creare bellezza, servire la vita, sviluppare la coscienza e costruire sistemi degni del potenziale umano.
+Il Risveglio Civiltà offre questa prospettiva più ampia.
 ## Argomenti correlati
 - YOUniverse come sistema operativo per il potenziale umano
 - Y-OS come sistema operativo per la cognizione
@@ -74,11 +74,11 @@ Il Risveglio Civiltà abbraccia questa visione più ampia.
 cuore
 - Next Civ e Human Capital Systems come filoni di progettazione della civiltà
 ## Domande aperte
-- Che ne sarà del significato umano in un'era di abbondanza di IA?
-- Come può la coscienza diventare contributo?
+- Che ne sarà del significato umano in un’era di abbondanza di IA?
+- Come può la coscienza trasformarsi in contributo?
 - Quali sistemi aiutano il potenziale umano a diventare visibile, affidabile e sostenuto?
-- Come progettiamo l'infrastruttura della civiltà senza trasformare la vita in ottimizzazione?
-- Cosa vale la pena costruire quando l'intelligenza diventa abbondante?
+- Come progettiamo un’infrastruttura civilizzativa senza trasformare la vita in un processo di ottimizzazione?
+- Cosa vale la pena costruire quando l’intelligenza diventa abbondante?
 ## Stato attuale
 Concetto P0 pronto. QA GPT completato dopo la 
 revisione di Claude.

@@ -24,28 +24,29 @@ tags:
   - consciousness
   - civilization
   - attention
+ai_generated: true
 translation:
   source_locale: en
   target_locale: it
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/thinkers/iain-mcgilchrist.md
-  source_hash: 89076abbaa85d20c
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/iain-mcgilchrist.md
+  source_hash: e1fd2f34d8aef5b9
   provider: deepl
-  translated_at: 2026-06-06T09:12:43.581Z
+  translated_at: 2026-07-02T08:53:07.435Z
 ---
 
 # Iain McGilchrist
 
 ## Perché è importante
-L'argomentazione centrale di McGilchrist è che l'emisfero sinistro del cervello — che è analitico, riduttivo e orientato al controllo — ha finito per dominare la civiltà occidentale, sopprimendo la capacità dell'emisfero destro di cogliere la totalità, il contesto e la presenza. Il risultato è una civiltà che eccelle nella manipolazione ma fatica a dare un senso alle cose.
+La tesi centrale di McGilchrist è che l’emisfero sinistro del cervello — che è analitico, riduttivo e orientato al controllo — abbia finito per dominare la civiltà occidentale, sopprimendo la capacità dell’emisfero destro di cogliere la totalità, il contesto e la presenza. Il risultato è una civiltà che eccelle nella manipolazione ma fatica a dare un senso alle cose.
 
 ## Collegamento con questa indagine
-La diagnosi di McGilchrist sul predominio dell'emisfero sinistro è uno dei quadri di riferimento più importanti per comprendere perché la civiltà abbia bisogno di un risveglio. Il suo lavoro influenza direttamente i pilastri Spirito/Anima e Mente, nonché la questione relativa al tipo di intelligenza che l'IA dovrebbe amplificare.
+La diagnosi di McGilchrist sul predominio dell’emisfero sinistro è uno dei quadri interpretativi più importanti per comprendere perché la civiltà abbia bisogno di un risveglio. Il suo lavoro influenza direttamente i pilastri Spirito/Anima e Mente, nonché la questione relativa al tipo di intelligenza che l’IA dovrebbe amplificare.
 
 ## Idee chiave
-- **Cervello diviso**: I due emisferi del cervello hanno modi fondamentalmente diversi di rapportarsi al mondo.
-- **Dominanza dell'emisfero sinistro**: la civiltà moderna ha sistematicamente privilegiato il pensiero analitico, riduttivo e orientato al controllo.
-- **L'attenzione modella la realtà**: il modo in cui prestiamo attenzione al mondo determina il mondo in cui viviamo.
-- **L'emissario e il maestro**: L'emisfero sinistro (emissario) ha usurpato l'emisfero destro (maestro).
+- **Cervello diviso**: I due emisferi cerebrali hanno modi fondamentalmente diversi di rapportarsi al mondo.
+- **Dominanza dell’emisfero sinistro**: la civiltà moderna ha sistematicamente privilegiato il pensiero analitico, riduttivo e orientato al controllo.
+- **L’attenzione plasma la realtà**: il modo in cui prestiamo attenzione al mondo determina il mondo in cui viviamo.
+- **L’emissario e il maestro**: L’emisfero sinistro (l’emissario) ha usurpato il potere all’emisfero destro (il maestro).
 
 ## Pilastri correlati
 Mente, Spirito / Anima, Civiltà
@@ -54,8 +55,8 @@ Mente, Spirito / Anima, Civiltà
 Y-OS, Archetipi
 
 ## Domande aperte
-- È possibile progettare un'intelligenza artificiale in grado di amplificare le capacità dell'emisfero destro?
-- Come sarebbe l'istruzione se coltivasse l'intelligenza dell'intero cervello?
+- È possibile progettare un’intelligenza artificiale in grado di amplificare le capacità dell’emisfero destro?
+- Come sarebbe l’istruzione se coltivasse l’intelligenza dell’intero cervello?
 
 ## Opere consigliate
 - *Il Maestro e il suo Emissario*

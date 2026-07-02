@@ -30,23 +30,23 @@ related_thinkers:
 translation:
   source_locale: en
   target_locale: fr
-  source_file: /home/ubuntu/civilizational-awakening/client/src/content/en/pillars/mind.md
+  source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-06-06T09:11:11.931Z
+  translated_at: 2026-07-02T08:52:18.298Z
 ---
 
 # Mind
 ## Question centrale
-Comment l'intelligence évolue-t-elle ?
+Comment l’intelligence évolue-t-elle ?
 ## Thèse
-L'ère de l'IA ne nécessite pas seulement de meilleurs outils. Elle nécessite une meilleure infrastructure cognitive.
-À mesure que l'intelligence se répartit entre modèles, agents, automatisations, documents et systèmes de connaissances, les humains ont besoin de nouveaux moyens pour préserver 
-la continuité, la mémoire, l'autonomie et le contexte.
-Le pilier « L'esprit » explore cette couche manquante.
+L’ère de l’IA ne nécessite pas seulement de meilleurs outils. Elle nécessite une meilleure infrastructure cognitive.
+À mesure que l’intelligence se répartit entre modèles, agents, automatisations, documents et systèmes de connaissances, les humains ont besoin de nouveaux moyens pour préserver 
+la continuité, la mémoire, l’autonomie et le contexte.
+Le pilier « Esprit » explore cette couche manquante.
 ## Pourquoi est-ce important ?
-Sans infrastructure cognitive, l'attention humaine se disperse entre les outils, les conversations, les fichiers et les plateformes. Les décisions disparaissent. Le contexte est perdu. La mémoire devient bruyante ou incomplète.
-Le pilier « L'esprit » s'interroge sur la manière dont l'IA peut augmenter l'intelligence humaine sans dissoudre l'agentivité humaine.
+Sans infrastructure cognitive, l’attention humaine se fragmente entre les outils, les conversations, les fichiers et les plateformes. Les décisions disparaissent. Le contexte est perdu. La mémoire devient bruyante ou incomplète.
+Le pilier « Esprit » s’interroge sur la manière dont l’IA peut augmenter l’intelligence humaine sans dissoudre l’autonomie humaine.
 ## Thèmes clés
 - cognition
 - mémoire
@@ -54,13 +54,13 @@ Le pilier « L'esprit » s'interroge sur la manière dont l'IA peut augmenter l'
 - contexte
 - systèmes de connaissances
 - agents IA
-- routage de modèles
+- routage des modèles
 - symbiose
 homme-machine
 - ingénierie du contexte
-- systèmes d'exploitation cognitifs
-## Projets connexes
-- **Y-OS** — système d'exploitation pour la cognition.
+- systèmes d’exploitation cognitifs
+## Projets associés
+- **Y-OS** — système d’exploitation pour la cognition.
 - **Memory OS** — système d’exploitation pour la gestion du cycle de vie de la mémoire.
 ## Principe fondamental
 ```plain text
@@ -68,15 +68,15 @@ We do not need a better vector DB.
 We need a better capture → consolidation → context pipeline.
 ```
 ## Penseurs associés
-- Douglas Engelbart — augmenter l’intellect humain.
-- Kevin Kelly — devenir technologique et culture du réseau.
+- Douglas Engelbart — l’augmentation de l’intellect humain.
+- Kevin Kelly — l’évolution technologique et la culture des réseaux.
 - Gregory Bateson
-— écologie de l'esprit et des schémas.
+— écologie de l’esprit et des schémas.
 - Iain McGilchrist — attention, esprit et sens.
 ## Questions ouvertes
-- Quel est le système d'exploitation cognitif minimal viable ?
+- Quel est le système d’exploitation cognitif minimal viable ?
 - Comment la mémoire doit-elle être capturée, validée et injectée dans les agents ?
 - Comment les tâches doivent-elles être acheminées entre les modèles et les outils ?
-- Comment l'IA peut-elle accroître l'autonomie humaine plutôt que la dépendance ?
-## État d'avancement
+- Comment l’IA peut-elle accroître l’autonomie humaine plutôt que la dépendance ?
+## État d’avancement
 Page pilier P0 prête. Brouillon canonique GPT.
