@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: Étudier les fondements cognitifs, sociaux et technologiques de la prochaine civilisation.
-core_question: Quels sont les systèmes qui
+core_question: Quels sont les systèmes
 related_projects:
   - youniverse
   - human-capital-systems
@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/next-civ.md
   source_hash: 0a8e5b908fafe1ee
   provider: deepl
-  translated_at: 2026-07-02T08:52:26.521Z
+  translated_at: 2026-08-02T08:18:45.465Z
 ---
 
 # Next Civ
@@ -53,8 +53,8 @@ Cela inclut la gouvernance, la coordination, la confiance, l’abondance, l’en
 - entreprise sociale et contribution
 - mémoire civilisationnelle
 ## Lien avec « Civilizational Awakening »
-« Civilizational Awakening » constitue une réflexion plus large.
-Next Civ est le volet de recherche et de conception de systèmes axé spécifiquement sur l’avenir de la civilisation.
+« Civilizational Awakening » constitue la réflexion plus large.
+Next Civ constitue le volet de recherche et de conception de systèmes spécifiquement axé sur l’avenir de la civilisation.
 ## Questions ouvertes
 - Qu’est-ce qui succédera à la rareté en tant que principe organisateur principal ?
 - À quoi ressemble la gouvernance à l’ère d’une coordination
@@ -63,4 +63,4 @@ médiée par l’IA ?
 - Quelles institutions sont nécessaires pour une ère d’abondance et de longévité ?
 - Comment les humains devraient-ils se comporter vis-à-vis des autres espèces et formes d’intelligence ?
 ## État d’avancement
-Page du projet P0 prête. Ébauche canonique GPT.
+Page du projet P0 prête. Brouillon canonique GPT.

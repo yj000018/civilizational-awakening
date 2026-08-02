@@ -28,7 +28,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/spirit-soul.md
   source_hash: d6792ead8b01937a
   provider: deepl
-  translated_at: 2026-07-02T08:52:19.931Z
+  translated_at: 2026-08-02T08:18:39.291Z
 ---
 
 # Esprit / Âme
@@ -37,7 +37,7 @@ Qui sommes-nous ?
 ## Thèse
 La question la plus profonde soulevée par l’ère de l’IA ne se limite pas à ce que les machines sont capables de faire. Elle porte sur ce qui reste, de manière unique, mystérieuse et irréductible, propre à l’humain.
 L’esprit / l’âme est le pilier qui sous-tend les questions de conscience, de sens, de présence, d’éveil et d’identité. Il
-interroge sur ce qui se passe lorsque l’intelligence devient abondante et que l’humanité est invitée à redécouvrir les dimensions intérieures de l’être.
+s’interroge sur ce qui se passe lorsque l’intelligence devient omniprésente et que l’humanité est invitée à redécouvrir les dimensions intérieures de l’être.
 ## Pourquoi est-ce important ?
 Une civilisation façonnée uniquement par l’optimisation, l’automatisation et l’intelligence externe risque d’oublier la vie intérieure.
 Le pilier « Esprit / Âme » protège la réflexion la plus profonde : les êtres humains ne sont pas seulement des travailleurs, des utilisateurs, des consommateurs, des points de données ou des machines biologiques. Ils sont des centres de conscience, de sens, de relation et de transformation.
@@ -52,7 +52,7 @@ ience
 - identité
 - évolution spirituelle
 - transformation intérieure
-## Projets connexes
+## Projets associés
 - **Mirror Mirror** — réflexion, identité et connaissance de soi à travers l’IA.
 - **Archétypes** — structures symboliques universelles de la conscience humaine.
 ## Penseurs associés

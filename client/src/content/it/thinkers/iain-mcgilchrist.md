@@ -2,7 +2,7 @@
 title: Iain McGilchrist
 slug: iain-mcgilchrist
 type: thinker
-summary: Psichiatra e filosofo secondo cui il cervello diviso ha plasmato il rapporto patologico della civiltà occidentale con la realtà.
+summary: Psichiatra e filosofo secondo il quale il cervello diviso ha determinato il rapporto patologico della civiltà occidentale con la realtà.
 lineage_category: consciousness-neuroscience
 status: ready
 visibility: public
@@ -31,16 +31,16 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/iain-mcgilchrist.md
   source_hash: e1fd2f34d8aef5b9
   provider: deepl
-  translated_at: 2026-07-02T08:53:07.435Z
+  translated_at: 2026-08-02T08:19:28.844Z
 ---
 
 # Iain McGilchrist
 
 ## Perché è importante
-La tesi centrale di McGilchrist è che l’emisfero sinistro del cervello — che è analitico, riduttivo e orientato al controllo — abbia finito per dominare la civiltà occidentale, sopprimendo la capacità dell’emisfero destro di cogliere la totalità, il contesto e la presenza. Il risultato è una civiltà che eccelle nella manipolazione ma fatica a dare un senso alle cose.
+La tesi centrale di McGilchrist è che l’emisfero sinistro del cervello — analitico, riduttivo e orientato al controllo — abbia finito per dominare la civiltà occidentale, sopprimendo la capacità dell’emisfero destro di cogliere la totalità, il contesto e la presenza. Il risultato è una civiltà che eccelle nella manipolazione ma fatica a dare un senso alle cose.
 
 ## Collegamento con questa indagine
-La diagnosi di McGilchrist sul predominio dell’emisfero sinistro è uno dei quadri interpretativi più importanti per comprendere perché la civiltà abbia bisogno di un risveglio. Il suo lavoro influenza direttamente i pilastri Spirito/Anima e Mente, nonché la questione relativa al tipo di intelligenza che l’IA dovrebbe amplificare.
+La diagnosi di McGilchrist sul predominio dell’emisfero sinistro è uno dei quadri di riferimento più importanti per comprendere perché la civiltà abbia bisogno di un risveglio. Il suo lavoro influenza direttamente i pilastri Spirito/Anima e Mente, nonché la questione relativa al tipo di intelligenza che l’IA dovrebbe amplificare.
 
 ## Idee chiave
 - **Cervello diviso**: I due emisferi cerebrali hanno modi fondamentalmente diversi di rapportarsi al mondo.

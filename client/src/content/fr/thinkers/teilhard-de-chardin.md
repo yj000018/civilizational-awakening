@@ -30,13 +30,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/teilhard-de-chardin.md
   source_hash: 56df5e2c9de8a961
   provider: deepl
-  translated_at: 2026-07-02T08:52:39.288Z
+  translated_at: 2026-08-02T08:18:58.404Z
 ---
 
 # Pierre Teilhard de Chardin
 
 ## Pourquoi est-il important ?
-Teilhard ne considérait pas l’évolution comme un processus mécanique aveugle, mais comme un déroulement directionnel vers une plus grande complexité et une conscience accrue. Son concept de « noosphère » — la couche pensante de la Terre — a anticipé Internet, l’intelligence collective et l’émergence d’un esprit planétaire.
+Teilhard ne considérait pas l’évolution comme un processus mécanique aveugle, mais comme un déploiement directionnel vers une plus grande complexité et une conscience accrue. Son concept de « noosphère » — la couche pensante de la Terre — a anticipé Internet, l’intelligence collective et l’émergence d’un esprit planétaire.
 
 ## Lien avec cette réflexion
 La réflexion sur « l’Éveil de la civilisation » s’inscrit, à bien des égards, dans le prolongement de la question posée par Teilhard : qu’est-ce qui devient possible lorsque la conscience humaine prend une dimension planétaire ? Sa vision du Point Oméga — la convergence de toute l’intelligence et de tout l’amour humains — sert de guide à la dimension civilisationnelle de ce travail.

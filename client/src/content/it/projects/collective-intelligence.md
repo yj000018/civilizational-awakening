@@ -26,14 +26,14 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/collective-intelligence.md
   source_hash: 86f7594ef1f88337
   provider: deepl
-  translated_at: 2026-07-02T08:52:55.394Z
+  translated_at: 2026-08-02T08:19:15.531Z
 ---
 
 # Intelligenza collettiva
 ## Sintesi in una riga
 L’intelligenza collettiva esplora il modo in cui l’intelligenza si coordina su scala collettiva.
 ## Domanda centrale
-In che modo l’intelligenza umana e quella artificiale possono coordinarsi per arrivare a un’azione collettiva più saggia?
+In che modo l’intelligenza umana e quella artificiale possono coordinarsi per dare vita a un’azione collettiva più saggia?
 ## Tesi
 Il futuro non sarà plasmato solo dall’intelligenza individuale o dai singoli assistenti di IA. Sarà plasmato dal modo in cui persone, gruppi, istituzioni, reti e sistemi di IA pensano insieme.
 L’intelligenza collettiva si interroga su come la conoscenza, la fiducia, la memoria, la deliberazione, la previsione, il contributo e l’azione possano essere coordinati tra molte menti e
@@ -55,7 +55,7 @@ L’IA può amplificare la frammentazione oppure contribuire a costruire una mig
 - gruppi di ricerca assistiti dall’IA
 - protocolli decisionali e d’azione
 ## Relazione con Next Civ
-Next Civ si chiede quali sistemi su scala di civiltà siano necessari per il futuro.
+Next Civ si interroga su quali sistemi su scala di civiltà siano necessari per il futuro.
 L’intelligenza collettiva è una delle sue capacità fondamentali: la capacità dei gruppi e delle società di percepire, pensare, decidere e agire insieme con maggiore saggezza.
 ## Principio di progettazione
 L’intelligenza collettiva non è solo aggregazione.

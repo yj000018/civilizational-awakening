@@ -24,13 +24,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/youniverse.md
   source_hash: 48db6ce256a36df0
   provider: deepl
-  translated_at: 2026-07-02T08:53:01.959Z
+  translated_at: 2026-08-02T08:19:22.622Z
 ---
 
 # YOUniverse
 ## Posizionamento in una riga
 YOUniverse è un sistema operativo per il potenziale umano.
-## Domanda centrale
+## Domanda fondamentale
 Come può ogni persona possedere, gestire, sviluppare e condividere le proprie conoscenze, i propri dati, il proprio contributo e il proprio potenziale umano nell’era dell’intelligenza artificiale?
 ## Tesi
 La prossima fase della vita digitale non dovrebbe essere organizzata solo attorno a piattaforme, feed, app e istituzioni. Dovrebbe essere organizzata attorno all’essere umano come centro sovrano delle proprie conoscenze, memoria, dati, relazioni, idee, capacità e contributi.
@@ -69,16 +69,16 @@ YOUniverse punta verso una rete di reti in cui le persone possano:
 - e alimentare i sistemi di IA con un contesto di loro proprietà.
 ## Argomenti correlati
 - Sistemi di capitale umano
-- Mercati futuri del potenziale umano e sistemi di credenze
+- Futuri mercati del potenziale umano e sistemi di credenze
 - Indice di creazione di valore futuro
 - ONEshift e Attore del cambiamento
 - Y-OS e Memory OS
 - Risveglio della civiltà
 ## Domande aperte
-- Cosa significa «dati personali controllati dall’utente» nell’era dell’IA?
+- Cosa significa “dati personali controllati dall’utente” nell’era dell’IA?
 - In che modo 
 il potenziale umano può diventare visibile senza essere riduttivo?
 - Come si possono rappresentare il contributo, la fiducia e il valore futuro senza creare un sistema di punteggio distopico?
-- In che modo l’IA può aiutare le persone a diventare più se stesse piuttosto che più ottimizzate?
+- In che modo l’IA può aiutare le persone a diventare più se stesse anziché più ottimizzate?
 ## Stato attuale
 Pagina del progetto P0 pronta. QA su GPT completato dopo la revisione di Claude.

@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/visual-reality.md
   source_hash: 50fa549dcc637eb5
   provider: deepl
-  translated_at: 2026-07-02T08:53:00.311Z
+  translated_at: 2026-08-02T08:19:20.867Z
 ---
 
 # Realtà visiva
@@ -39,12 +39,12 @@ La Realtà Visiva tutela la dimensione contemplativa dell’opera nel suo insiem
 ## Mezzi espressivi
 - fotografia astratta
 - saggi visivi contemplativi
-- abbinamenti poetici di immagine e testo
+- abbinamenti poetici di immagini e testi
 - riflessione spirituale attraverso la bellezza
 - studi visivi sulla realtà, la forma e la percezione
 ## Relazione con il pilastro “Cuore”
 “Visual Reality” appartiene al pilastro “Cuore” perché apre la percezione attraverso 
-la bellezza piuttosto che l’argomentazione.
+la bellezza piuttosto che attraverso l’argomentazione.
 Non cerca innanzitutto di spiegare il mondo. Invita lo spettatore a vedere in modo diverso.
 ## Domande aperte
 - Cosa rende un’immagine contemplativa anziché meramente decorativa?

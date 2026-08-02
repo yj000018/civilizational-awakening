@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/civilizational-awakening.md
   source_hash: a070532924f87f9c
   provider: deepl
-  translated_at: 2026-07-02T08:52:06.556Z
+  translated_at: 2026-08-02T08:18:25.293Z
 ---
 
 # L'éveil civilisationnel
@@ -42,8 +42,8 @@ Que signifie
 ## Thèse
 L’intelligence artificielle n’est pas seulement un événement technologique. C’est un miroir de la civilisation.
 Elle oblige l’humanité à se poser des questions plus profondes : qui sommes-nous, quelles sont nos valeurs, comment nous coordonnons-nous, comment nous souvenons-nous, comment agissons-nous, et quel type de civilisation devient possible lorsque la rareté n’est plus le seul principe organisateur ?
-« Civilizational Awak
-ening » est le nom donné à cette réflexion. Elle relie la conscience, la cognition, l’action et la civilisation en une seule carte de travail navigable.
+« Civilizational Awakening »
+est le nom donné à cette réflexion. Elle relie la conscience, la cognition, l’action et la civilisation en une seule carte de travail exploitable.
 ## De quoi s’agit-il ?
 Ce n’est pas une entreprise.
 Ce n’est pas un produit.
@@ -51,8 +51,8 @@ Ce n’est pas un mouvement.
 Ce n’est pas une religion.
 Ce n’est pas un groupe de réflexion.
 C’est une carte cohérente d’une œuvre de toute une vie : un champ de recherche, de création et de contribution explorant la prochaine phase du potentiel humain.
-## Les piliers
-Cette réflexion s’articule autour de cinq axes majeurs :
+## Piliers
+Cette réflexion s’articule autour de cinq niveaux majeurs :
 - **Esprit / Âme** — qui sommes-nous ?
 - **Cœur** — qu’est-ce qui ouvre
 et nourrit le cœur humain ?
@@ -61,7 +61,7 @@ et nourrit le cœur humain ?
 - **Civilisation** — comment les humains s’épanouissent-ils ensemble ?
 Un axe transversal — **Réseau / Transmission** — relie les idées, les personnes, les œuvres, les livres, les communautés et les projets.
 ## Pourquoi est-ce important ?
-L’ère de l’IA risque de se transformer soit en une course à la productivité, soit en une panique existentielle. Ces deux visions passent à côté de l’opportunité la plus profonde.
+L’ère de l’IA risque de se transformer soit en une course à la productivité, soit en une panique existentielle. Ces deux visions passent à côté de l’opportunité plus profonde qui s’offre à nous.
 La question plus profonde est de savoir comment l’intelligence peut 
 aider l’humanité à se souvenir d’elle-même : mieux se coordonner, créer de la beauté, servir la vie, développer la conscience et construire des systèmes à la hauteur du potentiel humain.
 L’Éveil civilisationnel s’inscrit dans ce cadre plus large.

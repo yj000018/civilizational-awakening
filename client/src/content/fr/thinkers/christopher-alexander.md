@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/christopher-alexander.md
   source_hash: 7ef9a3d025665de0
   provider: deepl
-  translated_at: 2026-07-02T08:52:32.295Z
+  translated_at: 2026-08-02T08:18:51.371Z
 ---
 
 # Christopher Alexander
@@ -39,7 +39,7 @@ translation:
 Alexander a consacré sa carrière à se demander pourquoi certains bâtiments et certaines villes semblent vivants, tandis que d’autres paraissent morts. Sa réponse — selon laquelle une structure vivante émerge de motifs géométriques et relationnels spécifiques — a conduit au développement des « langages de motifs », qui ont par la suite influencé l’architecture logicielle et la conception de systèmes complexes.
 
 ## Lien avec cette réflexion
-L’insistance d’Alexander sur le fait que la conception doit servir l’intégrité humaine — et non l’efficacité, l’esthétique ou l’idéologie — est à l’origine directe de la couche « civilisation » de cette réflexion. Sa méthodologie du langage des modèles constitue un modèle pour concevoir des infrastructures civilisationnelles qui favorisent l’épanouissement humain.
+L’insistance d’Alexander sur le fait que la conception doit servir l’intégrité humaine — et non l’efficacité, ni l’esthétique, ni l’idéologie — est à l’origine directe de la couche « civilisation » de cette réflexion. Sa méthodologie du « langage des motifs » constitue un modèle pour concevoir des infrastructures civilisationnelles qui favorisent l’épanouissement humain.
 
 ## Idées clés
 - **Langage des modèles** : un vocabulaire structuré de modèles de conception pouvant être combinés pour créer des environnements vivants.

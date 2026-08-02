@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: "Qui êtes-vous en tant qu'acteur du changement ?"
-core_question: Comment une personne peut-elle comprendre et exprimer sa contribution unique à la transformation ?
+core_question: Comment chacun peut-il comprendre et exprimer sa contribution unique à la transformation ?
 related_projects:
   - oneshift
   - youniverse
@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/actor-of-change.md
   source_hash: a2bf491e93f5e7ec
   provider: deepl
-  translated_at: 2026-07-02T08:52:20.796Z
+  translated_at: 2026-08-02T08:18:40.227Z
 ---
 
 # Acteur du changement
@@ -57,4 +57,4 @@ Il doit aider les personnes à agir avec plus de clarté et de cohérence, tout 
 - Comment l’IA peut-elle aider les individus à découvrir une action cohérente ?
 - Comment la transformation personnelle se transforme-t-elle en contribution collective ?
 ## État d’avancement
-Page du projet P0 prête. Brouillon canonique GPT.
+Page du projet P0 prête. Ébauche canonique GPT.

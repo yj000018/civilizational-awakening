@@ -33,7 +33,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-07-02T08:52:50.943Z
+  translated_at: 2026-08-02T08:19:11.023Z
 ---
 
 # Mind
@@ -76,7 +76,7 @@ We need a better capture → consolidation → context pipeline.
 ## Domande aperte
 - Qual è il sistema operativo cognitivo minimo funzionante?
 - Come dovrebbe essere acquisita, convalidata e integrata la memoria negli agenti?
-- Come dovrebbero essere indirizzati i compiti tra modelli e strumenti?
+- Come dovrebbero essere instradati i compiti tra modelli e strumenti?
 - In che modo l’IA può aumentare l’autonomia umana anziché la dipendenza?
 ## Stato attuale
 Pagina pilastro P0 pronta. Bozza canonica GPT.

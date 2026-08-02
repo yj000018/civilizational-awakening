@@ -2,7 +2,7 @@
 title: Gestione del ciclo di vita della memoria
 slug: memory-lifecycle-management
 type: concept
-summary: Il processo di trasformazione delle informazioni raccolte allo stato grezzo in conoscenze canoniche convalidate e nel contesto di esecuzione.
+summary: Il processo di trasformazione delle informazioni raccolte allo stato grezzo in conoscenze canoniche convalidate e in contesto di esecuzione.
 pillar: mind
 status: ready
 visibility: public
@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/memory-lifecycle-management.md
   source_hash: bb6dd9a53e711646
   provider: deepl
-  translated_at: 2026-07-02T08:52:41.039Z
+  translated_at: 2026-08-02T08:19:00.059Z
 ---
 
 # Gestione del ciclo di vita della memoria
@@ -37,7 +37,7 @@ La gestione del ciclo di vita della memoria è la disciplina che trasforma l’e
 In che modo un ricordo passa dall’acquisizione grezza a una conoscenza affidabile e a un contesto utilizzabile?
 ## Tesi
 La memoria dell’IA non dovrebbe essere trattata come un insieme di embedding.
-Un sistema di memoria utile necessita di fasi del ciclo di vita. Deve distinguere tra esperienza grezza, segnale estratto, conoscenza potenziale, verità convalidata, memoria canonica e materiale obsoleto o superato.
+Un sistema di memoria utile necessita di fasi del ciclo di vita. Deve distinguere tra esperienza grezza, segnale estratto, conoscenza candidata, verità convalidata, memoria canonica e materiale obsoleto o superato.
 Il ciclo di vita è:
 ```plain text
 raw
@@ -76,7 +76,7 @@ Esempi:
 ### Memoria procedurale
 Regole e processi.
 Esempi:
-- suggerimenti
+- prompt
 - regole di instradamento
 - flussi di lavoro
 - competenze
@@ -91,7 +91,7 @@ Una memoria che potrebbe essere utile ma non è ancora stata convalidata.
 ### Convalidata
 Una memoria che è stata rivista, corretta e accettata.
 ### Canonica
-Un nodo di conoscenza duraturo che entra a far parte del grafo della memoria affidabile.
+Un nodo di conoscenza duraturo che entra a far parte del grafico della memoria attendibile.
 ### Sostituita / archiviata
 Memoria obsoleta, contraddetta o non più attiva, conservata a fini storici ma rimossa dal contesto operativo attivo.
 ## Relazione con Y-OS
@@ -123,4 +123,4 @@ Una buona gestione della memoria consente a Y-OS di compilare pacchetti di conte
 - Come impediamo che i ricordi obsoleti contaminino il contesto attuale?
 - Come dovrebbero essere versionati e verificati i ricordi?
 ## Stato attuale
-Concetto P0 pronto. QA su GPT completato dopo la revisione di Claude.
+Concetto P0 pronto. QA di GPT completato dopo la revisione di Claude.

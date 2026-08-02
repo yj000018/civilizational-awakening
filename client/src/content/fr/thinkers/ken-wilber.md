@@ -31,16 +31,16 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/ken-wilber.md
   source_hash: 9178a6a041d2d472
   provider: deepl
-  translated_at: 2026-07-02T08:52:36.171Z
+  translated_at: 2026-08-02T08:18:55.178Z
 ---
 
 # Ken Wilber
 
 ## Pourquoi il est important
-Wilber a élaboré la cartographie la plus complète de la conscience et du développement humains disponible dans la philosophie contemporaine. Sa théorie intégrale synthétise les traditions de sagesse orientales et occidentales, la psychologie du développement, la théorie des systèmes et la pratique contemplative au sein d’un cadre unique et facile à appréhender.
+Wilber a élaboré la cartographie la plus complète de la conscience et du développement humains disponible dans la philosophie contemporaine. Sa « théorie intégrale » synthétise les traditions de sagesse orientales et occidentales, la psychologie du développement, la théorie des systèmes et la pratique contemplative au sein d’un cadre unique et facile à appréhender.
 
 ## Lien avec cette réflexion
-La recherche sur l’Éveil civilisationnel s’appuie sur l’insistance de Wilber selon laquelle toute carte adéquate du potentiel humain doit inclure des dimensions intérieures — et pas seulement le comportement extérieur ou les structures sociales. Les cinq piliers de cette recherche (Esprit/Âme, Cœur, Esprit, Corps/Action, Civilisation) reflètent une structure intégrale.
+La recherche sur l’Éveil civilisationnel s’appuie sur l’insistance de Wilber sur le fait que toute carte adéquate du potentiel humain doit inclure des dimensions intérieures — et pas seulement le comportement extérieur ou les structures sociales. Les cinq piliers de cette recherche (Esprit/Âme, Cœur, Esprit, Corps/Action, Civilisation) reflètent une structure intégrale.
 
 ## Idées clés
 - **AQAL** : Tous les quadrants, tous les niveaux — les quatre dimensions fondamentales de tout phénomène : intérieur/extérieur × individuel/collectif.

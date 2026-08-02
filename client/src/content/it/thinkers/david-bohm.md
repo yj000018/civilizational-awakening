@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/david-bohm.md
   source_hash: 59adb9c432e20be1
   provider: deepl
-  translated_at: 2026-07-02T08:53:05.213Z
+  translated_at: 2026-08-02T08:19:26.066Z
 ---
 
 # David Bohm

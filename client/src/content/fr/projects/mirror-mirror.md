@@ -2,7 +2,7 @@
 title: Miroir, miroir
 slug: mirror-mirror
 type: project
-summary: "Un miroir assisté par IA, au service de la réflexion, de l'identité et de la connaissance de soi."
+summary: "Un miroir assisté par IA, dédié à la réflexion, à l'identité et à la connaissance de soi."
 pillar: spirit-soul
 status: ready
 visibility: public
@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/mirror-mirror.md
   source_hash: cc60e4c7fc89caff
   provider: deepl
-  translated_at: 2026-07-02T08:52:25.718Z
+  translated_at: 2026-08-02T08:18:44.589Z
 ---
 
 # Mirror Mirror
@@ -38,11 +38,11 @@ Le projet explore comment l’intelligence conversationnelle, la mémoire, l’i
 Le risque réside dans la manipulation, la
 dépendance ou l’appauvrissement de l’identité. L’opportunité réside dans un nouveau type d’outil de réflexion : un outil qui aide les individus à devenir plus conscients, plus honnêtes et plus épanouis.
 ## Lien avec l’Esprit / l’Âme
-Mirror Mirror appartient au pilier Esprit / Âme car il aborde la question de l’identité et de la conscience.
+« Mirror Mirror » appartient au pilier Esprit / Âme car il aborde la question de l’identité et de la conscience.
 Il considère l’IA non seulement comme un outil externe, mais aussi comme une surface de réflexion pour le développement intérieur.
 ## Orientations possibles
 - conversations d’introspection
-- cartes d’identité
+- cartes identitaires
 - miroirs archétypaux
 - 
 réflexion sur les schémas de vie

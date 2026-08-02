@@ -31,16 +31,16 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/iain-mcgilchrist.md
   source_hash: e1fd2f34d8aef5b9
   provider: deepl
-  translated_at: 2026-07-02T08:52:35.370Z
+  translated_at: 2026-08-02T08:18:54.391Z
 ---
 
 # Iain McGilchrist
 
 ## Pourquoi il est important
-L’argument central de McGilchrist est que l’hémisphère gauche du cerveau — analytique, réducteur et axé sur le contrôle — en est venu à dominer la civilisation occidentale, étouffant ainsi la capacité de l’hémisphère droit à appréhender la globalité, le contexte et la présence. Il en résulte une civilisation qui excelle dans la manipulation mais peine à donner du sens.
+L’argument central de McGilchrist est que l’hémisphère gauche du cerveau — qui est analytique, réducteur et axé sur le contrôle — en est venu à dominer la civilisation occidentale, étouffant ainsi la capacité de l’hémisphère droit à appréhender la globalité, le contexte et la présence. Il en résulte une civilisation qui excelle dans la manipulation mais peine à donner du sens aux choses.
 
 ## Lien avec cette réflexion
-Le diagnostic de McGilchrist concernant la domination de l’hémisphère gauche constitue l’un des cadres les plus importants pour comprendre pourquoi la civilisation a besoin d’un éveil. Ses travaux éclairent directement les piliers « Esprit/Âme » et « Esprit », ainsi que la question de savoir quel type d’intelligence l’IA devrait amplifier.
+Le diagnostic de McGilchrist concernant la domination de l’hémisphère gauche constitue l’un des cadres d’analyse les plus importants pour comprendre pourquoi la civilisation a besoin d’un éveil. Ses travaux éclairent directement les piliers « Esprit/Âme » et « Esprit », ainsi que la question de savoir quel type d’intelligence l’IA devrait amplifier.
 
 ## Idées clés
 - **Cerveau divisé** : Les deux hémisphères du cerveau ont des façons fondamentalement différentes d’appréhender le monde.
@@ -58,6 +58,6 @@ Y-OS, Archétypes
 - Peut-on concevoir une IA capable d’amplifier les capacités de l’hémisphère droit ?
 - À quoi ressemblerait l’éducation si elle cultivait l’intelligence de l’ensemble du cerveau ?
 
-## Ouvrages suggérés
+## Ouvrages recommandés
 - *Le Maître et son émissaire*
 - *La question des choses*

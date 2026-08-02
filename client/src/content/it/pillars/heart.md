@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/heart.md
   source_hash: 892d8981433e3733
   provider: deepl
-  translated_at: 2026-07-02T08:52:50.183Z
+  translated_at: 2026-08-02T08:19:10.210Z
 ---
 
 # Cuore
@@ -39,7 +39,7 @@ Cosa apre e nutre il cuore umano?
 Il futuro non dovrebbe essere progettato solo attraverso l’intelligenza, l’efficienza e il coordinamento. Deve essere plasmato anche dalla bellezza, dalla tenerezza, dallo stupore e dall’amore.
 Il pilastro del Cuore tutela la dimensione non ottimizzata del lavoro: l’arte, la poesia, la contemplazione, l’affetto, l’innocenza, la compassione e l’esperienza sensoriale dell’essere vivi.
 ## Perché è importante
-L’intelligenza artificiale può accelerare la cognizione e l’automazione, ma non può dirci cosa meriti di essere venerato.
+L’intelligenza artificiale può accelerare la cognizione e l’automazione, ma non può dirci cosa meriti riverenza.
 Una civiltà che dimentica la bellezza diventa efficiente ma vuota. Il pilastro del Cuore si interroga su come la tecnologia, l’arte e la vita umana possano rimanere connesse alla presenza, alla cura e alla sacralità senza diventare sentimentali o religiose.
 ## Temi chiave
 - bellezza

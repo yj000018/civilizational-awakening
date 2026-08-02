@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/albert-einstein.md
   source_hash: 90d2d319f128c107
   provider: deepl
-  translated_at: 2026-07-02T08:53:02.757Z
+  translated_at: 2026-08-02T08:19:23.465Z
 ---
 
 # Albert Einstein
@@ -38,12 +38,12 @@ translation:
 Il lavoro scientifico di Einstein ha trasformato la comprensione umana dello spazio, del tempo, della materia e dell’energia. Ma la sua filosofia umanistica — la sua insistenza sul fatto che gli scienziati abbiano una responsabilità morale per le conseguenze delle loro scoperte, la sua difesa di un governo mondiale, la sua convinzione che l’immaginazione sia più importante della conoscenza — è altrettanto rilevante per questa indagine.
 
 ## Collegamento con questa indagine
-L’affermazione di Einstein secondo cui «non possiamo risolvere i nostri problemi con lo stesso modo di pensare che abbiamo usato per crearli» è uno dei principi fondanti dell’indagine sul Risveglio Civiltà. La sua combinazione di rigoroso pensiero scientifico e profonda sensibilità umanistica è un modello su come affrontare l’era dell’intelligenza artificiale.
+L’affermazione di Einstein secondo cui «non possiamo risolvere i nostri problemi con lo stesso modo di pensare che abbiamo usato quando li abbiamo creati» è uno dei principi fondanti dell’indagine sul Risveglio Civiltà. La sua combinazione di rigoroso pensiero scientifico e profonda sensibilità umanistica è un modello su come affrontare l’era dell’intelligenza artificiale.
 
 ## Idee chiave
 - **Relatività**: lo spazio e il tempo non sono assoluti, ma relativi all’osservatore.
 - **L’immaginazione prima della conoscenza**: «L’immaginazione è più importante della conoscenza. La conoscenza è limitata. L’immaginazione abbraccia il mondo».
-- **Responsabilità morale**: Gli scienziati e i tecnologi hanno la responsabilità dell’uso che viene fatto delle loro scoperte.
+- **Responsabilità morale**: Gli scienziati e i tecnologi hanno la responsabilità di come vengono utilizzate le loro scoperte.
 - **Governo mondiale**: Einstein sosteneva una governance sovranazionale per prevenire la guerra e gestire la tecnologia.
 
 ## Pilastri correlati

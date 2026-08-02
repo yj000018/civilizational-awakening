@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/teilhard-de-chardin.md
   source_hash: 56df5e2c9de8a961
   provider: deepl
-  translated_at: 2026-07-02T08:53:11.359Z
+  translated_at: 2026-08-02T08:19:32.763Z
 ---
 
 # Pierre Teilhard de Chardin

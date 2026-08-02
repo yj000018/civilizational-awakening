@@ -33,7 +33,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-07-02T08:52:18.298Z
+  translated_at: 2026-08-02T08:18:37.566Z
 ---
 
 # Mind
@@ -60,7 +60,7 @@ homme-machine
 - ingénierie du contexte
 - systèmes d’exploitation cognitifs
 ## Projets associés
-- **Y-OS** — système d’exploitation pour la cognition.
+- **Y-OS** — système d’exploitation dédié à la cognition.
 - **Memory OS** — système d’exploitation pour la gestion du cycle de vie de la mémoire.
 ## Principe fondamental
 ```plain text

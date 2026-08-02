@@ -2,7 +2,7 @@
 title: Stewart Brand
 slug: stewart-brand
 type: thinker
-summary: Giornalista, ambientalista e pensatore a lungo termine che ha studiato come le civiltà cambino su diverse scale temporali.
+summary: Giornalista, ambientalista e pensatore a lungo termine che ha studiato come le civiltà cambiano su diverse scale temporali.
 lineage_category: technology-civilization
 status: ready
 visibility: public
@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/stewart-brand.md
   source_hash: aaa2c79b4ccd76b5
   provider: deepl
-  translated_at: 2026-07-02T08:53:10.569Z
+  translated_at: 2026-08-02T08:19:32.020Z
 ---
 
 # Stewart Brand

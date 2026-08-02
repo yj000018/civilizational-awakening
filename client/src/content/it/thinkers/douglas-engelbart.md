@@ -29,13 +29,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/douglas-engelbart.md
   source_hash: 2c685f05bac2a530
   provider: deepl
-  translated_at: 2026-07-02T08:53:05.947Z
+  translated_at: 2026-08-02T08:19:26.792Z
 ---
 
 # Douglas Engelbart
 
 ## Perché è importante
-La “Mother of All Demos” di Engelbart del 1968 introdusse il mouse, l’ipertesto, le videoconferenze e la modifica collaborativa — decenni prima che diventassero di uso comune. La sua visione più profonda non riguardava la tecnologia, ma il potenziamento dell’intelletto umano: utilizzare i computer per aiutare le persone a pensare, coordinarsi e risolvere insieme problemi complessi.
+La “Mother of All Demos” di Engelbart del 1968 introdusse il mouse, l’ipertesto, la videoconferenza e la modifica collaborativa — decenni prima che diventassero di uso comune. La sua visione più profonda non riguardava la tecnologia, ma il potenziamento dell’intelletto umano: utilizzare i computer per aiutare le persone a pensare, coordinarsi e risolvere insieme problemi complessi.
 
 ## Collegamento con questa indagine
 Engelbart è il precursore diretto di Y-OS e Memory OS. La sua domanda — come potenziare l’intelletto umano? — è la domanda fondante del pilastro “Mente”. Il suo concetto di “bootstrapping” (utilizzare il sistema per migliorare il sistema stesso) è un principio fondamentale di Y-OS.
@@ -43,8 +43,8 @@ Engelbart è il precursore diretto di Y-OS e Memory OS. La sua domanda — come 
 ## Idee chiave
 - **Potenziare l’intelletto umano**: la tecnologia dovrebbe amplificare la capacità cognitiva umana, non sostituirla.
 - **Bootstrapping**: utilizzare strumenti migliorati per migliorare gli strumenti stessi.
-- **QI collettivo**: l’intelligenza di un gruppo può essere potenziata in modo sistematico.
-- **NLS/Augment**: il suo pionieristico sistema di conoscenza collaborativa, in anticipo di decenni sui tempi.
+- **QI collettivo**: l’intelligenza di un gruppo può essere potenziata sistematicamente.
+- **NLS/Augment**: il suo pionieristico sistema di conoscenza collaborativo, in anticipo di decenni sui tempi.
 
 ## Pilastri correlati
 Mente
@@ -54,7 +54,7 @@ Y-OS, Memory OS
 
 ## Domande aperte
 - Come sarebbe l’Augment di Engelbart se fosse realizzato con l’IA moderna?
-- Come misuriamo e miglioriamo il QI collettivo su scala civile?
+- Come possiamo misurare e migliorare il QI collettivo su scala civile?
 
 ## Opere consigliate
 - *Augmenting Human Intellect: A Conceptual Framework* (1962)

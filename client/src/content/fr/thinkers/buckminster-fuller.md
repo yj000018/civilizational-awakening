@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/buckminster-fuller.md
   source_hash: e8ff706eeb363999
   provider: deepl
-  translated_at: 2026-07-02T08:52:31.521Z
+  translated_at: 2026-08-02T08:18:50.592Z
 ---
 
 # Buckminster Fuller
@@ -42,7 +42,7 @@ Fuller est un précurseur direct de la réflexion sur l’Éveil civilisationnel
 
 ## Idées clés
 - **Science de la conception** : discipline consistant à appliquer la rigueur scientifique à la conception des systèmes humains.
-- **World Game** : cadre de simulation visant à résoudre la question de l’allocation mondiale des ressources.
+- **World Game** : cadre de simulation visant à résoudre la question de l’allocation des ressources mondiales.
 - **Faire plus avec moins** : l’éphémérisation — la technologie nous permet de faire toujours plus avec toujours moins de matière.
 - **Synergetique** : la géométrie de la pensée et le comportement des systèmes dans leur ensemble.
 

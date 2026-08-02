@@ -31,7 +31,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/gregory-bateson.md
   source_hash: e81e986c4fd5eaaa
   provider: deepl
-  translated_at: 2026-07-02T08:53:06.666Z
+  translated_at: 2026-08-02T08:19:27.557Z
 ---
 
 # Gregory Bateson
@@ -44,7 +44,7 @@ L’«ecologia della mente» di Bateson — l’idea che i processi mentali sian
 
 ## Idee chiave
 - **Il modello che collega**: Esiste un meta-modello che collega tutti gli esseri viventi.
-- **Ecologia della mente**: La mente non si trova nella testa, ma è distribuita tra sistemi e relazioni.
+- **Ecologia della mente**: La mente non si trova nella testa, ma è distribuita attraverso sistemi e relazioni.
 - **Doppio vincolo**: un modello comunicativo che crea contraddizioni irrisolvibili — rilevante per le disfunzioni organizzative e civili.
 - **Livelli di apprendimento**: l’apprendimento stesso può essere appreso; il meta-apprendimento è la forma più profonda di adattamento.
 

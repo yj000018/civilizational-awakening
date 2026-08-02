@@ -33,7 +33,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/civilization.md
   source_hash: faaca10a252a8f1e
   provider: deepl
-  translated_at: 2026-07-02T08:52:16.343Z
+  translated_at: 2026-08-02T08:18:35.510Z
 ---
 
 # Civilisation
@@ -44,7 +44,7 @@ L’ère de l’IA soulève des questions civilisationnelles : coordination, gou
 potentiel humain et relations entre les êtres humains, la technologie et la vie.
 Le pilier « Civilisation » s’interroge sur la manière dont l’humanité peut concevoir des systèmes qui aident les individus et les sociétés à s’épanouir ensemble, plutôt que de se contenter d’optimiser l’exploitation, la concurrence ou le contrôle.
 ## Pourquoi est-ce important ?
-L’IA peut accroître la productivité, mais la productivité à elle seule ne fait pas une civilisation.
+L’IA peut accroître la productivité, mais la productivité à elle seule ne suffit pas à faire une civilisation.
 Une civilisation épanouie a besoin de sens, de coordination, de légitimité, de bienveillance, de beauté, de gouvernance, de mémoire et d’une orientation commune. Elle a besoin de systèmes qui rendent le
 potentiel humain visible et favorisent la contribution sans réduire les individus à des scores ou à des catégories.
 ## Thèmes clés

@@ -21,12 +21,12 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/actor-of-change.md
   source_hash: a2bf491e93f5e7ec
   provider: deepl
-  translated_at: 2026-07-02T08:52:53.780Z
+  translated_at: 2026-08-02T08:19:13.567Z
 ---
 
 # Attore del cambiamento
 ## Posizionamento in una riga
-Attore del cambiamento chiede: chi sei come agente di un cambiamento significativo?
+"Attore del cambiamento" chiede: chi sei come agente di un cambiamento significativo?
 ## Domanda centrale
 In che modo una persona può comprendere ed esprimere il proprio contributo unico alla trasformazione?
 ## Tesi
@@ -34,9 +34,9 @@ Le persone contribuiscono al cambiamento in modi diversi. Alcuni costruiscono si
 Attore del cambiamento è un quadro di riferimento per mappare queste modalità di contributo senza ridurre le persone a tipi di personalità o ruoli di produttività.
 ## Perché è importante
 In un’epoca di trasformazione sempre più rapida, le persone hanno bisogno di qualcosa di più di un semplice lavoro e di un’identità. Hanno bisogno di modi per comprendere la propria capacità di agire, i propri valori, i propri doni, le proprie responsabilità e il proprio possibile contributo.
-“Attore del cambiamento” sostiene il passaggio dalla comprensione di sé all’azione significativa.
+“Attore del cambiamento” sostiene il passaggio dall’autocomprensione all’azione significativa.
 ## Relazione con ONEshift
-“Attore del cambiamento” è un modulo fondamentale all’interno del percorso ONEshift.
+“Attore del cambiamento” è un modulo fondamentale all’interno dell’orientamento ONEshift.
 Mentre ONEshift esplora il movimento più ampio dalla consapevolezza al contributo, Actor of Change si concentra sull’individuo: il suo orientamento, i suoi talenti, il suo ruolo, la sua maturità, il suo contesto e il suo percorso d’azione.
 ## Dimensioni possibili
 - valori

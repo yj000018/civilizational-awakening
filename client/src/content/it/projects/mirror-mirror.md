@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/mirror-mirror.md
   source_hash: cc60e4c7fc89caff
   provider: deepl
-  translated_at: 2026-07-02T08:52:57.939Z
+  translated_at: 2026-08-02T08:19:18.414Z
 ---
 
 # Mirror Mirror
@@ -42,7 +42,7 @@ Mirror Mirror appartiene al pilastro Spirito / Anima perché tocca la questione 
 Considera l’IA non solo come uno strumento esterno, ma come una superficie riflettente per lo sviluppo interiore.
 ## Possibili direzioni
 - conversazioni di autoriflessione
-- mappe dell’identità
+- mappe identitarie
 - specchi archetipici
 - 
 riflessione sui modelli di vita

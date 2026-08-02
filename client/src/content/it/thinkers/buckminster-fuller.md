@@ -29,21 +29,21 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/buckminster-fuller.md
   source_hash: e8ff706eeb363999
   provider: deepl
-  translated_at: 2026-07-02T08:53:03.486Z
+  translated_at: 2026-08-02T08:19:24.263Z
 ---
 
 # Buckminster Fuller
 
 ## Perché è importante
-Fuller riteneva che l’umanità disponesse già di risorse sufficienti per garantire un tenore di vita confortevole a ogni essere umano: il problema è la progettazione, non la scarsità. Il suo concetto di “World Game” poneva la seguente domanda: come possiamo far funzionare il mondo a beneficio del 100% dell’umanità?
+Fuller riteneva che l’umanità disponga già di risorse sufficienti per garantire un tenore di vita dignitoso a ogni essere umano: il problema è la progettazione, non la scarsità. Il suo concetto di “World Game” poneva la seguente domanda: come possiamo far funzionare il mondo a beneficio del 100% dell’umanità?
 
 ## Collegamento con questa indagine
 Fuller è un precursore diretto dell’indagine sul Risveglio Civiltà. La sua convinzione che la civiltà sia un problema di progettazione — e non solo un problema politico o morale — definisce il modo in cui questo lavoro affronta Next Civ, YOUniverse e Human Capital Systems.
 
 ## Idee chiave
-- **Scienza del design**: la disciplina che applica il rigore scientifico alla progettazione dei sistemi umani.
+- **Scienza del Design**: la disciplina che applica il rigore scientifico alla progettazione dei sistemi umani.
 - **World Game**: un quadro di simulazione per risolvere l’allocazione globale delle risorse.
-- **Fare di più con meno**: effimeralizzazione — la tecnologia ci permette di fare sempre di più con sempre meno materiale.
+- **Fare di più con meno**: l’effimeralizzazione — la tecnologia ci permette di fare sempre di più con sempre meno materiale.
 - **Sinergetica**: la geometria del pensiero e il comportamento dei sistemi nel loro insieme.
 
 ## Pilastri correlati

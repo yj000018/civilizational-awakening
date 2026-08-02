@@ -29,12 +29,12 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/stewart-brand.md
   source_hash: aaa2c79b4ccd76b5
   provider: deepl
-  translated_at: 2026-07-02T08:52:38.474Z
+  translated_at: 2026-08-02T08:18:57.559Z
 ---
 
 # Stewart Brand
 
-## Pourquoi est-il important ?
+## Pourquoi il est important
 Le concept de « couches de rythme » développé par Brand — l’idée selon laquelle la civilisation évolue à des vitesses différentes selon les domaines (mode, commerce, infrastructures, gouvernance, culture et nature) — constitue l’un des cadres de réflexion les plus utiles pour appréhender les changements civilisationnels. Son *Whole Earth Catalog* a démocratisé l’accès aux outils et aux idées plusieurs décennies avant l’arrivée d’Internet.
 
 ## Lien avec cette réflexion

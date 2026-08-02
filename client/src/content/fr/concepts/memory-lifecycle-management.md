@@ -27,17 +27,17 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/memory-lifecycle-management.md
   source_hash: bb6dd9a53e711646
   provider: deepl
-  translated_at: 2026-07-02T08:52:07.387Z
+  translated_at: 2026-08-02T08:18:26.247Z
 ---
 
 # Gestion du cycle de vie de la mémoire
 ## Positionnement en une ligne
-La gestion du cycle de vie de la mémoire est la discipline qui consiste à transformer une expérience brute en un contexte validé, exploitable et maîtrisé.
+La gestion du cycle de vie de la mémoire est la discipline qui consiste à transformer une expérience brute en un contexte validé, exploitable et régulé.
 ## Question centrale
 Comment une mémoire passe-t-elle d’une capture brute à une connaissance fiable et à un contexte exploitable ?
 ## Thèse
 La mémoire de l’IA ne doit pas être traitée comme un simple ensemble d’embeddings.
-Un système de mémoire utile nécessite des étapes de cycle de vie. Il doit faire la distinction entre l’expérience brute, le signal extrait, la connaissance candidate, la vérité validée, la mémoire canonique et le contenu obsolète ou remplacé.
+Un système de mémoire utile nécessite des étapes de cycle de vie. Il doit faire la distinction entre l’expérience brute, le signal extrait, la connaissance candidate, la vérité validée, la mémoire canonique et les éléments obsolètes ou remplacés.
 Le cycle de vie est le suivant :
 ```plain text
 raw
@@ -54,7 +54,7 @@ superseded / archived
 ```
 ## Le problème de la mémoire simpliste
 De nombreux produits de mémoire pour l’IA se concentrent sur la récupération : stocker des informations, les encoder, puis les rechercher ultérieurement.
-La récupération est utile, mais insuffisante. Sans gestion du cycle de vie, la mémoire devient bruyante, contradictoire et obsolète. Elle accumule tout sans savoir ce qui est vrai, ce qui est d’actualité, ce qui est privé, ce qui est obsolète ou ce qui devrait être injecté dans un agent.
+La récupération est utile, mais insuffisante. Sans gestion du cycle de vie, la mémoire devient bruyante, contradictoire et obsolète. Elle accumule tout sans savoir ce qui est vrai, ce qui est d’actualité, ce qui est privé, ce qui est obsolète, ni ce qui devrait être injecté dans un agent.
 ## Trois types de mémoire
 ### Mémoire épisodique
 Événements et sessions bruts.
@@ -104,7 +104,7 @@ Obsidian remembers.
 Git protects.
 Agents receive context packs.
 ```
-L’objectif n’est pas seulement de se souvenir de plus de choses. Il s’agit de mieux se souvenir.
+L’objectif n’est pas seulement de mémoriser davantage. Il s’agit de mieux mémoriser.
 ## Contexte d’exécution
 La finalité ultime de la mémoire n’est pas le stockage. C’est le contexte.
 Une bonne gestion de la mémoire permet à Y-OS de compiler des paquets de contexte pour les agents, les modèles et les systèmes :

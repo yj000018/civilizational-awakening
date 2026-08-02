@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/douglas-engelbart.md
   source_hash: 2c685f05bac2a530
   provider: deepl
-  translated_at: 2026-07-02T08:52:33.831Z
+  translated_at: 2026-08-02T08:18:52.891Z
 ---
 
 # Douglas Engelbart

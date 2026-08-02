@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/sri-aurobindo.md
   source_hash: 73b594a13142dab1
   provider: deepl
-  translated_at: 2026-07-02T08:53:09.787Z
+  translated_at: 2026-08-02T08:19:31.210Z
 ---
 
 # Sri Aurobindo
@@ -39,7 +39,7 @@ translation:
 Aurobindo ha sviluppato una delle visioni più complete dell’evoluzione spirituale umana nel XX secolo. Il suo yoga integrale non era un ritiro dal mondo, ma un impegno nei suoi confronti — volto a trasformare la materia, la vita e la mente in espressioni di una coscienza superiore.
 
 ## Collegamento con questa indagine
-La visione di Aurobindo di una coscienza supramentale — una modalità di conoscenza che trascende i limiti della mente razionale — è una stella polare per il pilastro Spirito/Anima. La sua insistenza sul fatto che l’evoluzione spirituale debba essere collettiva, non solo individuale, si ricollega al livello della civiltà.
+La visione di Aurobindo di una coscienza supramentale — una modalità di conoscenza che trascende i limiti della mente razionale — è una stella polare per il pilastro Spirito/Anima. La sua insistenza sul fatto che l’evoluzione spirituale debba essere collettiva, non solo individuale, si collega al livello della civiltà.
 
 ## Idee chiave
 - **Coscienza supramentale**: una modalità di coscienza al di là della mente razionale che percepisce direttamente la verità.

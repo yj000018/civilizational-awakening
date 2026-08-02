@@ -25,14 +25,14 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/operating-system-for-cognition.md
   source_hash: 01cfe6ebed98b236
   provider: deepl
-  translated_at: 2026-07-02T08:52:08.367Z
+  translated_at: 2026-08-02T08:18:27.366Z
 ---
 
 # Système d’exploitation pour la cognition
 ## Présentation en une ligne
 Un système d’exploitation pour la cognition est une couche de coordination de la pensée humaine à l’ère de l’IA.
 ## Question centrale
-De quelle infrastructure une personne a-t-elle besoin pour penser, se souvenir, décider, agir et créer à travers de nombreux systèmes d’IA — sans perdre la continuité ?
+De quelle infrastructure une personne a-t-elle besoin pour penser, se souvenir, décider, agir et créer à travers de nombreux systèmes d’IA — sans perdre en continuité ?
 ## Thèse
 L’IA donne aux individus accès à de nombreuses formes d’intelligence externes : modèles, agents, automatisations, outils, navigateurs, assistants de codage, systèmes de prise de notes, documents et flux de travail.
 Mais sans couche opérationnelle, ces systèmes restent fragmentés. Ils ne partagent pas efficacement la mémoire. Ils ne comprennent pas les projets à long terme. Ils ne savent pas quel contexte est pertinent à un moment donné. Ils ne coordonnent pas les actions entre les différents outils.
@@ -68,8 +68,8 @@ Il s’interroge sur la manière dont un système d’exploitation cognitif pers
 - des services de mémoire sémantique,
 - des graphes de connaissances Obsidian / Markdown,
 - un système de gestion des versions basé sur Git,
-- Manus comme opérateur de consolidation et de construction,
-- GPT, Claude, Gemini et Lovable comme services cognitifs acheminés,
+- Manus en tant qu’opérateur de consolidation et de construction,
+- GPT, Claude, Gemini et Lovable en tant que services cognitifs acheminés,
 - et des packs de contexte d’exécution pour les agents.
 ## Pourquoi est-ce important ?
 Plus l’IA gagne en puissance, plus le contexte prend de l’importance.
@@ -81,4 +81,4 @@ Sans infrastructure cognitive, les individus accumulent des conversations isolé
 - Comment gérer les coûts, la confidentialité et l’autonomie entre les modèles et les outils ?
 - Comment éviter de réduire la cognition à une simple optimisation de la productivité ?
 ## État d’avancement
-Concept P0 prêt. QA GPT terminé après révision par Claude.
+Concept P0 prêt. Questions-réponses GPT terminées après révision par Claude.

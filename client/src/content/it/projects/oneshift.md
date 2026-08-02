@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/oneshift.md
   source_hash: 79d585d1c7df457c
   provider: deepl
-  translated_at: 2026-07-02T08:52:59.552Z
+  translated_at: 2026-08-02T08:19:20.060Z
 ---
 
 # ONEshift

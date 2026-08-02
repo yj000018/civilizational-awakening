@@ -2,12 +2,12 @@
 title: "Système d'exploitation en mémoire"
 slug: memory-os
 type: project
-summary: "Un système d'exploitation destiné à la gestion du cycle de vie de la mémoire."
+summary: "Un système d'exploitation dédié à la gestion du cycle de vie de la mémoire."
 pillar: mind
 status: ready
 visibility: public
 publish_to_site: true
-one_liner: Non pas une meilleure base de données vectorielle, mais un meilleur processus de capture → consolidation → mise en contexte.
+one_liner: "Il ne s'agit pas d'une meilleure base de données vectorielle, mais d'un meilleur processus de capture → consolidation → mise en contexte."
 core_question: "Comment la mémoire devrait-elle passer d'une expérience brute à un contexte validé pour les humains et les agents ?"
 parent_project: y-os
 related_projects:
@@ -25,7 +25,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/memory-os.md
   source_hash: d84ad286d94efd50
   provider: deepl
-  translated_at: 2026-07-02T08:52:24.503Z
+  translated_at: 2026-08-02T08:18:43.748Z
 ---
 
 # Memory OS
@@ -92,9 +92,9 @@ Sans gestion du cycle de vie de la mémoire, les systèmes d’IA échouent de d
 1. Ils oublient ce qui est important.
 
 2. Ils retiennent trop de bruit.
-Un système d’exploitation de la mémoire décide non seulement de ce qu’il faut récupérer, mais aussi de ce qu’il faut mettre en avant, fusionner, remplacer, archiver, valider et injecter dans le contexte d’exécution.
+Un système d’exploitation de mémoire décide non seulement de ce qu’il faut récupérer, mais aussi de ce qu’il faut mettre en avant, fusionner, remplacer, archiver, valider et injecter dans le contexte d’exécution.
 ## Rôle dans Y-OS
-Le système d’exploitation de la mémoire est le sous-système de mémoire de Y-OS.
+Le système d’exploitation de mémoire est le sous-système de mémoire de Y-OS.
 Il prend en charge :
 - la capture brute,
 - la récupération sémantique,
@@ -103,7 +103,7 @@ Il prend en charge :
 - la création de connaissances canoniques,
 - les packs de contexte d’exécution,
 - la continuité inter-LLM et intersessionnelle,
-- ainsi que la gouvernance de ce que les agents sont autorisés à savoir ou à utiliser.
+- et la gouvernance de ce que les agents sont autorisés à savoir ou à utiliser.
 ## Principe de conception clé
 ```plain text
 We do not need a better vector DB.

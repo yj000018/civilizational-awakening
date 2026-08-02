@@ -24,13 +24,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/human-capital-systems.md
   source_hash: 64605cf9ce67f492
   provider: deepl
-  translated_at: 2026-07-02T08:52:56.257Z
+  translated_at: 2026-08-02T08:19:16.667Z
 ---
 
 # Human Capital Systems
 ## Posizionamento in una riga
 Human Capital Systems esplora come il potenziale umano possa diventare visibile, affidabile
-e sfruttabile.
+e fruibile.
 ## Domanda centrale
 Come è possibile rappresentare il valore futuro, il contributo, le competenze, la fiducia e il potenziale senza ridurre le persone a semplici punteggi?
 ## Tesi
@@ -40,7 +40,7 @@ Oggi, finanziamenti, opportunità, reputazione e fiducia spesso dipendono da cre
 ## Perché è importante
 Molte persone possiedono idee, capacità, impegno, immaginazione o un contributo latente che i sistemi esistenti non riescono a cogliere.
 Se l’IA può aiutare a mappare competenze, idee, fiducia, valori, risultati, reti e contributo futuro, allora diventano possibili nuove forme di abbinamento, finanziamento, collaborazione e opportunità.
-La sfida consiste nel farlo senza ridurre gli esseri umani a semplici punteggi, classifiche o sistemi di controllo.
+La sfida consiste nel farlo senza ridurre gli esseri umani a punteggi, classifiche o sistemi di controllo riduttivi.
 ## Componenti possibili
 - grafico del potenziale umano
 - grafico delle idee

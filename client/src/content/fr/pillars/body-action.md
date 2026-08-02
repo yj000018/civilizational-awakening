@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/body-action.md
   source_hash: ca5b6012a807d272
   provider: deepl
-  translated_at: 2026-07-02T08:52:15.398Z
+  translated_at: 2026-08-02T08:18:34.452Z
 ---
 
 # Corps / Action
@@ -35,11 +35,11 @@ translation:
 Comment la conscience se transforme-t-elle en contribution ?
 ## Thèse
 L’éveil reste incomplet s’il ne se traduit pas en action.
-Le pilier « Corps / Action » explore comment le sens, l’action, le service, l’incarnation et la contribution transforment la prise de conscience intérieure en changement concret. Il constitue le pont entre la conscience et l’impact social.
+Le pilier « Corps / Action » explore comment la raison d’être, la capacité d’agir, le service, l’incarnation et la contribution transforment la conscience intérieure en changement concret. Il constitue le pont entre la conscience et l’impact social.
 ## Pourquoi c’est 
 important
-Un avenir façonné par l’IA ne peut se limiter à la contemplation ou à la cognition. Il doit également s’interroger sur qui agit, comment ces personnes agissent, à quoi elles servent, et comment leur contribution devient visible et soutenue.
-Corps / Action, c’est là que la réflexion se transforme en pratique.
+Un avenir façonné par l’IA ne peut se limiter à la contemplation ou à la cognition. Il doit également s’interroger sur qui agit, comment ces personnes agissent, à quoi elles se consacrent, et comment leur contribution devient visible et soutenue.
+« Corps / Action » est le lieu où la réflexion se transforme en pratique.
 ## Thèmes clés
 - sens
 - capacité d’agir
@@ -61,7 +61,7 @@ Il s’interroge sur la manière dont les êtres humains peuvent devenir plus co
 ## Questions ouvertes
 - Comment une personne découvre-t-elle sa contribution ?
 - Qu’est-ce qui fait d’une personne un acteur du changement ?
-- Comment l’IA peut-elle soutenir une raison d’être sans manipuler l’identité ?
+- Comment l’IA peut-elle soutenir la quête de sens sans manipuler l’identité ?
 - Comment mesurer l’impact sans 
 réduire la valeur humaine à une simple donnée ?
 - Comment l’entreprise sociale peut-elle rester ancrée dans la conscience et la bienveillance ?

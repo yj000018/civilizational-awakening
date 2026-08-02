@@ -30,13 +30,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/david-bohm.md
   source_hash: 59adb9c432e20be1
   provider: deepl
-  translated_at: 2026-07-02T08:52:33.065Z
+  translated_at: 2026-08-02T08:18:52.112Z
 ---
 
 # David Bohm
 
 ## Pourquoi est-il important ?
-Bohm fut l’un des physiciens les plus originaux du XXe siècle. Il a avancé que sous l’ordre explicite de la réalité observable se cache un ordre implicite — une totalité plus profonde et indivisible. Ses travaux sur le dialogue en tant que processus de réflexion collective ont influencé l’apprentissage organisationnel, la résolution des conflits et l’intelligence collective.
+Bohm fut l’un des physiciens les plus originaux du XXe siècle. Il a avancé que, sous l’ordre explicite de la réalité observable, se cache un ordre implicite — une totalité plus profonde et indivisible. Ses travaux sur le dialogue en tant que processus de réflexion collective ont influencé l’apprentissage organisationnel, la résolution des conflits et l’intelligence collective.
 
 ## Lien avec cette réflexion
 L’insistance de Bohm sur la totalité — selon laquelle la fragmentation de la pensée est à l’origine des problèmes humains — trouve un écho profond dans la réflexion sur l’Éveil civilisationnel. Sa pratique du dialogue est un précurseur direct de l’intelligence collective et des couches de réseau/transmission.

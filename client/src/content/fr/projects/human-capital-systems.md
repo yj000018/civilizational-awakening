@@ -24,12 +24,12 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/human-capital-systems.md
   source_hash: 64605cf9ce67f492
   provider: deepl
-  translated_at: 2026-07-02T08:52:23.581Z
+  translated_at: 2026-08-02T08:18:42.891Z
 ---
 
-# Systèmes de capital humain
+# Human Capital Systems
 ## Positionnement en une ligne
-Les systèmes de capital humain explorent comment le potentiel humain peut devenir visible, fiable
+Human Capital Systems explore comment le potentiel humain peut devenir visible, fiable
 et exploitable.
 ## Question centrale
 Comment représenter la valeur future, la contribution, les compétences, la confiance et le potentiel sans réduire les individus à de simples notes ?
@@ -40,7 +40,7 @@ Aujourd’hui, le financement, les opportunités, la réputation et la confiance
 ## Pourquoi est-ce important ?
 De nombreuses personnes possèdent des idées, des capacités, de l’engagement, de l’imagination ou un potentiel de contribution que les systèmes existants ne perçoivent pas.
 Si l’IA peut aider à cartographier les compétences, les idées, la confiance, les valeurs, les réalisations, les réseaux et la contribution future, alors de nouvelles formes de mise en relation, de financement, de collaboration et d’opportunités deviennent possibles.
-Le défi consiste à y parvenir sans réduire les êtres humains à de simples scores, classements ou systèmes de contrôle.
+Le défi consiste à y parvenir sans réduire les êtres humains à des scores, des classements ou des systèmes de contrôle réducteurs.
 ## Composantes possibles
 - graphe du potentiel humain
 - graphe des idées
@@ -63,6 +63,6 @@ L’objectif est d’aider le potentiel à devenir visible, soutenu et connecté
 - Comment les individus peuvent-ils contrôler leurs propres données et leur graphe de contributions ?
 - Comment
  mettre en relation de manière plus intelligente les bailleurs de fonds, les créateurs et les porteurs d’idées ?
-- Comment les systèmes de réputation peuvent-ils éviter de devenir des systèmes de crédit social ?
+- Comment les systèmes de réputation peuvent-ils éviter de se transformer en systèmes de crédit social ?
 ## État d’avancement
 Page du projet P0 prête. Brouillon canonique GPT.

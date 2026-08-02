@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: "Construire une infrastructure cognitive pour l'ère de l'IA."
-core_question: "Comment les êtres humains peuvent-ils préserver la continuité, la mémoire, le contexte et leur capacité d'action face aux systèmes d'IA ?"
+core_question: "Comment les êtres humains peuvent-ils préserver la continuité, la mémoire, le contexte et leur capacité d'action dans l'ensemble des systèmes d'IA ?"
 parent_ecosystem: youniverse
 nrelated_projects:
   - memory-os
@@ -28,7 +28,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/y-os.md
   source_hash: 73cf27ca45e95ff2
   provider: deepl
-  translated_at: 2026-07-02T08:52:29.144Z
+  translated_at: 2026-08-02T08:18:48.176Z
 ---
 
 # Y-OS
@@ -41,9 +41,9 @@ L’ère de l’IA ne nécessite pas seulement de meilleurs modèles. Elle néce
 Lorsque les utilisateurs jonglent entre ChatGPT, Claude, Manus, Cursor, les navigateurs, les notes, les automatisations, les fichiers, les réunions et les agents, le contexte se perd. La mémoire est partielle. Les décisions se noient dans les conversations. Les outils ignorent ce que savent les autres outils.
 Y-OS explore la couche manquante : un système d’exploitation cognitif personnel qui capture, consolide, achemine et injecte du contexte à travers les modèles, les agents, les automatisations et les systèmes de connaissances.
 ## Ce que coordonne Y-OS
-Y-OS n’est pas une simple application. C’est une architecture permettant d’orchestrer :
+Y-OS n’est pas une simple application. C’est une architecture destinée à orchestrer :
 - la mémoire,
-- la connaissance,
+- les connaissances,
 - les agents,
 - les automatisations,
 - les invites,
@@ -51,7 +51,7 @@ Y-OS n’est pas une simple application. C’est une architecture permettant d�
 - les packs de contexte,
 - l’acheminement des modèles,
 - l’acheminement des actions,
-- et la connaissance canonique.
+- et les connaissances canoniques.
 ## Architecture de base
 L’architecture actuelle de Y-OS utilise un modèle en couches :
 ```plain text
@@ -93,9 +93,9 @@ Lovable = fast UI exploration
 Gemini  = multimodal and large-context tasks
 Image model = image generation and editing
 ```
-Lorsque la fidélité au contexte est essentielle, GPT génère la première ébauche canonique. Claude la révise et la simplifie ensuite. Cela empêche Claude de réinterpréter l’architecture de base trop tôt.
+Lorsque la fidélité au contexte est essentielle, GPT génère la première ébauche canonique. Claude procède ensuite à une révision et à une simplification. Cela empêche Claude de réinterpréter l’architecture de base trop tôt.
 ## Héritage intellectuel
-Y-OS s’inscrit dans une lignée de symbiose homme-machine et d’évolution technologique. Douglas Engelbart est une référence majeure en matière d’augmentation de l’intelligence humaine. Kevin Kelly est une référence pour comprendre la technologie comme un écosystème en évolution.
+Y-OS s’inscrit dans une lignée de symbiose homme-machine et d’évolution technologique. Douglas Engelbart est une référence majeure en matière d’augmentation de l’intellect humain. Kevin Kelly est une référence pour comprendre la technologie comme un écosystème en évolution.
 ## Pourquoi est-ce important ?
 Sans système d’exploitation cognitif, l’IA devient un ensemble d’outils puissants mais déconnectés les uns des autres.
 Y-OS s’interroge sur la manière dont une personne peut préserver la continuité entre tous ces éléments : ce qu’elle sait, ce qu’elle a décidé, ce qu’elle construit, ce qui compte, ce qu’il faut retenir, ce qu’il faut oublier, et de quel contexte chaque agent a besoin à l’instant présent.
@@ -110,8 +110,8 @@ Y-OS s’interroge sur la manière dont une personne peut préserver la continui
 ## Questions ouvertes
 - Quel est le système d’exploitation cognitif minimum viable ?
 - Quelle part doit être automatisée par rapport à celle validée manuellement ?
-- Comment empêcher la mémoire de devenir du bruit ?
+- Comment empêcher la mémoire de se transformer en bruit ?
 - Comment répartir les tâches de manière rentable entre les modèles et les agents ?
 - Comment faire en sorte que l’augmentation par l’IA renforce l’autonomie plutôt que la dépendance ?
 ## État d’avancement
-Page du projet P0 prête. Questions-réponses GPT terminées après révision par Claude.
+Page du projet P0 prête. QA GPT terminé après révision par Claude.

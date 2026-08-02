@@ -23,22 +23,22 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/network-transmission.md
   source_hash: 19f68b428e86edde
   provider: deepl
-  translated_at: 2026-07-02T08:52:52.156Z
+  translated_at: 2026-08-02T08:19:11.844Z
 ---
 
 # Rete / Trasmissione
 ## Domanda centrale
-In che modo le idee, le persone e i progetti si connettono, si ispirano e si stimolano a vicenda?
+In che modo idee, persone e progetti si connettono, si ispirano e si stimolano a vicenda?
 ## Tesi
-Le idee non vivono solo negli appunti personali. Viaggiano attraverso libri, saggi, conversazioni, comunità, strumenti, corsi, incontri e relazioni.
+Le idee non vivono solo negli appunti privati. Viaggiano attraverso libri, saggi, conversazioni, comunità, strumenti, corsi, incontri e relazioni.
 Rete /
- Trasmissione è il livello trasversale che collega l’intera indagine. È il modo in cui il corpus di lavori diventa condivisibile, scopribile e vivo in relazione con gli altri.
+ Trasmissione è il livello trasversale che collega l’intera indagine. È il modo in cui il corpus di lavori diventa condivisibile, scopribile e vivo in relazione agli altri.
 ## Perché è importante
 Civilizational Awakening non è un’azienda, un prodotto, una religione, un movimento o un think tank. Ma non è nemmeno destinato a rimanere isolato.
 Lo scopo della trasmissione è creare un contatto con pensatori, costruttori, artisti, ricercatori e attori del cambiamento che esplorano la prosperità umana, la coscienza, l’intelligenza artificiale, l’intelligenza collettiva
 e il futuro della civiltà.
 ## Temi chiave
-- editoria
+- pubblicazioni
 - saggi
 - libri
 - mappe delle persone
@@ -52,7 +52,7 @@ e il futuro della civiltà.
 ## Progetti correlati
 - **Lightway Editions** — libri che connettono, ispirano e risvegliano.
 ## Funzione nel sito web
-Network / Transmission è il livello che aiuta i visitatori a navigare tra:
+Rete / Trasmissione è il livello che aiuta i visitatori a navigare tra:
 - il corpus di lavori,
 - la mappa del progetto,
 - il lignaggio intellettuale,
@@ -61,7 +61,7 @@ Network / Transmission è il livello che aiuta i visitatori a navigare tra:
  inviti a connettersi,
 - e futuri formati di comunità o collaborazione.
 ## Principio di progettazione
-Transmission non deve diventare rumore di marketing.
+La trasmissione non deve diventare rumore di marketing.
 Dovrebbe rendere il lavoro più facile da scoprire, comprendere, condividere e portare avanti con persone che condividono gli stessi valori.
 ## Domande aperte
 - Chi sono i pensatori, i costruttori, gli artisti e gli attori del cambiamento con cui entrare in contatto per primi?

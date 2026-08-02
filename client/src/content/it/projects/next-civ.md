@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/next-civ.md
   source_hash: 0a8e5b908fafe1ee
   provider: deepl
-  translated_at: 2026-07-02T08:52:58.725Z
+  translated_at: 2026-08-02T08:19:19.248Z
 ---
 
 # Next Civ
@@ -39,7 +39,7 @@ Quali sistemi sono necessari affinché l’umanità possa prosperare in un’era
 I prossimi decenni potrebbero trasformare l’intelligenza, il lavoro, la longevità, la governance, l’economia, l’istruzione, la creatività e l’identità umana.
 Next Civ esplora le questioni a livello di sistema sollevate da questa transizione. Si chiede quale tipo di civiltà diventi possibile quando l’intelligenza artificiale, l’automazione, l’abbondanza, le reti e il potenziale umano non siano più forze marginali, ma condizioni operative centrali.
 ## Perché è importante
-La maggior parte delle discussioni sul futuro si concentra sulla tecnologia o sulla crisi. Next Civ pone una domanda più ampia: cosa richiederebbe una civiltà più saggia?
+La maggior parte delle discussioni sul futuro si concentra sulla tecnologia o sulle crisi. Next Civ pone una domanda più ampia: cosa richiederebbe una civiltà più saggia?
 Ciò include la governance, il coordinamento, la fiducia, l’abbondanza, l’impresa sociale, il capitale umano, l’intelligenza collettiva, lo sviluppo spirituale, l’etica multispecie e la progettazione di istituzioni che sostengano la prosperità.
 ## Ambiti di ricerca
 - IA e abbondanza
@@ -52,7 +52,7 @@ Ciò include la governance, il coordinamento, la fiducia, l’abbondanza, l’im
 - istruzione del futuro
 - impresa sociale e contributo
 - memoria civile
-## Relazione con il Risveglio Civile
+## Rapporto con il Risveglio Civile
 Il Risveglio Civile rappresenta l’indagine più ampia.
 Next Civ è il livello di ricerca e progettazione dei sistemi incentrato specificamente sul futuro della civiltà.
 ## Domande aperte

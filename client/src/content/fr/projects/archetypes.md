@@ -25,12 +25,12 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/archetypes.md
   source_hash: fb99c4e263ca3628
   provider: deepl
-  translated_at: 2026-07-02T08:52:21.680Z
+  translated_at: 2026-08-02T08:18:41.129Z
 ---
 
 # Archétypes
 ## Positionnement en une ligne
-Les archétypes constituent un cadre symbolique pour les structures universelles des rêves, des mythes, des récits et de la conscience.
+Les archétypes constituent un cadre symbolique permettant d’appréhender les structures universelles des rêves, des mythes, des récits et de la conscience.
 ## Question centrale
 Quelles structures symboliques universelles façonnent les rêves, les mythes, les religions, les récits et la vie intérieure ?
 ## Thèse
@@ -48,13 +48,13 @@ Si tel est le cas, la compréhension des archétypes peut aider les êtres humai
 - navigation dans les rêves et les symboles assistée par l’IA
 - cartes symboliques interactives
 ## Lien avec la réflexion plus large
-« Archétypes » appartient à l’axe Esprit / Âme car il explore la conscience à travers les symboles.
+« Archétypes » relève de la rubrique Esprit / Âme car il explore la conscience à travers les symboles.
 Il est également lié au Cœur par la beauté et l’image, et à l’Esprit par la possibilité de systèmes de connaissance symboliques.
 ## Questions ouvertes
 - Les archétypes sont-ils des structures universelles ou des modèles culturels ?
 - Comment l’IA peut-elle aider à explorer le matériel symbolique sans aplatir le mystère ?
 - Les
- rêves peuvent-ils être cartographiés comme des variations de grammaires symboliques profondes ?
+rêves peuvent-ils être cartographiés comme des variations de grammaires symboliques profondes ?
 - À quoi ressemblerait un atlas visuel de la conscience ?
 ## État d’avancement
 Page du projet P0 prête. Ébauche canonique GPT.

@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/body-action.md
   source_hash: ca5b6012a807d272
   provider: deepl
-  translated_at: 2026-07-02T08:52:48.239Z
+  translated_at: 2026-08-02T08:19:08.189Z
 ---
 
 # Corpo / Azione
@@ -35,10 +35,10 @@ translation:
 In che modo la coscienza si trasforma in contributo?
 ## Tesi
 Il risveglio è incompleto se non si traduce in azione.
-Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra la coscienza e l’impatto sociale.
+Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra coscienza e impatto sociale.
 ## Perché è 
 importante
-Un futuro plasmato dall’intelligenza artificiale non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventi visibile e venga sostenuto.
+Un futuro plasmato dall’intelligenza artificiale non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventi visibile e sostenuto.
 Corpo / Azione è il luogo in cui l’indagine diventa pratica.
 ## Temi chiave
 - scopo
@@ -57,7 +57,7 @@ Corpo / Azione è il luogo in cui l’indagine diventa pratica.
 cambiamento** — chi sei come attore del cambiamento?
 ## Principio di progettazione
 Questo pilastro rifiuta la separazione tra vita interiore e contributo esterno.
-Si chiede come gli esseri umani possano diventare più consapevoli, più incarnati e più utili al mondo senza ridursi a metriche di produttività.
+Si chiede come gli esseri umani possano diventare più consapevoli, più incarnati e più utili al mondo senza ridursi a semplici indicatori di produttività.
 ## Domande aperte
 - In che modo una persona scopre il proprio contributo?
 - Cosa rende qualcuno un attore del cambiamento?

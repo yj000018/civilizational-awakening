@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/heart.md
   source_hash: 892d8981433e3733
   provider: deepl
-  translated_at: 2026-07-02T08:52:17.463Z
+  translated_at: 2026-08-02T08:18:36.752Z
 ---
 
 # Cœur
@@ -39,8 +39,8 @@ Qu’est-ce qui ouvre et nourrit le cœur humain ?
 L’avenir ne doit pas être conçu uniquement à travers l’intelligence, l’efficacité et la coordination. Il doit également être façonné par la beauté, la tendresse, l’émerveillement et l’amour.
 Le pilier « Cœur » protège la dimension non optimisée du travail : l’art, la poésie, la contemplation, l’affection, l’innocence, la compassion et l’expérience viscérale d’être en vie.
 ## Pourquoi est-ce important ?
-L’IA peut accélérer la cognition et l’automatisation, mais elle ne peut pas nous dire ce qui mérite notre respect.
-Une civilisation qui oublie la beauté devient efficace, mais vide. Le pilier « Cœur » s’interroge sur la manière dont la technologie, l’art et la vie humaine peuvent rester liés à la présence, à la bienveillance et au sacré sans tomber dans le sentimentalisme ou la religiosité.
+L’IA peut accélérer la cognition et l’automatisation, mais elle ne peut pas nous dire ce qui mérite le respect.
+Une civilisation qui oublie la beauté devient efficace mais vide. Le pilier « Cœur » s’interroge sur la manière dont la technologie, l’art et la vie humaine peuvent rester liés à la présence, à la bienveillance et au sacré sans tomber dans le sentimentalisme ou la religion.
 ## Thèmes clés
 - beauté
 - amour
