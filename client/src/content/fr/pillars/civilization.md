@@ -33,19 +33,19 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/civilization.md
   source_hash: faaca10a252a8f1e
   provider: deepl
-  translated_at: 2026-08-02T08:18:35.510Z
+  translated_at: 2026-09-02T10:34:40.624Z
 ---
 
 # Civilisation
 ## Question centrale
-Comment les êtres humains peuvent-ils s’épanouir ensemble ?
+Comment les êtres humains peuvent-ils s'épanouir ensemble ?
 ## Thèse
-L’ère de l’IA soulève des questions civilisationnelles : coordination, gouvernance, abondance, longévité, confiance, intelligence collective, 
+L'ère de l'IA soulève des questions civilisationnelles : coordination, gouvernance, abondance, longévité, confiance, intelligence collective, 
 potentiel humain et relations entre les êtres humains, la technologie et la vie.
-Le pilier « Civilisation » s’interroge sur la manière dont l’humanité peut concevoir des systèmes qui aident les individus et les sociétés à s’épanouir ensemble, plutôt que de se contenter d’optimiser l’exploitation, la concurrence ou le contrôle.
+Le pilier « Civilisation » s'interroge sur la manière dont l'humanité peut concevoir des systèmes qui aident les personnes et les sociétés à s'épanouir ensemble, plutôt que de se contenter d'optimiser l'exploitation, la concurrence ou le contrôle.
 ## Pourquoi est-ce important ?
-L’IA peut accroître la productivité, mais la productivité à elle seule ne suffit pas à faire une civilisation.
-Une civilisation épanouie a besoin de sens, de coordination, de légitimité, de bienveillance, de beauté, de gouvernance, de mémoire et d’une orientation commune. Elle a besoin de systèmes qui rendent le
+L'IA peut certes accroître la productivité, mais la productivité à elle seule ne suffit pas à faire une civilisation.
+Une civilisation épanouie a besoin de sens, de coordination, de légitimité, de bienveillance, de beauté, de gouvernance, de mémoire et d'une orientation commune. Elle a besoin de systèmes qui rendent le
 potentiel humain visible et favorisent la contribution sans réduire les individus à des scores ou à des catégories.
 ## Thèmes clés
 - intelligence collective
@@ -66,7 +66,7 @@ stèmes de cartographie, de développement et d’échange du potentiel humain.
 - **Intelligence collective** — comment l’intelligence s’organise à l’échelle collective.
 ## Principe de conception
 La conception d’une civilisation doit inclure à la fois les systèmes et l’âme.
-Elle ne peut se limiter à une simple gouvernance technique ou à une coordination économique. Elle doit s’interroger sur les types d’êtres, de relations, d’institutions et de cultures dignes d’un avenir plus abondant.
+Elle ne peut se limiter à une simple gouvernance technique ou à une coordination économique. Elle doit s’interroger sur les types d’êtres, de relations, d’institutions et de cultures qui méritent un avenir plus abondant.
 ## Penseurs associés
 - Buckminster Fuller
 - Kevin Kelly

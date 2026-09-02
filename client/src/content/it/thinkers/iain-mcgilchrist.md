@@ -31,7 +31,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/iain-mcgilchrist.md
   source_hash: e1fd2f34d8aef5b9
   provider: deepl
-  translated_at: 2026-08-02T08:19:28.844Z
+  translated_at: 2026-09-02T10:35:32.986Z
 ---
 
 # Iain McGilchrist
@@ -45,7 +45,7 @@ La diagnosi di McGilchrist sul predominio dell’emisfero sinistro è uno dei qu
 ## Idee chiave
 - **Cervello diviso**: I due emisferi cerebrali hanno modi fondamentalmente diversi di rapportarsi al mondo.
 - **Dominanza dell’emisfero sinistro**: la civiltà moderna ha sistematicamente privilegiato il pensiero analitico, riduttivo e orientato al controllo.
-- **L’attenzione plasma la realtà**: il modo in cui prestiamo attenzione al mondo determina il mondo in cui viviamo.
+- **L’attenzione modella la realtà**: il modo in cui prestiamo attenzione al mondo determina il mondo in cui viviamo.
 - **L’emissario e il maestro**: L’emisfero sinistro (l’emissario) ha usurpato il potere all’emisfero destro (il maestro).
 
 ## Pilastri correlati

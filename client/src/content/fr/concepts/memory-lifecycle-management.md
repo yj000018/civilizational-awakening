@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/memory-lifecycle-management.md
   source_hash: bb6dd9a53e711646
   provider: deepl
-  translated_at: 2026-08-02T08:18:26.247Z
+  translated_at: 2026-09-02T10:34:31.852Z
 ---
 
 # Gestion du cycle de vie de la mémoire
@@ -36,7 +36,7 @@ La gestion du cycle de vie de la mémoire est la discipline qui consiste à tran
 ## Question centrale
 Comment une mémoire passe-t-elle d’une capture brute à une connaissance fiable et à un contexte exploitable ?
 ## Thèse
-La mémoire de l’IA ne doit pas être traitée comme un simple ensemble d’embeddings.
+La mémoire de l’IA ne doit pas être considérée comme un simple ensemble d’embeddings.
 Un système de mémoire utile nécessite des étapes de cycle de vie. Il doit faire la distinction entre l’expérience brute, le signal extrait, la connaissance candidate, la vérité validée, la mémoire canonique et les éléments obsolètes ou remplacés.
 Le cycle de vie est le suivant :
 ```plain text
@@ -91,7 +91,7 @@ Une mémoire qui peut s’avérer utile mais qui n’a pas encore été validée
 ### Validée
 Une mémoire qui a été examinée, corrigée et acceptée.
 ### Canonique
-Un nœud de connaissance durable qui intègre le graphe de mémoire fiable.
+Un nœud de connaissance durable qui intègre le graphe de mémoire de confiance.
 ### Remplacée / archivée
 Mémoire ancienne, contredite ou inactive, conservée à des fins historiques mais retirée du contexte d’exécution actif.
 ## Relation avec Y-OS
@@ -104,7 +104,7 @@ Obsidian remembers.
 Git protects.
 Agents receive context packs.
 ```
-L’objectif n’est pas seulement de mémoriser davantage. Il s’agit de mieux mémoriser.
+L’objectif n’est pas seulement de se souvenir de plus de choses. Il s’agit de mieux se souvenir.
 ## Contexte d’exécution
 La finalité ultime de la mémoire n’est pas le stockage. C’est le contexte.
 Une bonne gestion de la mémoire permet à Y-OS de compiler des paquets de contexte pour les agents, les modèles et les systèmes :

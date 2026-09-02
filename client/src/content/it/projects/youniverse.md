@@ -24,7 +24,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/youniverse.md
   source_hash: 48db6ce256a36df0
   provider: deepl
-  translated_at: 2026-08-02T08:19:22.622Z
+  translated_at: 2026-09-02T10:35:27.538Z
 ---
 
 # YOUniverse
@@ -33,15 +33,15 @@ YOUniverse è un sistema operativo per il potenziale umano.
 ## Domanda fondamentale
 Come può ogni persona possedere, gestire, sviluppare e condividere le proprie conoscenze, i propri dati, il proprio contributo e il proprio potenziale umano nell’era dell’intelligenza artificiale?
 ## Tesi
-La prossima fase della vita digitale non dovrebbe essere organizzata solo attorno a piattaforme, feed, app e istituzioni. Dovrebbe essere organizzata attorno all’essere umano come centro sovrano delle proprie conoscenze, memoria, dati, relazioni, idee, capacità e contributi.
-YOUniverse si chiede cosa diventi possibile quando la conoscenza personale, la memoria dell’IA, il capitale umano, la creatività, lo scopo, l’impatto sociale e il valore futuro vengono trattati come parti di un unico grafico coerente del potenziale umano.
+La prossima fase della vita digitale non dovrebbe essere organizzata solo attorno a piattaforme, feed, app e istituzioni. Dovrebbe invece essere organizzata attorno all’essere umano come centro sovrano delle proprie conoscenze, memoria, dati, relazioni, idee, capacità e contributi.
+YOUniverse si chiede cosa diventi possibile quando la conoscenza personale, la memoria dell’IA, il capitale umano, la creatività, lo scopo, l’impatto sociale e il valore futuro vengono trattati come parti di un unico grafo coerente del potenziale umano.
 ## Cosa comprende
 YOUniverse non è una singola app. È una meta-architettura che collega diversi livelli:
 - conoscenza e memoria personali
 - dati controllati dall’utente
-- contesto IA e infrastruttura cognitiva
+- contesto dell’IA e infrastruttura cognitiva
 - mappatura del potenziale umano
-- grafici di idee e contributi
+- grafi di idee e contributi
 - segnali di reputazione e fiducia
 - creazione di valore futuro
 - autonomia personale nei sistemi mediati dall’IA
@@ -57,7 +57,7 @@ Memory OS = operating system for memory lifecycle management
 ## Perché è importante
 L’IA renderà più facile generare contenuti, automatizzare il lavoro e mediare le relazioni. Ma 
 senza un’infrastruttura controllata dall’utente, gli individui rischiano di diventare sempre più dipendenti da piattaforme chiuse che estraggono dati, modellano l’attenzione e frammentano l’identità.
-YOUniverse inverte questa tendenza. Parte dalla persona e si chiede come le sue conoscenze, relazioni, aspirazioni, valori, contributi e potenziale futuro possano rimanere sotto il suo controllo.
+YOUniverse inverte questa tendenza. Parte dalla persona e si chiede come le sue conoscenze, relazioni, aspirazioni, valori, contributi e potenzialità future possano rimanere sotto il suo controllo.
 ## Direzione a lungo termine
 YOUniverse punta verso una rete di reti in cui le persone possano:
 - mappare ciò che sanno,
@@ -69,7 +69,7 @@ YOUniverse punta verso una rete di reti in cui le persone possano:
 - e alimentare i sistemi di IA con un contesto di loro proprietà.
 ## Argomenti correlati
 - Sistemi di capitale umano
-- Futuri mercati del potenziale umano e sistemi di credenze
+- futuri mercati del potenziale umano e sistemi di credenze
 - Indice di creazione di valore futuro
 - ONEshift e Attore del cambiamento
 - Y-OS e Memory OS
@@ -77,8 +77,8 @@ YOUniverse punta verso una rete di reti in cui le persone possano:
 ## Domande aperte
 - Cosa significa “dati personali controllati dall’utente” nell’era dell’IA?
 - In che modo 
-il potenziale umano può diventare visibile senza essere riduttivo?
+il potenziale umano può diventare visibile senza essere ridotto a qualcosa di banale?
 - Come si possono rappresentare il contributo, la fiducia e il valore futuro senza creare un sistema di punteggio distopico?
-- In che modo l’IA può aiutare le persone a diventare più se stesse anziché più ottimizzate?
+- In che modo l’IA può aiutare le persone a diventare più se stesse piuttosto che più ottimizzate?
 ## Stato attuale
-Pagina del progetto P0 pronta. QA su GPT completato dopo la revisione di Claude.
+Pagina del progetto P0 pronta. QA GPT completato dopo la revisione di Claude.

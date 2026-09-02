@@ -31,19 +31,19 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/ken-wilber.md
   source_hash: 9178a6a041d2d472
   provider: deepl
-  translated_at: 2026-08-02T08:19:29.664Z
+  translated_at: 2026-09-02T10:35:33.744Z
 ---
 
 # Ken Wilber
 
 ## Perché è importante
-Wilber ha creato la mappa più completa della coscienza e dello sviluppo umani disponibile nella filosofia contemporanea. La sua Teoria Integrale sintetizza le tradizioni di saggezza orientali e occidentali, la psicologia dello sviluppo, la teoria dei sistemi e la pratica contemplativa in un unico quadro di riferimento facilmente fruibile.
+Wilber ha creato la mappa più completa della coscienza umana e dello sviluppo disponibile nella filosofia contemporanea. La sua Teoria Integrale sintetizza le tradizioni di saggezza orientali e occidentali, la psicologia dello sviluppo, la teoria dei sistemi e la pratica contemplativa in un unico quadro di riferimento facilmente fruibile.
 
 ## Collegamento con questa indagine
-L’indagine sul Risveglio Civico si basa sull’insistenza di Wilber sul fatto che qualsiasi mappa adeguata del potenziale umano debba includere le dimensioni interiori — non solo il comportamento esteriore o le strutture sociali. I cinque pilastri di questa indagine (Spirito/Anima, Cuore, Mente, Corpo/Azione, Civiltà) riflettono una struttura integrale.
+L’indagine sul Risveglio della Civiltà si basa sull’insistenza di Wilber sul fatto che qualsiasi mappa adeguata del potenziale umano debba includere le dimensioni interiori — non solo il comportamento esteriore o le strutture sociali. I cinque pilastri di questa indagine (Spirito/Anima, Cuore, Mente, Corpo/Azione, Civiltà) riflettono una struttura integrale.
 
 ## Idee chiave
-- **AQAL**: Tutti i quadranti, tutti i livelli — le quattro dimensioni fondamentali di qualsiasi fenomeno: interiore/esteriore × individuale/collettivo.
+- **AQAL**: Tutti i quadranti, tutti i livelli — le quattro dimensioni fondamentali di qualsiasi fenomeno: interno/esterno × individuale/collettivo.
 - **Spettro della coscienza**: Lo sviluppo umano attraversa fasi identificabili, ciascuna delle quali trascende e include quella precedente.
 - **Linee di sviluppo**: l’intelligenza non è un’entità unica — le linee cognitive, emotive, morali e spirituali si sviluppano in modo semi-indipendente.
 - **Stati e fasi**: le esperienze di picco temporanee (stati) sono distinte dai risultati permanenti dello sviluppo (fasi).

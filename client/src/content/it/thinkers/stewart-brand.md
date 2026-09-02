@@ -2,7 +2,7 @@
 title: Stewart Brand
 slug: stewart-brand
 type: thinker
-summary: Giornalista, ambientalista e pensatore a lungo termine che ha studiato come le civiltà cambiano su diverse scale temporali.
+summary: Giornalista, ambientalista e pensatore lungimirante che ha approfondito il modo in cui le civiltà cambiano su diverse scale temporali.
 lineage_category: technology-civilization
 status: ready
 visibility: public
@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/stewart-brand.md
   source_hash: aaa2c79b4ccd76b5
   provider: deepl
-  translated_at: 2026-08-02T08:19:32.020Z
+  translated_at: 2026-09-02T10:35:36.157Z
 ---
 
 # Stewart Brand
@@ -42,9 +42,9 @@ La visione a lungo termine di Brand e la sua insistenza sull’importanza delle 
 
 ## Idee chiave
 - **Livelli di ritmo**: i diversi livelli della civiltà cambiano a velocità diverse; i livelli veloci innovano, quelli lenti si stabilizzano.
-- **Long Now**: L’importanza di pensare su scale temporali di 10.000 anni.
-- **Whole Earth**: La democratizzazione di strumenti, idee e accesso.
-- **How Buildings Learn**: Le strutture che si adattano nel tempo sono più vive di quelle che non lo fanno.
+- **Long Now**: l’importanza di pensare su scale temporali di 10.000 anni.
+- **Whole Earth**: la democratizzazione di strumenti, idee e accesso.
+- **How Buildings Learn**: le strutture che si adattano nel tempo sono più vive di quelle che non lo fanno.
 
 ## Pilastri correlati
 Civiltà, Rete / Trasmissione

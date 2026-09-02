@@ -24,7 +24,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/youniverse.md
   source_hash: 48db6ce256a36df0
   provider: deepl
-  translated_at: 2026-08-02T08:18:49.060Z
+  translated_at: 2026-09-02T10:34:54.455Z
 ---
 
 # YOUniverse
@@ -33,7 +33,7 @@ YOUniverse est un système d’exploitation dédié au potentiel humain.
 ## Question centrale
 Comment chaque individu peut-il s’approprier, exploiter, développer et partager ses connaissances, ses données, ses contributions et son potentiel humain à l’ère de l’IA ?
 ## Thèse
-La prochaine étape de la vie numérique ne devrait pas s’articuler uniquement autour de plateformes, de flux d’actualités, d’applications et d’institutions. Elle devrait s’articuler autour de l’être humain, en tant que centre souverain de ses propres connaissances, de sa mémoire, de ses données, de ses relations, de ses idées, de ses capacités et de sa contribution.
+La prochaine étape de la vie numérique ne devrait pas s’articuler uniquement autour des plateformes, des flux d’actualités, des applications et des institutions. Elle devrait s’articuler autour de l’être humain, en tant que centre souverain de ses propres connaissances, de sa mémoire, de ses données, de ses relations, de ses idées, de ses capacités et de sa contribution.
 YOUniverse s’interroge sur ce qui devient possible lorsque les connaissances personnelles, la mémoire de l’IA, le capital humain, la créativité, la raison d’être, l’impact social et la valeur future sont considérés comme les éléments d’un graphe cohérent du potentiel humain.
 ## Ce qu’il comprend
 YOUniverse n’est pas une simple application. Il s’agit d’une méta-architecture reliant plusieurs couches :
@@ -46,7 +46,7 @@ YOUniverse n’est pas une simple application. Il s’agit d’une méta-archite
 - la création de valeur future
 - l’autonomie personnelle dans les systèmes médiatisés par l’IA
 - les réseaux de personnes, de projets et d’opportunités
-## Lien avec Y-OS
+## Relation avec Y-OS
 Y-OS constitue la couche cognitive de YOUniverse.
 Alors que YOUniverse s’interroge sur la manière dont le potentiel humain peut devenir visible, exploitable et traduisible en actions, Y-OS se concentre sur l’infrastructure cognitive nécessaire pour y parvenir : mémoire, contexte, agents, outils, automatisations et systèmes de connaissances.
 ```plain text
@@ -56,7 +56,7 @@ Memory OS = operating system for memory lifecycle management
 ```
 ## Pourquoi est-ce important ?
 L’IA facilitera la création de contenu, l’automatisation du travail et la médiation des relations. Mais 
-sans une infrastructure contrôlée par les utilisateurs, les individus risquent de devenir plus dépendants de plateformes fermées qui extraient des données, orientent l’attention et fragmentent l’identité.
+sans infrastructure contrôlée par les utilisateurs, les individus risquent de devenir davantage dépendants de plateformes fermées qui extraient des données, orientent l’attention et fragmentent l’identité.
 YOUniverse inverse cette orientation. Il part de la personne et se demande comment ses connaissances, ses relations, ses aspirations, ses valeurs, sa contribution et son potentiel futur peuvent rester sous son propre contrôle.
 ## Orientation à long terme
 YOUniverse s’oriente vers un réseau de réseaux où chacun peut :

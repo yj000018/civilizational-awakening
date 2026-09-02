@@ -30,16 +30,16 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/kevin-kelly.md
   source_hash: 38ca295defce79f0
   provider: deepl
-  translated_at: 2026-08-02T08:18:55.961Z
+  translated_at: 2026-09-02T10:35:01.625Z
 ---
 
 # Kevin Kelly
 
 ## Pourquoi il est important
-L’idée centrale de Kelly est que la technologie n’est pas un outil neutre, mais un système vivant doté de sa propre trajectoire et de ses propres tendances. Son concept de « technium » — le système technologique mondial — considère l’IA non pas comme un produit, mais comme une force évolutive.
+L’idée centrale de Kelly est que la technologie n’est pas un outil neutre, mais un système vivant doté de sa propre trajectoire et de ses propres tendances. Son concept de « technium » — le système mondial de la technologie — considère l’IA non pas comme un produit, mais comme une force évolutive.
 
 ## Lien avec cette réflexion
-La vision à long terme et sereine que Kelly a de la trajectoire de la technologie constitue un contrepoids utile tant à l’utopisme technologique qu’au pessimisme technologique. Ses travaux sur ce que « veut » la technologie éclairent la dimension « civilisation » de cette réflexion.
+La vision à long terme et sereine que Kelly a de la trajectoire de la technologie constitue un contrepoids utile tant à l’utopisme technologique qu’au pessimisme technologique. Ses travaux sur ce que « veut » la technologie éclairent le volet « civilisation » de cette réflexion.
 
 ## Idées clés
 - **Technium** : le système technologique mondial et interconnecté qui se comporte comme un organisme vivant.

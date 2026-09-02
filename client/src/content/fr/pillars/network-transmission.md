@@ -23,7 +23,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/network-transmission.md
   source_hash: 19f68b428e86edde
   provider: deepl
-  translated_at: 2026-08-02T08:18:38.415Z
+  translated_at: 2026-09-02T10:34:43.473Z
 ---
 
 # Réseau / Transmission
@@ -33,7 +33,7 @@ Comment les idées, les personnes et les projets s’interconnectent-ils, s’in
 Les idées ne se limitent pas à des notes personnelles. Elles circulent à travers les livres, les essais, les conversations, les communautés, les outils, les formations, les rassemblements et les relations.
 Réseau /
  Transmission est la couche transversale qui relie l’ensemble de la réflexion. C’est ainsi que l’ensemble des travaux devient partageable, découvrable et prend vie en relation avec les autres.
-## Pourquoi est-ce important ?
+## Pourquoi c’est important
 Civilizational Awakening n’est ni une entreprise, ni un produit, ni une religion, ni un mouvement, ni un groupe de réflexion. Mais il n’est pas non plus destiné à rester isolé.
 L’objectif de la transmission est de créer des liens avec des penseurs, des créateurs, des artistes, des chercheurs et des acteurs du changement qui explorent l’épanouissement humain, la conscience, l’IA, l’intelligence collective
 et l’avenir de la civilisation.

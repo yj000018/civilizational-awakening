@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/albert-einstein.md
   source_hash: 90d2d319f128c107
   provider: deepl
-  translated_at: 2026-08-02T08:19:23.465Z
+  translated_at: 2026-09-02T10:35:28.363Z
 ---
 
 # Albert Einstein
@@ -43,7 +43,7 @@ L’affermazione di Einstein secondo cui «non possiamo risolvere i nostri probl
 ## Idee chiave
 - **Relatività**: lo spazio e il tempo non sono assoluti, ma relativi all’osservatore.
 - **L’immaginazione prima della conoscenza**: «L’immaginazione è più importante della conoscenza. La conoscenza è limitata. L’immaginazione abbraccia il mondo».
-- **Responsabilità morale**: Gli scienziati e i tecnologi hanno la responsabilità di come vengono utilizzate le loro scoperte.
+- **Responsabilità morale**: Gli scienziati e i tecnologi hanno la responsabilità dell’uso che viene fatto delle loro scoperte.
 - **Governo mondiale**: Einstein sosteneva una governance sovranazionale per prevenire la guerra e gestire la tecnologia.
 
 ## Pilastri correlati
@@ -54,4 +54,4 @@ Next Civ
 
 ## Domande aperte
 - Cosa direbbe Einstein dell’IA?
-- Come possiamo coltivare la combinazione tra rigore scientifico e immaginazione umanistica?
+- Come possiamo coltivare la combinazione di rigore scientifico e immaginazione umanistica?

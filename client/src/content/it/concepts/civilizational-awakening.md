@@ -30,12 +30,12 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/civilizational-awakening.md
   source_hash: a070532924f87f9c
   provider: deepl
-  translated_at: 2026-08-02T08:18:59.238Z
+  translated_at: 2026-09-02T10:35:04.868Z
 ---
 
-# Il Risveglio della Civiltà
+# Il risveglio della civiltà
 ## Posizionamento in una riga
-Il Risveglio della Civiltà è un’indagine che dura tutta la vita sul benessere umano nell’era dell’intelligenza artificiale.
+Il risveglio della civiltà è un percorso di riflessione che dura tutta la vita sul benessere umano nell’era dell’intelligenza artificiale.
 ## Domanda centrale
 Cosa
  significa essere veramente umani quando l’intelligenza, la memoria, l’automazione, l’abbondanza, la longevità e il coordinamento su scala planetaria diventano programmabili?
@@ -43,7 +43,7 @@ Cosa
 L’intelligenza artificiale non è solo un evento tecnologico. È uno specchio della civiltà.
 Costringe l’umanità a porsi domande più profonde: chi siamo, a cosa diamo valore, come ci coordiniamo, come ricordiamo, come agiamo e quale tipo di civiltà diventa possibile quando la scarsità non è più l’unico principio organizzativo?
 «Risveglio
-civile» è il nome di questa indagine. Essa collega coscienza, cognizione, azione e civiltà in un’unica mappa navigabile del lavoro.
+civilizzativo» è il nome di questa indagine. Essa collega coscienza, cognizione, azione e civiltà in un’unica mappa navigabile del lavoro.
 ## Che cos’è
 Non è un’azienda.
 Non è un prodotto.
@@ -58,13 +58,13 @@ L’indagine è organizzata in cinque livelli principali:
 nutre il cuore umano?
 - **Mente** — come si evolve l’intelligenza?
 - **Corpo / Azione** — in che modo la coscienza si trasforma in contributo?
-- **Civiltà** — come possono gli esseri umani prosperare insieme?
+- **Civiltà** — come prosperano gli esseri umani insieme?
 Un livello trasversale — **Rete / Trasmissione** — collega idee, persone, opere, libri, comunità e progetti.
 ## Perché è importante
 L’era dell’IA rischia di trasformarsi in una corsa alla produttività o in un panico esistenziale. Entrambe queste visioni trascurano l’opportunità più profonda.
-La domanda più profonda è come l’intelligenza possa 
+La domanda più profonda è: in che modo l’intelligenza può 
 aiutare l’umanità a ricordare se stessa: coordinarsi meglio, creare bellezza, servire la vita, sviluppare la coscienza e costruire sistemi degni del potenziale umano.
-Il Risveglio Civiltà abbraccia questa prospettiva più ampia.
+Il Risveglio Civiltà offre questa prospettiva più ampia.
 ## Argomenti correlati
 - YOUniverse come sistema operativo per il potenziale umano
 - Y-OS come sistema operativo per la cognizione

@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/kevin-kelly.md
   source_hash: 38ca295defce79f0
   provider: deepl
-  translated_at: 2026-08-02T08:19:30.456Z
+  translated_at: 2026-09-02T10:35:34.527Z
 ---
 
 # Kevin Kelly
@@ -39,7 +39,7 @@ translation:
 L’intuizione centrale di Kelly è che la tecnologia non sia uno strumento neutro, bensì un sistema vivente con una propria traiettoria e tendenze proprie. Il suo concetto di “technium” — il sistema globale della tecnologia — inquadra l’intelligenza artificiale non come un prodotto, ma come una forza evolutiva.
 
 ## Collegamento con questa indagine
-La visione a lungo termine e serena di Kelly riguardo alla traiettoria della tecnologia costituisce un utile contrappeso sia al tecnoutopismo che al tecnopessimismo. Il suo lavoro su ciò che la tecnologia «vuole» arricchisce il livello «civiltà» di questa indagine.
+La visione a lungo termine e serena di Kelly riguardo alla traiettoria della tecnologia costituisce un utile contrappeso sia al tecnoutopismo che al tecnopessimismo. Il suo lavoro su ciò che la tecnologia “vuole” arricchisce il livello “civiltà” di questa indagine.
 
 ## Idee chiave
 - **Technium**: il sistema tecnologico globale e interconnesso che si comporta come un organismo vivente.

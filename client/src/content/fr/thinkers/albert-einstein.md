@@ -29,16 +29,16 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/albert-einstein.md
   source_hash: 90d2d319f128c107
   provider: deepl
-  translated_at: 2026-08-02T08:18:49.817Z
+  translated_at: 2026-09-02T10:34:55.296Z
 ---
 
 # Albert Einstein
 
 ## Pourquoi est-il important ?
-Les travaux scientifiques d’Einstein ont transformé la compréhension qu’a l’humanité de l’espace, du temps, de la matière et de l’énergie. Mais sa philosophie humaniste — son insistance sur le fait que les scientifiques portent une responsabilité morale quant aux conséquences de leurs découvertes, son plaidoyer en faveur d’un gouvernement mondial, sa conviction que l’imagination est plus importante que la connaissance — est tout aussi pertinente pour cette réflexion.
+Les travaux scientifiques d'Einstein ont transformé la compréhension qu'a l'humanité de l'espace, du temps, de la matière et de l'énergie. Mais sa philosophie humaniste — son insistance sur le fait que les scientifiques ont une responsabilité morale vis-à-vis des conséquences de leurs découvertes, son plaidoyer en faveur d'un gouvernement mondial, sa conviction que l'imagination est plus importante que la connaissance — est tout aussi pertinente pour cette réflexion.
 
 ## Lien avec cette réflexion
-L’affirmation d’Einstein selon laquelle « nous ne pouvons pas résoudre nos problèmes avec la même pensée que celle qui les a créés » est l’un des principes fondateurs de la réflexion sur l’Éveil civilisationnel. La manière dont il allie une pensée scientifique rigoureuse à une profonde préoccupation humaniste constitue un modèle pour aborder l’ère de l’IA.
+L’affirmation d’Einstein selon laquelle « nous ne pouvons pas résoudre nos problèmes avec la même pensée que celle qui les a créés » est l’un des principes fondateurs de la réflexion sur l’Éveil civilisationnel. Sa combinaison d’une pensée scientifique rigoureuse et d’une profonde préoccupation humaniste constitue un modèle pour aborder l’ère de l’IA.
 
 ## Idées clés
 - **Relativité** : l’espace et le temps ne sont pas absolus, mais relatifs à l’observateur.

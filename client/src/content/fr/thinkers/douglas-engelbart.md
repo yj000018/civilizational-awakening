@@ -2,7 +2,7 @@
 title: Douglas Engelbart
 slug: douglas-engelbart
 type: thinker
-summary: "Pionnier de l'interaction homme-machine, inventeur de la souris et précurseur de l'idée d'améliorer les capacités intellectuelles de l'être humain grâce à la technologie."
+summary: "Pionnier de l'interaction homme-machine, inventeur de la souris et précurseur de l'idée d'une amélioration des capacités intellectuelles humaines grâce à la technologie."
 lineage_category: cognition-technology
 status: ready
 visibility: public
@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/douglas-engelbart.md
   source_hash: 2c685f05bac2a530
   provider: deepl
-  translated_at: 2026-08-02T08:18:52.891Z
+  translated_at: 2026-09-02T10:34:58.498Z
 ---
 
 # Douglas Engelbart
@@ -41,7 +41,7 @@ La « Mother of All Demos » d’Engelbart, en 1968, a présenté la souris, l�
 Engelbart est l’ancêtre direct de Y-OS et de Memory OS. Sa question — comment augmenter l’intelligence humaine ? — est la question fondatrice du pilier « Mind ». Son concept de « bootstrapping » (utiliser le système pour améliorer le système) est un principe fondamental de Y-OS.
 
 ## Idées clés
-- **Augmenter l’intelligence humaine** : la technologie doit amplifier les capacités cognitives humaines, et non les remplacer.
+- **Améliorer l’intelligence humaine** : la technologie doit amplifier les capacités cognitives humaines, et non les remplacer.
 - **Bootstrapping** : utiliser des outils améliorés pour améliorer les outils eux-mêmes.
 - **QI collectif** : l’intelligence d’un groupe peut être systématiquement améliorée.
 - **NLS/Augment** : son système de connaissances collaboratif pionnier, en avance de plusieurs décennies sur son temps.

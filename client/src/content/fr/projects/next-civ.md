@@ -1,5 +1,5 @@
 ---
-title: Next Civ
+title: Prochaine civilisation
 slug: next-civ
 type: project
 summary: Un cadre de recherche pour la prochaine civilisation.
@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: Étudier les fondements cognitifs, sociaux et technologiques de la prochaine civilisation.
-core_question: Quels sont les systèmes
+core_question: Quels sont les systèmes qui
 related_projects:
   - youniverse
   - human-capital-systems
@@ -27,14 +27,14 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/next-civ.md
   source_hash: 0a8e5b908fafe1ee
   provider: deepl
-  translated_at: 2026-08-02T08:18:45.465Z
+  translated_at: 2026-09-02T10:34:50.905Z
 ---
 
 # Next Civ
 ## Positionnement en une ligne
 Next Civ est un cadre de recherche consacré à la prochaine civilisation.
 ## Question centrale
-Quels systèmes sont nécessaires pour que l’humanité s’épanouisse à l’ère de l’IA, de l’abondance et de l’intelligence à l’échelle planétaire ?
+Quels sont les systèmes nécessaires pour que l'humanité s'épanouisse à l'ère de l'IA, de l'abondance et de l'intelligence à l'échelle planétaire ?
 ## Thèse
 Les décennies à venir pourraient transformer l’intelligence, le travail, la longévité, la gouvernance, l’économie, l’éducation, la créativité et l’identité humaine.
 Next Civ explore les questions systémiques soulevées par cette transition. Il s’interroge sur le type de civilisation qui deviendra possible lorsque l’IA, l’automatisation, l’abondance, les réseaux et le potentiel humain ne seront plus des forces marginales, mais des conditions de fonctionnement centrales.
@@ -52,9 +52,9 @@ Cela inclut la gouvernance, la coordination, la confiance, l’abondance, l’en
 - éducation du futur
 - entreprise sociale et contribution
 - mémoire civilisationnelle
-## Lien avec « Civilizational Awakening »
-« Civilizational Awakening » constitue la réflexion plus large.
-Next Civ constitue le volet de recherche et de conception de systèmes spécifiquement axé sur l’avenir de la civilisation.
+## Lien avec l’Éveil civilisationnel
+L’Éveil civilisationnel constitue une réflexion plus large.
+Next Civ est le volet de recherche et de conception de systèmes spécifiquement axé sur l’avenir de la civilisation.
 ## Questions ouvertes
 - Qu’est-ce qui succédera à la rareté en tant que principe organisateur principal ?
 - À quoi ressemble la gouvernance à l’ère d’une coordination

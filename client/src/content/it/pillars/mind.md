@@ -33,11 +33,11 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-08-02T08:19:11.023Z
+  translated_at: 2026-09-02T10:35:16.226Z
 ---
 
 # Mind
-## Domanda centrale
+## Domanda fondamentale
 Come si evolve l’intelligenza?
 ## Tesi
 L’era dell’IA non richiede solo strumenti migliori. Richiede un’infrastruttura cognitiva migliore.
@@ -75,7 +75,7 @@ We need a better capture → consolidation → context pipeline.
 - Iain McGilchrist — attenzione, mente e significato.
 ## Domande aperte
 - Qual è il sistema operativo cognitivo minimo funzionante?
-- Come dovrebbe essere acquisita, convalidata e integrata la memoria negli agenti?
+- Come dovrebbe essere acquisita, convalidata e iniettata la memoria negli agenti?
 - Come dovrebbero essere instradati i compiti tra modelli e strumenti?
 - In che modo l’IA può aumentare l’autonomia umana anziché la dipendenza?
 ## Stato attuale

@@ -28,19 +28,19 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/spirit-soul.md
   source_hash: d6792ead8b01937a
   provider: deepl
-  translated_at: 2026-08-02T08:19:12.697Z
+  translated_at: 2026-09-02T10:35:17.797Z
 ---
 
 # Spirito / Anima
 ## Domanda fondamentale
 Chi siamo?
 ## Tesi
-La domanda più profonda sollevata dall’era dell’intelligenza artificiale non riguarda solo ciò che le macchine sono in grado di fare. Riguarda ciò che rimane in modo unico, misterioso e irriducibilmente umano.
-Spirito / Anima è il pilastro che sostiene le domande sulla coscienza, il significato, la presenza, il risveglio e l’identità. Si
-chiede cosa accada quando l’intelligenza diventa abbondante e l’umanità è invitata a riscoprire le dimensioni interiori dell’essere.
+La domanda più profonda sollevata dall’era dell’intelligenza artificiale non riguarda solo ciò che le macchine sono in grado di fare. Riguarda ciò che rimane unicamente, misteriosamente e irriducibilmente umano.
+Spirito / Anima è il pilastro che sostiene le domande sulla coscienza, il significato, la presenza, il risveglio e l’identità. Esso
+si chiede cosa accada quando l’intelligenza diventa abbondante e l’umanità è invitata a riscoprire le dimensioni interiori dell’essere.
 ## Perché è importante
 Una civiltà plasmata esclusivamente dall’ottimizzazione, dall’automazione e dall’intelligenza esterna rischia di dimenticare la vita interiore.
-Il pilastro Spirito / Anima tutela l’indagine più profonda: gli esseri umani non sono solo lavoratori, utenti, consumatori, punti dati o macchine biologiche. Sono centri di consapevolezza, significato, relazione e trasformazione.
+Il pilastro dello Spirito / Anima tutela la ricerca più profonda: gli esseri umani non sono solo lavoratori, utenti, consumatori, punti dati o macchine biologiche. Sono centri di consapevolezza, significato, relazione e trasformazione.
 ## Temi chiave
 - cos
 cienza
@@ -63,7 +63,7 @@ cienza
 ## Domande aperte
 - Cosa significa essere umani quando l’intelligenza non è più una risorsa scarsa?
 - In che modo l’IA può diventare
-uno specchio per la conoscenza di sé anziché solo uno strumento per la produttività?
+uno specchio per la conoscenza di sé piuttosto che un semplice strumento di produttività?
 - Quali forme di risveglio diventano possibili in un’era di abbondanza?
 - In che modo il linguaggio spirituale può rimanere aperto, preciso e non dogmatico?
 ## Stato attuale

@@ -2,7 +2,7 @@
 title: Buckminster Fuller
 slug: buckminster-fuller
 type: thinker
-summary: "Penseur systémique et spécialiste en sciences du design, il a exploré la conception anticipative globale au service de l'humanité."
+summary: "Penseur systémique et spécialiste en sciences du design, il s'est intéressé à la conception anticipative globale au service de l'humanité."
 lineage_category: systems-civilization
 status: ready
 visibility: public
@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/buckminster-fuller.md
   source_hash: e8ff706eeb363999
   provider: deepl
-  translated_at: 2026-08-02T08:18:50.592Z
+  translated_at: 2026-09-02T10:34:56.133Z
 ---
 
 # Buckminster Fuller

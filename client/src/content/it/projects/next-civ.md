@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/next-civ.md
   source_hash: 0a8e5b908fafe1ee
   provider: deepl
-  translated_at: 2026-08-02T08:19:19.248Z
+  translated_at: 2026-09-02T10:35:24.102Z
 ---
 
 # Next Civ
@@ -39,7 +39,7 @@ Quali sistemi sono necessari affinché l’umanità possa prosperare in un’era
 I prossimi decenni potrebbero trasformare l’intelligenza, il lavoro, la longevità, la governance, l’economia, l’istruzione, la creatività e l’identità umana.
 Next Civ esplora le questioni a livello di sistema sollevate da questa transizione. Si chiede quale tipo di civiltà diventi possibile quando l’intelligenza artificiale, l’automazione, l’abbondanza, le reti e il potenziale umano non siano più forze marginali, ma condizioni operative centrali.
 ## Perché è importante
-La maggior parte delle discussioni sul futuro si concentra sulla tecnologia o sulle crisi. Next Civ pone una domanda più ampia: cosa richiederebbe una civiltà più saggia?
+La maggior parte delle discussioni sul futuro si concentra o sulla tecnologia o sulla crisi. Next Civ pone una domanda più ampia: cosa richiederebbe una civiltà più saggia?
 Ciò include la governance, il coordinamento, la fiducia, l’abbondanza, l’impresa sociale, il capitale umano, l’intelligenza collettiva, lo sviluppo spirituale, l’etica multispecie e la progettazione di istituzioni che sostengano la prosperità.
 ## Ambiti di ricerca
 - IA e abbondanza
@@ -49,16 +49,16 @@ Ciò include la governance, il coordinamento, la fiducia, l’abbondanza, l’im
 - fiducia e reputazione
 - longevità e significato
 - civiltà multispecie
-- istruzione del futuro
+- educazione del futuro
 - impresa sociale e contributo
 - memoria civile
-## Rapporto con il Risveglio Civile
+## Relazione con il Risveglio Civile
 Il Risveglio Civile rappresenta l’indagine più ampia.
 Next Civ è il livello di ricerca e progettazione dei sistemi incentrato specificamente sul futuro della civiltà.
 ## Domande aperte
 - Cosa succederà dopo la scarsità come principio organizzativo principale?
 - Come si configurerà la governance in un’era di coordinamento mediato dall’IA?
-- Come può il potenziale umano diventare una risorsa per la civiltà senza trasformarsi in un sistema di controllo?
+- In che modo il potenziale umano può diventare una risorsa per la civiltà senza trasformarsi in un sistema di controllo?
 - Quali istituzioni sono necessarie per un’era di abbondanza e longevità?
 - Come dovrebbero relazionarsi gli esseri umani con le altre specie e forme di intelligenza?
 ## Stato attuale

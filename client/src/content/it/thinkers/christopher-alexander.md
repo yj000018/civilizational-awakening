@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/christopher-alexander.md
   source_hash: 7ef9a3d025665de0
   provider: deepl
-  translated_at: 2026-08-02T08:19:25.273Z
+  translated_at: 2026-09-02T10:35:29.904Z
 ---
 
 # Christopher Alexander
@@ -42,9 +42,9 @@ Alexander ha dedicato la sua carriera a chiedersi perché alcuni edifici e alcun
 L’insistenza di Alexander sul fatto che il design debba essere al servizio dell’integrità umana — non dell’efficienza, né dell’estetica, né dell’ideologia — è un precursore diretto del livello «civiltà» di questa indagine. La sua metodologia del «linguaggio dei modelli» è un modello su come progettare infrastrutture civili che sostengano la prosperità umana.
 
 ## Idee chiave
-- **Linguaggio dei modelli**: un vocabolario strutturato di modelli di progettazione che possono essere combinati per creare ambienti viventi.
+- **Linguaggio dei modelli**: un vocabolario strutturato di modelli progettuali che possono essere combinati per creare ambienti viventi.
 - **Centri**: la struttura vivente è costituita da centri annidati e sovrapposti che si rafforzano a vicenda.
-- **Struttura vivente**: alcune strutture sostengono la vita e l’integrità; altre le sopprimono.
+- **Struttura vivente**: alcune strutture sostengono la vita e l’integrità; altre la sopprimono.
 - **La natura dell’ordine**: un’esplorazione in quattro volumi della struttura profonda della bellezza e della vita nel mondo costruito.
 
 ## Pilastri correlati

@@ -2,7 +2,7 @@
 title: Sri Aurobindo
 slug: sri-aurobindo
 type: thinker
-summary: "Filosofo, poeta e yogi indiano che ha sviluppato una visione integrale dell'evoluzione umana verso una coscienza sopramentale."
+summary: "Filosofo, poeta e yogi indiano che ha sviluppato una visione integrale dell'evoluzione umana verso una coscienza sovramentale."
 lineage_category: consciousness-evolution
 status: ready
 visibility: public
@@ -30,19 +30,19 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/sri-aurobindo.md
   source_hash: 73b594a13142dab1
   provider: deepl
-  translated_at: 2026-08-02T08:19:31.210Z
+  translated_at: 2026-09-02T10:35:35.316Z
 ---
 
 # Sri Aurobindo
 
 ## Perché è importante
-Aurobindo ha sviluppato una delle visioni più complete dell’evoluzione spirituale umana nel XX secolo. Il suo yoga integrale non era un ritiro dal mondo, ma un impegno nei suoi confronti — volto a trasformare la materia, la vita e la mente in espressioni di una coscienza superiore.
+Aurobindo ha sviluppato una delle visioni più complete dell’evoluzione spirituale umana del XX secolo. Il suo yoga integrale non era un ritiro dal mondo, ma un impegno nei suoi confronti — volto a trasformare la materia, la vita e la mente in espressioni di una coscienza superiore.
 
 ## Collegamento con questa indagine
 La visione di Aurobindo di una coscienza supramentale — una modalità di conoscenza che trascende i limiti della mente razionale — è una stella polare per il pilastro Spirito/Anima. La sua insistenza sul fatto che l’evoluzione spirituale debba essere collettiva, non solo individuale, si collega al livello della civiltà.
 
 ## Idee chiave
-- **Coscienza supramentale**: una modalità di coscienza al di là della mente razionale che percepisce direttamente la verità.
+- **Coscienza sopramentale**: una modalità di coscienza al di là della mente razionale che percepisce direttamente la verità.
 - **Yoga integrale**: una pratica di trasformazione che include corpo, vita, mente e spirito.
 - **Evoluzione della coscienza**: la coscienza, non la materia, è la realtà primaria; l’evoluzione è il suo dispiegarsi.
 - **Vita Divina**: la trasformazione della vita umana ordinaria in un’espressione della coscienza divina.

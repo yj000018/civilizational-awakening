@@ -2,7 +2,7 @@
 title: ONEshift
 slug: oneshift
 type: project
-summary: Un quadro di riferimento per il contributo e la trasformazione destinato agli attori del cambiamento.
+summary: Un quadro di riferimento per il contributo e la trasformazione rivolto agli attori del cambiamento.
 pillar: body-action
 status: ready
 visibility: public
@@ -21,24 +21,24 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/oneshift.md
   source_hash: 79d585d1c7df457c
   provider: deepl
-  translated_at: 2026-08-02T08:19:20.060Z
+  translated_at: 2026-09-02T10:35:24.938Z
 ---
 
 # ONEshift
 ## Posizionamento in una riga
-ONEshift esplora il modo in cui la consapevolezza si trasforma in contributo.
+ONEshift esplora come la consapevolezza si trasformi in contributo.
 ## Domanda centrale
 In che modo il risveglio interiore può diventare un contributo concreto al mondo?
 ## Tesi
 Molte persone provano il desiderio di servire, costruire, guarire, creare o trasformare qualcosa, ma faticano a tradurre le proprie aspirazioni interiori in azioni concrete.
-ONEshift è un quadro di riferimento per quel passaggio: dalla consapevolezza all’azione, dai valori ai progetti, dallo scopo al contributo.
+ONEshift è un quadro di riferimento per questo passaggio: dalla consapevolezza all’azione, dai valori ai progetti, dallo scopo al contributo.
 Si chiede come una persona possa diventare un attore del cambiamento senza ridursi alla produttività, all’attivismo o al personal branding.
 ## Perché è importante
 L’era dell’intelligenza artificiale può amplificare le capacità individuali, ma le capacità da sole non creano un contributo significativo.
-Le persone hanno bisogno di strumenti per comprendere chi sono, a cosa tengono, cosa sono in grado di fare, dove sono chiamate a servire e in che modo il loro contributo 
+Le persone hanno bisogno di strumenti per capire chi sono, cosa gli sta a cuore, cosa sono in grado di fare, dove sono chiamate a servire e in che modo il loro contributo 
 si collega a sistemi di cambiamento più ampi.
 ## Relazione con il pilastro Corpo / Azione
-ONEshift appartiene al pilastro Corpo / Azione perché fa da ponte tra la coscienza e l’azione incarnata.
+ONEshift appartiene al pilastro Corpo / Azione perché fa da ponte tra la consapevolezza e l’azione incarnata.
 Non si limita a chiedere in cosa crede una persona, ma cosa fa con la propria consapevolezza.
 ## Funzioni possibili
 - profilazione degli attori del cambiamento

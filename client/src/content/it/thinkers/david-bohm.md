@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/david-bohm.md
   source_hash: 59adb9c432e20be1
   provider: deepl
-  translated_at: 2026-08-02T08:19:26.066Z
+  translated_at: 2026-09-02T10:35:30.718Z
 ---
 
 # David Bohm
@@ -42,10 +42,10 @@ Bohm è stato uno dei fisici più originali del XX secolo. Ha sostenuto che, al 
 L’insistenza di Bohm sulla totalità — secondo cui la frammentazione del pensiero è alla radice dei problemi umani — trova profonda risonanza nell’indagine sul Risveglio Civiltà. La sua pratica del dialogo è un precursore diretto dell’intelligenza collettiva e dei livelli di rete/trasmissione.
 
 ## Idee chiave
-- **Ordine implicato**: l’ordine più profondo e ripiegato da cui si dispiega il mondo esplicito (osservabile).
+- **Ordine implicato**: l’ordine più profondo e racchiuso da cui si dispiega il mondo esplicito (osservabile).
 - **Totalità**: la realtà è fondamentalmente indivisa; la frammentazione è una caratteristica del pensiero, non della natura.
 - **Dialogo**: una forma di pensiero collettivo in cui i partecipanti sospendono i preconcetti ed esplorano insieme il significato.
-- **Reomodo**: Una grammatica proposta in cui i verbi, e non i sostantivi, sono primari — riflettendo la natura fluida della realtà.
+- **Reomodo**: una grammatica proposta in cui i verbi, e non i sostantivi, sono primari — riflettendo la natura fluida della realtà.
 
 ## Pilastri correlati
 Mente, Spirito / Anima
