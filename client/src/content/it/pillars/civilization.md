@@ -33,14 +33,14 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/civilization.md
   source_hash: faaca10a252a8f1e
   provider: deepl
-  translated_at: 2026-09-02T10:35:13.950Z
+  translated_at: 2026-10-02T11:51:19.057Z
 ---
 
 # Civiltà
 ## Domanda fondamentale
 In che modo gli esseri umani possono prosperare insieme?
 ## Tesi
-L’era dell’IA solleva questioni relative alla civiltà: coordinamento, governance, abbondanza, longevità, fiducia, intelligenza collettiva, 
+L’era dell’IA solleva questioni fondamentali per la civiltà: coordinamento, governance, abbondanza, longevità, fiducia, intelligenza collettiva, 
 potenziale umano e il rapporto tra esseri umani, tecnologia e vita.
 Il pilastro «Civiltà» si interroga su come l’umanità possa progettare sistemi che aiutino le persone e le società a prosperare insieme, anziché limitarsi a ottimizzare lo sfruttamento, la competizione o il controllo.
 ## Perché è importante

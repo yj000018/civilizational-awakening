@@ -25,7 +25,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/memory-os.md
   source_hash: d84ad286d94efd50
   provider: deepl
-  translated_at: 2026-09-02T10:35:22.419Z
+  translated_at: 2026-10-02T11:51:29.798Z
 ---
 
 # Memory OS
@@ -34,8 +34,8 @@ Memory OS è un sistema operativo per la gestione del ciclo di vita della memori
 ## Domanda fondamentale
 In che modo la memoria dovrebbe passare dall’esperienza grezza a un contesto convalidato per gli esseri umani e gli agenti?
 ## Tesi
-Il problema centrale della memoria nell’IA non è il recupero, bensì la gestione del ciclo di vita.
-La maggior parte dei sistemi di memoria accumula frammenti: embedding, riassunti, cronologia delle chat, archivi vettoriali, note, snippet e preferenze. Essi recuperano i dati, ma non li consolidano, non li deduplicano, non risolvono le contraddizioni, non li convalidano, non li archiviano né regolano ciò che diventa canonico.
+Il problema centrale della memoria nell’IA non è il recupero. È la gestione del ciclo di vita.
+La maggior parte dei sistemi di memoria accumula frammenti: embedding, riassunti, cronologia delle chat, archivi vettoriali, note, snippet e preferenze. Questi sistemi recuperano i dati, ma non li consolidano, non li deduplicano, non risolvono le contraddizioni, non li convalidano, non li archiviano né regolano ciò che diventa canonico.
 Memory OS ridefinisce la memoria come una pipeline:
 ```plain text
 raw

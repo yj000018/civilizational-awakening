@@ -30,7 +30,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/david-bohm.md
   source_hash: 59adb9c432e20be1
   provider: deepl
-  translated_at: 2026-09-02T10:34:57.672Z
+  translated_at: 2026-10-02T11:50:57.846Z
 ---
 
 # David Bohm
@@ -39,13 +39,13 @@ translation:
 Bohm fut l’un des physiciens les plus originaux du XXe siècle. Il a avancé que, sous l’ordre explicite de la réalité observable, se cache un ordre implicite — une totalité plus profonde et indivisible. Ses travaux sur le dialogue en tant que processus de réflexion collective ont influencé l’apprentissage organisationnel, la résolution des conflits et l’intelligence collective.
 
 ## Lien avec cette réflexion
-L’insistance de Bohm sur la totalité — selon laquelle la fragmentation de la pensée est à l’origine des problèmes humains — trouve un écho profond dans la réflexion sur l’Éveil civilisationnel. Sa pratique du dialogue est un précurseur direct des couches d’intelligence collective et de réseau/transmission.
+L’insistance de Bohm sur la totalité — selon laquelle la fragmentation de la pensée est à l’origine des problèmes humains — trouve un écho profond dans la réflexion sur l’Éveil civilisationnel. Sa pratique du dialogue est un précurseur direct de l’intelligence collective et des couches de réseau/transmission.
 
 ## Idées clés
-- **Ordre implicite** : l’ordre plus profond et replié sur lui-même à partir duquel le monde explicite (observable) se déploie.
+- **Ordre implicite** : l’ordre plus profond et replié à partir duquel se déploie le monde explicite (observable).
 - **Intégrité** : la réalité est fondamentalement indivisible ; la fragmentation est une caractéristique de la pensée, et non de la nature.
 - **Dialogue** : une forme de pensée collective dans laquelle les participants mettent de côté leurs a priori et explorent ensemble le sens des choses.
-- **Rhéomode** : une grammaire proposée dans laquelle les verbes, et non les noms, occupent une place prépondérante — reflétant ainsi la nature fluide de la réalité.
+- **Rhéomode** : une grammaire proposée dans laquelle les verbes, et non les noms, occupent une place prépondérante — reflétant la nature fluide de la réalité.
 
 ## Piliers associés
 Esprit, Âme
@@ -54,10 +54,10 @@ Esprit, Âme
 Intelligence collective, Y-OS
 
 ## Questions ouvertes
-- Quel est le rapport entre l’ordre implicite et la conscience ?
+- Quel est le rapport entre l’ordre implicate et la conscience ?
 - Le dialogue bohmien peut-il être transposé à plus grande échelle grâce à l’IA ?
 
 ## Ouvrages recommandés
-- *La totalité et l’ordre implicite*
+- *La totalité et l’ordre implicate*
 - *Sur le dialogue*
 - *La pensée en tant que système*

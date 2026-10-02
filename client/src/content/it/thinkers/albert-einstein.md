@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/albert-einstein.md
   source_hash: 90d2d319f128c107
   provider: deepl
-  translated_at: 2026-09-02T10:35:28.363Z
+  translated_at: 2026-10-02T11:51:37.341Z
 ---
 
 # Albert Einstein
@@ -54,4 +54,4 @@ Next Civ
 
 ## Domande aperte
 - Cosa direbbe Einstein dell’IA?
-- Come possiamo coltivare la combinazione di rigore scientifico e immaginazione umanistica?
+- Come possiamo coltivare la combinazione tra rigore scientifico e immaginazione umanistica?

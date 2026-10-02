@@ -29,7 +29,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/heart.md
   source_hash: 892d8981433e3733
   provider: deepl
-  translated_at: 2026-09-02T10:34:41.735Z
+  translated_at: 2026-10-02T11:50:36.416Z
 ---
 
 # Cœur
@@ -40,7 +40,7 @@ L’avenir ne doit pas être conçu uniquement à travers l’intelligence, l’
 Le pilier « Cœur » protège la dimension non optimisée du travail : l’art, la poésie, la contemplation, l’affection, l’innocence, la compassion et l’expérience viscérale d’être en vie.
 ## Pourquoi est-ce important ?
 L’IA peut accélérer la cognition et l’automatisation, mais elle ne peut pas nous dire ce qui mérite notre respect.
-Une civilisation qui oublie la beauté devient efficace, mais vide. Le pilier « Cœur » s’interroge sur la manière dont la technologie, l’art et la vie humaine peuvent rester liés à la présence, à la bienveillance et au sacré sans tomber dans le sentimentalisme ou la religion.
+Une civilisation qui oublie la beauté devient efficace, mais vide. Le pilier « Cœur » s’interroge sur la manière dont la technologie, l’art et la vie humaine peuvent rester liés à la présence, à la bienveillance et au sacré sans tomber dans le sentimentalisme ou la religiosité.
 ## Thèmes clés
 - beauté
 - amour
@@ -49,9 +49,9 @@ Une civilisation qui oublie la beauté devient efficace, mais vide. Le pilier «
 - poésie
 - émerveillement
 - contemplation
-- art
-- sacré
-- innocence
+- l’art
+- le sacré
+- l’innocence
 ## Projets associés
 - **Visual Reality** — exploration de la réalité à travers l’art, la beauté, la contemplation et la photographie abstraite.
 - **Winnie Forever** — un projet poétique centré sur le cœur, autour de dessins, de peintures, de citations et de tendresse.
@@ -59,7 +59,7 @@ Une civilisation qui oublie la beauté devient efficace, mais vide. Le pilier «
 - **7D Yoga** — pratique cœur/corps/esprit (en cours de développement).
 ## Principe de conception
 La réalité visuelle est presque l’opposé de l’optimisation.
-Il ne s’agit pas de tirer davantage de valeur de la réalité, mais d’apprendre à la voir, à la ressentir et à la contempler plus profondément.
+Il ne s’agit pas de tirer davantage de valeur de la réalité, mais d’apprendre à voir, à ressentir et à contempler la réalité plus profondément.
 ## Penseurs associés
 - Christopher Alexander — structure vivante, langage des motifs et qualité de la beauté dans le monde bâti.
 ## Questions ouvertes

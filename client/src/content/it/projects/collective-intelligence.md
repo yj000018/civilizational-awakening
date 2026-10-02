@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: Progettare sistemi in cui molte menti possano pensare, decidere e agire insieme in modo più efficace.
-core_question: "In che modo l'intelligenza umana e quella artificiale possono coordinarsi per arrivare a un'azione collettiva più oculata?"
+core_question: "In che modo l'intelligenza umana e quella artificiale possono coordinarsi per arrivare a un'azione collettiva più saggia?"
 related_projects:
   - next-civ
   - youniverse
@@ -26,7 +26,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/collective-intelligence.md
   source_hash: 86f7594ef1f88337
   provider: deepl
-  translated_at: 2026-09-02T10:35:20.435Z
+  translated_at: 2026-10-02T11:51:27.390Z
 ---
 
 # Intelligenza collettiva
@@ -36,7 +36,7 @@ L’intelligenza collettiva esplora il modo in cui l’intelligenza si coordina 
 In che modo l’intelligenza umana e quella artificiale possono coordinarsi per arrivare a un’azione collettiva più saggia?
 ## Tesi
 Il futuro non sarà plasmato solo dall’intelligenza individuale o dai singoli assistenti di IA. Sarà plasmato dal modo in cui persone, gruppi, istituzioni, reti e sistemi di IA pensano insieme.
-L’intelligenza collettiva si chiede come la conoscenza, la fiducia, la memoria, la deliberazione, la previsione, il contributo e l’azione possano essere coordinati tra molte menti e
+L’intelligenza collettiva si interroga su come conoscenza, fiducia, memoria, deliberazione, previsione, contributo e azione possano essere coordinati tra molte menti e
  molti strumenti.
 ## Perché è importante
 Molti dei problemi più complessi dell’umanità sono problemi di coordinamento.
@@ -47,7 +47,7 @@ L’IA può amplificare la frammentazione oppure contribuire a costruire una mig
 - memoria di gruppo
 - strumenti di deliberazione
 - previsione
-e sistemi di credenze
+ e sistemi di credenze
 - grafici di reputazione e fiducia
 - mercati delle idee
 - reti di esperti
@@ -55,7 +55,7 @@ e sistemi di credenze
 - gruppi di ricerca assistiti dall’IA
 - protocolli decisionali e d’azione
 ## Relazione con Next Civ
-Next Civ si chiede quali sistemi su scala di civiltà siano necessari per il futuro.
+Next Civ si chiede quali sistemi su scala civile siano necessari per il futuro.
 L’intelligenza collettiva è una delle sue capacità fondamentali: la capacità dei gruppi e delle società di percepire, pensare, decidere e agire insieme con maggiore saggezza.
 ## Principio di progettazione
 L’intelligenza collettiva non è solo aggregazione.
@@ -65,6 +65,6 @@ L’intelligenza collettiva non è solo aggregazione.
 - Di quali tipi di memoria hanno bisogno i gruppi?
 - Come si può rappresentare la fiducia senza che questa si trasformi in sorveglianza?
 - Come si possono collegare previsione, deliberazione e azione?
-- Che aspetto avrebbe una rete veramente saggia?
+- Come sarebbe una rete veramente saggia?
 ## Stato attuale
 Pagina del progetto P0 pronta. Bozza canonica GPT.

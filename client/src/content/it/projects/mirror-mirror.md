@@ -21,18 +21,18 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/mirror-mirror.md
   source_hash: cc60e4c7fc89caff
   provider: deepl
-  translated_at: 2026-09-02T10:35:23.251Z
+  translated_at: 2026-10-02T11:51:31.012Z
 ---
 
 # Mirror Mirror
-## Posizionamento in una riga
-Mirror Mirror esplora l’IA come specchio di riflessione, identità e conoscenza di sé.
+## Sintesi in una riga
+Mirror Mirror esplora l’intelligenza artificiale come specchio di riflessione, identità e conoscenza di sé.
 ## Domanda centrale
-L’IA può aiutare gli esseri umani a vedere se stessi con maggiore chiarezza senza ridurli a semplici profili?
+L’intelligenza artificiale può aiutare gli esseri umani a vedere se stessi con maggiore chiarezza senza ridurli a semplici profili?
 ## Tesi
 La maggior parte dei sistemi di IA è progettata per rispondere, automatizzare 
 o generare. Mirror Mirror si chiede se l’IA possa anche riflettere.
-Il progetto esplora come l’intelligenza conversazionale, la memoria, l’interpretazione simbolica e il contesto personale possano sostenere l’introspezione: non dicendo alle persone chi sono, ma aiutandole a individuare schemi, domande, contraddizioni, desideri e possibilità.
+Il progetto esplora come l’intelligenza conversazionale, la memoria, l’interpretazione simbolica e il contesto personale possano sostenere l’introspezione: non dicendo alle persone chi sono, ma aiutandole a cogliere schemi, domande, contraddizioni, desideri e possibilità.
 ## Perché è importante
 Man mano che l’IA diventa più intima, influenzerà sempre di più il modo in cui le persone comprendono se stesse. Ciò comporta sia rischi che opportunità.
 Il rischio è la manipolazione, la

@@ -27,7 +27,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/body-action.md
   source_hash: ca5b6012a807d272
   provider: deepl
-  translated_at: 2026-09-02T10:35:13.136Z
+  translated_at: 2026-10-02T11:51:17.717Z
 ---
 
 # Corpo / Azione
@@ -35,10 +35,10 @@ translation:
 In che modo la coscienza si trasforma in contributo?
 ## Tesi
 Il risveglio è incompleto se non si traduce in azione.
-Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra coscienza e impatto sociale.
+Il pilastro Corpo / Azione esplora come lo scopo, l’azione, il servizio, l’incarnazione e il contributo traducano la consapevolezza interiore in un cambiamento nel mondo reale. È il ponte tra la coscienza e l’impatto sociale.
 ## Perché è 
 importante
-Un futuro plasmato dall’intelligenza artificiale non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventa visibile e sostenuto.
+Un futuro plasmato dall’intelligenza artificiale non può essere solo contemplativo o cognitivo. Deve anche chiedersi chi agisce, come agisce, a cosa serve e come il suo contributo diventi visibile e sostenuto.
 Corpo / Azione è il luogo in cui l’indagine diventa pratica.
 ## Temi chiave
 - scopo
@@ -63,7 +63,7 @@ Si chiede come gli esseri umani possano diventare più consapevoli, più incarna
 - Cosa rende qualcuno un attore del cambiamento?
 - In che modo l’IA può sostenere uno scopo senza manipolare l’identità?
 - Come si può misurare l’impatto senza 
-appiattire il valore umano?
+sminuire il valore umano?
 - In che modo l’impresa sociale può rimanere radicata nella consapevolezza e nella cura?
 ## Stato attuale
 Pagina del pilastro P0 pronta. Bozza canonica GPT.

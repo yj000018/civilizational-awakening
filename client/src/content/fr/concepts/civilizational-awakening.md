@@ -30,20 +30,20 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/concepts/civilizational-awakening.md
   source_hash: a070532924f87f9c
   provider: deepl
-  translated_at: 2026-09-02T10:34:30.991Z
+  translated_at: 2026-10-02T11:50:22.240Z
 ---
 
-# L'éveil civilisationnel
+# Éveil civilisationnel
 ## Positionnement en une ligne
-L'éveil civilisationnel est une réflexion permanente sur l'épanouissement humain à l'ère de l'IA.
+L’Éveil civilisationnel est une réflexion permanente sur l’épanouissement humain à l’ère de l’IA.
 ## Question centrale
 Que signifie
- être véritablement humain lorsque l'intelligence, la mémoire, l'automatisation, l'abondance, la longévité et la coordination à l'échelle planétaire deviennent programmables ?
+ être véritablement humain lorsque l’intelligence, la mémoire, l’automatisation, l’abondance, la longévité et la coordination à l’échelle planétaire deviennent programmables ?
 ## Thèse
 L’intelligence artificielle n’est pas seulement un événement technologique. C’est un miroir de la civilisation.
 Elle oblige l’humanité à se poser des questions plus profondes : qui sommes-nous, quelles sont nos valeurs, comment nous coordonnons-nous, comment nous souvenons-nous, comment agissons-nous, et quel type de civilisation devient possible lorsque la rareté n’est plus le seul principe organisateur ?
-« Civilizational Awak
-ening » est le nom donné à cette réflexion. Elle relie la conscience, la cognition, l’action et la civilisation en une seule carte de travail exploitable.
+« Civilizational Awakening »
+est le nom donné à cette réflexion. Elle relie la conscience, la cognition, l’action et la civilisation en une seule carte de travail navigable.
 ## De quoi s’agit-il ?
 Ce n’est pas une entreprise.
 Ce n’est pas un produit.
@@ -51,8 +51,8 @@ Ce n’est pas un mouvement.
 Ce n’est pas une religion.
 Ce n’est pas un groupe de réflexion.
 C’est une carte cohérente d’une œuvre de toute une vie : un champ de recherche, de création et de contribution explorant la prochaine phase du potentiel humain.
-## Les piliers
-Cette réflexion s’articule autour de cinq grands axes :
+## Piliers
+Cette réflexion s’articule autour de cinq axes majeurs :
 - **Esprit / Âme** — qui sommes-nous ?
 - **Cœur** — qu’est-ce qui ouvre
 et nourrit le cœur humain ?
@@ -70,9 +70,9 @@ L’Éveil civilisationnel s’inscrit dans ce cadre plus large.
 - Y-OS en tant que système d’exploitation de la cognition
 - Memory OS en tant que gestion du cycle de vie de la mémoire
 - ONEshift et Actor of Change en tant que couches d’action et de contribution
-- Réalité visuelle, Miroir Miroir et Archétypes : explorations de la conscience et du
+- « Visual Reality », « Mirror Mirror » et « Archetypes » : explorations de la conscience et du
 cœur
-- Next Civ et Systèmes de capital humain : axes de conception civilisationnelle
+- « Next Civ » et « Human Capital Systems » : axes de conception civilisationnelle
 ## Questions ouvertes
 - Qu’advient-il du sens humain à l’ère de l’abondance de l’IA ?
 - Comment la conscience peut-elle se transformer en contribution ?

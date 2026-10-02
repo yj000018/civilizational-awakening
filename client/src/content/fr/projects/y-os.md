@@ -28,7 +28,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/y-os.md
   source_hash: 73cf27ca45e95ff2
   provider: deepl
-  translated_at: 2026-09-02T10:34:53.615Z
+  translated_at: 2026-10-02T11:50:52.396Z
 ---
 
 # Y-OS
@@ -53,7 +53,7 @@ Y-OS n’est pas une simple application. C’est une architecture destinée à o
 - l’acheminement des actions,
 - et les connaissances canoniques.
 ## Architecture de base
-L’architecture actuelle de Y-OS repose sur un modèle en couches :
+L’architecture actuelle de Y-OS utilise un modèle en couches :
 ```plain text
 Capture
 ↓
@@ -78,13 +78,13 @@ Obsidian remembers.
 Git protects.
 Agents receive context packs.
 ```
-Pour la phase de déploiement en cours, Notion est temporairement utilisé comme entrepôt Markdown structuré avant la migration vers Obsidian / Y-World.
+Pour la phase de déploiement actuelle, Notion est temporairement utilisé comme entrepôt Markdown structuré avant la migration vers Obsidian / Y-World.
 ## CRT et ART
 Y-OS comprend deux couches de routage :
 - **CRT — Table de routage cognitif** : choisit le modèle ou le système de raisonnement adapté à la tâche.
 - **ART — Table de routage des agents** : choisit l’agent, l’outil ou l’environnement d’exécution approprié.
 
-La version actuelle de la CRT (v0) est manuelle et simple :
+La version actuelle de la CRT v0 est manuelle et simple :
 ```plain text
 GPT     = architecture, final specs, QA, code review
 Claude  = review, simplification, human tone, long-form polish
@@ -93,10 +93,10 @@ Lovable = fast UI exploration
 Gemini  = multimodal and large-context tasks
 Image model = image generation and editing
 ```
-Lorsque la fidélité au contexte est essentielle, GPT génère la première ébauche canonique. Claude la révise ensuite et la simplifie. Cela empêche Claude de réinterpréter l’architecture de base trop tôt.
+Lorsque la fidélité au contexte est essentielle, GPT génère la première ébauche canonique. Claude la révise et la simplifie ensuite. Cela empêche Claude de réinterpréter l’architecture de base trop tôt.
 ## Héritage intellectuel
-Y-OS s’inscrit dans une lignée de symbiose homme-machine et d’évolution technologique. Douglas Engelbart est une référence clé pour l’augmentation de l’intellect humain. Kevin Kelly est une référence pour comprendre la technologie comme un écosystème en évolution.
-## Pourquoi c’est important
+Y-OS s’inscrit dans une lignée de symbiose homme-machine et d’évolution technologique. Douglas Engelbart est une référence majeure en matière d’augmentation de l’intellect humain. Kevin Kelly est une référence pour comprendre la technologie comme un écosystème en évolution.
+## Pourquoi est-ce important ?
 Sans système d’exploitation cognitif, l’IA devient un ensemble d’outils puissants mais déconnectés les uns des autres.
 Y-OS s’interroge sur la manière dont une personne peut préserver la continuité entre tous ces éléments : ce qu’elle sait, ce qu’elle a décidé, ce qu’elle construit, ce qui compte, ce qu’il faut retenir, ce qu’il faut oublier, et de quel contexte chaque agent a besoin à l’instant présent.
 ## Modules associés
@@ -108,10 +108,10 @@ Y-OS s’interroge sur la manière dont une personne peut préserver la continui
 - Système de fichiers de mémoire basé sur Git
 - Packs de contexte pour Manus, GPT, Claude, Cursor et d’autres agents
 ## Questions ouvertes
-- Quel est le système d’exploitation cognitif minimal viable ?
+- Quel est le système d’exploitation cognitif minimum viable ?
 - Quelle part doit être automatisée par rapport à celle validée manuellement ?
 - Comment empêcher la mémoire de se transformer en bruit ?
 - Comment répartir les tâches de manière rentable entre les modèles et les agents ?
 - Comment faire en sorte que l’augmentation par l’IA renforce l’autonomie plutôt que la dépendance ?
 ## État d’avancement
-Page du projet P0 prête. QA GPT terminé après révision par Claude.
+Page du projet P0 prête. Questions-réponses sur GPT terminées après révision par Claude.

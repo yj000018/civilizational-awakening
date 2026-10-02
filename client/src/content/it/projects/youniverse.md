@@ -24,7 +24,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/youniverse.md
   source_hash: 48db6ce256a36df0
   provider: deepl
-  translated_at: 2026-09-02T10:35:27.538Z
+  translated_at: 2026-10-02T11:51:36.337Z
 ---
 
 # YOUniverse
@@ -34,14 +34,14 @@ YOUniverse è un sistema operativo per il potenziale umano.
 Come può ogni persona possedere, gestire, sviluppare e condividere le proprie conoscenze, i propri dati, il proprio contributo e il proprio potenziale umano nell’era dell’intelligenza artificiale?
 ## Tesi
 La prossima fase della vita digitale non dovrebbe essere organizzata solo attorno a piattaforme, feed, app e istituzioni. Dovrebbe invece essere organizzata attorno all’essere umano come centro sovrano delle proprie conoscenze, memoria, dati, relazioni, idee, capacità e contributi.
-YOUniverse si chiede cosa diventi possibile quando la conoscenza personale, la memoria dell’IA, il capitale umano, la creatività, lo scopo, l’impatto sociale e il valore futuro vengono trattati come parti di un unico grafo coerente del potenziale umano.
+YOUniverse si chiede cosa diventi possibile quando la conoscenza personale, la memoria dell’IA, il capitale umano, la creatività, lo scopo, l’impatto sociale e il valore futuro vengono trattati come parti di un unico grafico coerente del potenziale umano.
 ## Cosa comprende
 YOUniverse non è una singola app. È una meta-architettura che collega diversi livelli:
 - conoscenza e memoria personali
 - dati controllati dall’utente
 - contesto dell’IA e infrastruttura cognitiva
 - mappatura del potenziale umano
-- grafi di idee e contributi
+- grafici di idee e contributi
 - segnali di reputazione e fiducia
 - creazione di valore futuro
 - autonomia personale nei sistemi mediati dall’IA
@@ -69,7 +69,7 @@ YOUniverse punta verso una rete di reti in cui le persone possano:
 - e alimentare i sistemi di IA con un contesto di loro proprietà.
 ## Argomenti correlati
 - Sistemi di capitale umano
-- futuri mercati del potenziale umano e sistemi di credenze
+- Mercati futuri del potenziale umano e sistemi di credenze
 - Indice di creazione di valore futuro
 - ONEshift e Attore del cambiamento
 - Y-OS e Memory OS
@@ -77,8 +77,8 @@ YOUniverse punta verso una rete di reti in cui le persone possano:
 ## Domande aperte
 - Cosa significa “dati personali controllati dall’utente” nell’era dell’IA?
 - In che modo 
-il potenziale umano può diventare visibile senza essere ridotto a qualcosa di banale?
+il potenziale umano può diventare visibile senza essere ridotto a qualcosa di superficiale?
 - Come si possono rappresentare il contributo, la fiducia e il valore futuro senza creare un sistema di punteggio distopico?
 - In che modo l’IA può aiutare le persone a diventare più se stesse piuttosto che più ottimizzate?
 ## Stato attuale
-Pagina del progetto P0 pronta. QA GPT completato dopo la revisione di Claude.
+Pagina del progetto P0 pronta. QA su GPT completato dopo la revisione di Claude.

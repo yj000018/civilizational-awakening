@@ -5,7 +5,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/consciousness-evolution.md
   source_hash: 01ba4719c80b6fe9
   provider: deepl
-  translated_at: 2026-09-02T10:35:14.275Z
+  translated_at: 2026-10-02T11:51:19.379Z
 ---
 
 

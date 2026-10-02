@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/visual-reality.md
   source_hash: 50fa549dcc637eb5
   provider: deepl
-  translated_at: 2026-09-02T10:35:25.834Z
+  translated_at: 2026-10-02T11:51:34.172Z
 ---
 
 # Realtà visiva
@@ -35,7 +35,7 @@ Non si tratta di rendere la realtà più efficiente, più produttiva o più util
 In un mondo sempre più mediato dall’intelligenza artificiale, dagli schermi e dall’automazione, la realtà visiva si chiede come le immagini possano diventare portali per tornare alla percezione diretta.
 ## Perché è importante
 Il futuro dell’IA non dovrebbe essere solo intelligente. Dovrebbe rimanere bello.
-La Realtà Visiva salvaguarda la dimensione contemplativa dell’opera nel suo insieme. Ricorda al sistema che la pienezza umana non è solo cognizione, azione e civiltà. È anche meraviglia, presenza estetica e la silenziosa capacità di percepire il mondo come vivo.
+La Realtà Visiva tutela la dimensione contemplativa dell’opera nel suo insieme. Ricorda al sistema che la pienezza umana non è solo cognizione, azione e civiltà. È anche meraviglia, presenza estetica e la silenziosa capacità di percepire il mondo come vivo.
 ## Mezzi espressivi
 - fotografia astratta
 - saggi visivi contemplativi

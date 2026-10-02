@@ -8,7 +8,7 @@ status: ready
 visibility: public
 publish_to_site: true
 one_liner: "Qui êtes-vous en tant qu'acteur du changement ?"
-core_question: Comment chacun peut-il comprendre et exprimer sa contribution unique à la transformation ?
+core_question: Comment une personne peut-elle comprendre et exprimer sa contribution unique à la transformation ?
 related_projects:
   - oneshift
   - youniverse
@@ -21,7 +21,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/actor-of-change.md
   source_hash: a2bf491e93f5e7ec
   provider: deepl
-  translated_at: 2026-09-02T10:34:45.353Z
+  translated_at: 2026-10-02T11:50:41.128Z
 ---
 
 # Acteur du changement
@@ -52,9 +52,9 @@ Alors que ONEshift explore le mouvement plus large allant de la prise de conscie
 Le système doit révéler des possibilités, et non étiqueter les personnes de manière définitive.
 Il doit aider les personnes à agir avec plus de clarté et de cohérence, tout en respectant le mystère et la fluidité du devenir humain.
 ## Questions ouvertes
-- Quels sont les principaux archétypes de l'action en faveur du changement ?
+- Quels sont les principaux archétypes de l’action en faveur du changement ?
 - Comment cartographier la contribution sans tomber dans la réduction ?
-- Comment l'IA peut-elle aider les individus à découvrir une action cohérente ?
+- Comment l’IA peut-elle aider les individus à découvrir une action cohérente ?
 - Comment la transformation personnelle se transforme-t-elle en contribution collective ?
-## État d'avancement
+## État d’avancement
 Page du projet P0 prête. Ébauche canonique GPT.

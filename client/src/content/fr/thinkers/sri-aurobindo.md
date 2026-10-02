@@ -30,13 +30,13 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/thinkers/sri-aurobindo.md
   source_hash: 73b594a13142dab1
   provider: deepl
-  translated_at: 2026-09-02T10:35:02.375Z
+  translated_at: 2026-10-02T11:51:03.674Z
 ---
 
 # Sri Aurobindo
 
-## Pourquoi il est important
-Aurobindo a développé l’une des visions les plus complètes de l’évolution spirituelle humaine au XXe siècle. Son yoga intégral n’était pas un retrait du monde, mais un engagement envers celui-ci — visant à transformer la matière, la vie et l’esprit en expressions d’une conscience supérieure.
+## Pourquoi est-il important ?
+Aurobindo a développé l’une des visions les plus complètes de l’évolution spirituelle humaine au XXe siècle. Son yoga intégral ne consistait pas en un retrait du monde, mais en un engagement envers celui-ci — visant à transformer la matière, la vie et l’esprit en expressions d’une conscience supérieure.
 
 ## Lien avec cette réflexion
 La vision d’Aurobindo d’une conscience supramentale — un mode de connaissance qui transcende les limites de l’esprit rationnel — est un phare pour le pilier Esprit/Âme. Son insistance sur le fait que l’évolution spirituelle doit être collective, et non seulement individuelle, renvoie à la couche de la civilisation.

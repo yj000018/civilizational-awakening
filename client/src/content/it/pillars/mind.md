@@ -33,7 +33,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-09-02T10:35:16.226Z
+  translated_at: 2026-10-02T11:51:21.876Z
 ---
 
 # Mind
@@ -75,8 +75,8 @@ We need a better capture → consolidation → context pipeline.
 - Iain McGilchrist — attenzione, mente e significato.
 ## Domande aperte
 - Qual è il sistema operativo cognitivo minimo funzionante?
-- Come dovrebbe essere acquisita, convalidata e iniettata la memoria negli agenti?
-- Come dovrebbero essere instradati i compiti tra modelli e strumenti?
+- Come dovrebbe essere acquisita, convalidata e integrata la memoria negli agenti?
+- Come dovrebbero essere indirizzati i compiti tra modelli e strumenti?
 - In che modo l’IA può aumentare l’autonomia umana anziché la dipendenza?
 ## Stato attuale
 Pagina pilastro P0 pronta. Bozza canonica GPT.

@@ -33,7 +33,7 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/pillars/mind.md
   source_hash: d9fad436e2ca2b1a
   provider: deepl
-  translated_at: 2026-09-02T10:34:42.670Z
+  translated_at: 2026-10-02T11:50:37.446Z
 ---
 
 # Mind
@@ -46,7 +46,7 @@ la continuité, la mémoire, l’autonomie et le contexte.
 Le pilier « Esprit » explore cette couche manquante.
 ## Pourquoi est-ce important ?
 Sans infrastructure cognitive, l’attention humaine se fragmente entre les outils, les conversations, les fichiers et les plateformes. Les décisions disparaissent. Le contexte est perdu. La mémoire devient bruyante ou incomplète.
-Le pilier « Esprit » s’interroge sur la manière dont l’IA peut augmenter l’intelligence humaine sans faire disparaître l’autonomie humaine.
+Le pilier « Esprit » s’interroge sur la manière dont l’IA peut augmenter l’intelligence humaine sans dissoudre l’autonomie humaine.
 ## Thèmes clés
 - cognition
 - mémoire
@@ -79,4 +79,4 @@ We need a better capture → consolidation → context pipeline.
 - Comment les tâches doivent-elles être acheminées entre les modèles et les outils ?
 - Comment l’IA peut-elle accroître l’autonomie humaine plutôt que la dépendance ?
 ## État d’avancement
-Page pilier P0 prête. Ébauche canonique GPT.
+Page pilier P0 prête. Brouillon canonique GPT.

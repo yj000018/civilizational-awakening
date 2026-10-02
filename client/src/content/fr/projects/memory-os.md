@@ -25,17 +25,17 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/memory-os.md
   source_hash: d84ad286d94efd50
   provider: deepl
-  translated_at: 2026-09-02T10:34:49.191Z
+  translated_at: 2026-10-02T11:50:45.749Z
 ---
 
 # Memory OS
-## Présentation en une ligne
+## Positionnement en une ligne
 Memory OS est un système d'exploitation dédié à la gestion du cycle de vie de la mémoire.
 ## Question centrale
 Comment la mémoire doit-elle passer d'une expérience brute à un contexte validé pour les humains et les agents ?
 ## Thèse
-Le problème central de la mémoire en IA n'est pas la récupération. Il s'agit de la gestion du cycle de vie.
-La plupart des systèmes de mémoire accumulent des fragments : représentations, résumés, historique de discussion, bases de données vectorielles, notes, extraits et préférences. Ils permettent la récupération, mais ne consolident pas, ne dédupliquent pas, ne résolvent pas les contradictions, ne valident pas, n’archivent pas et ne régissent pas ce qui devient canonique.
+Le problème central lié à la mémoire dans l'IA n'est pas la récupération. Il s'agit de la gestion du cycle de vie.
+La plupart des systèmes de mémoire accumulent des fragments : représentations, résumés, historique de discussion, bases de données vectorielles, notes, extraits et préférences. Ils permettent la récupération, mais ne procèdent ni à la consolidation, ni à la déduplication, ni à la résolution des contradictions, ni à la validation, ni à l’archivage, ni à la gouvernance de ce qui devient canonique.
 Memory OS recadre la mémoire sous la forme d’un pipeline :
 ```plain text
 raw
@@ -74,7 +74,7 @@ Règles et processus.
 Exemples :
 - invites
 - règles de routage
-- flux de travail
+- workflows
 - compétences
 - protocoles d’automatisation
 ## Principe actuel
@@ -87,14 +87,14 @@ Git protects.
 Agents receive context packs.
 ```
 Dans la phase de transition actuelle, Notion est utilisé comme entrepôt intermédiaire pour les documents Markdown. La direction canonique de la mémoire reste Obsidian / Y-World avec protection Git.
-## Pourquoi c’est important
+## Pourquoi est-ce important ?
 Sans gestion du cycle de vie de la mémoire, les systèmes d’IA échouent de deux manières opposées :
 1. Ils oublient ce qui est important.
 
 2. Ils retiennent trop de bruit.
-Un système d’exploitation de mémoire décide non seulement de ce qu’il faut récupérer, mais aussi de ce qu’il faut mettre en avant, fusionner, remplacer, archiver, valider et injecter dans le contexte d’exécution.
+Un système d’exploitation de la mémoire décide non seulement de ce qu’il faut récupérer, mais aussi de ce qu’il faut mettre en avant, fusionner, remplacer, archiver, valider et injecter dans le contexte d’exécution.
 ## Rôle dans Y-OS
-Le système d’exploitation de mémoire est le sous-système de mémoire de Y-OS.
+Le système d’exploitation de la mémoire est le sous-système de mémoire de Y-OS.
 Il prend en charge :
 - la capture brute,
 - la récupération sémantique,

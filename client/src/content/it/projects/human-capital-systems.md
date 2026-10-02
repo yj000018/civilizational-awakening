@@ -24,14 +24,14 @@ translation:
   source_file: /home/runner/work/civilizational-awakening/civilizational-awakening/client/src/content/en/projects/human-capital-systems.md
   source_hash: 64605cf9ce67f492
   provider: deepl
-  translated_at: 2026-09-02T10:35:21.516Z
+  translated_at: 2026-10-02T11:51:28.624Z
 ---
 
 # Human Capital Systems
 ## Posizionamento in una riga
 Human Capital Systems esplora come il potenziale umano possa diventare visibile, affidabile
 e traducibile in azioni concrete.
-## Domanda fondamentale
+## Domanda centrale
 Come è possibile rappresentare il valore futuro, il contributo, le competenze, la fiducia e il potenziale senza ridurre le persone a semplici punteggi?
 ## Tesi
 La prossima civiltà avrà bisogno di modi migliori per riconoscere il potenziale umano prima che si realizzi pienamente.
@@ -53,7 +53,7 @@ La sfida consiste nel farlo senza ridurre gli esseri umani a punteggi, classific
 - abbinamento tra idee, realizzatori, finanziatori e comunità
 ## Relazione con YOUniverse
 YOUniverse è l’ecosistema più ampio dedicato al potenziale umano.
-Human Capital Systems è uno dei suoi livelli rivolti alla civiltà: la parte che si chiede come le idee, i contributi, la fiducia e il potenziale futuro delle persone possano diventare visibili e scambiabili, pur rimanendo sotto il controllo umano.
+Human Capital Systems è uno dei suoi livelli rivolti alla civiltà: la parte che si interroga su come le idee, i contributi, la fiducia e il potenziale futuro delle persone possano diventare visibili e scambiabili pur rimanendo sotto il controllo umano.
 ## Principio di progettazione
 L’obiettivo non è classificare le persone.
 L’obiettivo è aiutare il potenziale a diventare visibile, sostenuto e interconnesso prima che le istituzioni esistenti sappiano come riconoscerlo.
