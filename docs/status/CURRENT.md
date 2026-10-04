@@ -18,3 +18,14 @@ Builds, dependency compatibility, complete document-by-document semantic reconci
 ## Resume
 
 Read [PROJECT](../../PROJECT.md) and [documentation map](../README.md), then the observed payload paths in [architecture](../architecture/OVERVIEW.md). Record future durable decisions in [the ledger](../decisions/DECISION-LEDGER.md). Wave B/C is a separate migration scope requiring lineage and rollback evidence; this handoff does not authorize it.
+
+## Technical continuation — 2026-10-04
+
+Locked installation, typecheck and production build passed on Node 24.10.0 with explicit pnpm 10.4.1. Dependency versions and lockfile bytes are unchanged.
+
+Hosted CI and main integration are separately observed; no deployment step is added.
+
+Build succeeded with optional analytics environment placeholders absent; production analytics configuration and live runtime acceptance remain unverified.
+
+CI uses Node 24 and the declared pnpm version, then frozen installation,
+typecheck and build. [Local validation evidence](../../evidence/build-validation-2026-10-04/LOCAL-VALIDATION.json).

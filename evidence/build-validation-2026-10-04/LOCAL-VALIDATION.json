@@ -1,0 +1,18 @@
+{
+  "repository": "civilizational-awakening",
+  "date": "2026-10-04",
+  "baseline_commit": "239ab7d9f0a030368976de3747cc4de7b01ec6c4",
+  "node": "24.10.0",
+  "package_manager": "pnpm 10.4.1",
+  "locked_install": "PASS",
+  "typecheck": "PASS",
+  "production_build": "PASS",
+  "lockfile_unchanged": true,
+  "application_sources_unchanged": true,
+  "deployment_claimed": false,
+  "scope_notes": [
+    "Locked installation, typecheck and production build passed on Node 24.10.0 with explicit pnpm 10.4.1. Dependency versions and lockfile bytes are unchanged.",
+    "Hosted CI and main integration are separately observed; no deployment step is added.",
+    "Build succeeded with optional analytics environment placeholders absent; production analytics configuration and live runtime acceptance remain unverified."
+  ]
+}

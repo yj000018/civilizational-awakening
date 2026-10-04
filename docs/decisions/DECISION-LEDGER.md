@@ -14,3 +14,11 @@ Alternatives: forced directory migration or blanket canon promotion — outside 
 Consequences: existing domain documents retain their provenance and acceptance status; missing classes stay explicit.
 Evidence: the baseline commit in [CURRENT](../status/CURRENT.md), the [YOS standard](https://github.com/yj000018/YOS/blob/main/00_META/GITHUB-REPOSITORY-ARCHITECTURE-STANDARD-v1.md), and the per-repository remote receipt in the YOS Wave A audit.
 Rollback: revert the Wave A commit; do not reset or rewrite history.
+
+## TECH-2026-10-04 — Reproducible application validation
+
+Decision owner: Yannick (technical normalization continuation). Engineering and sole
+execution owner: Codex. Add a Node 24 / pnpm 10.4.1 frozen-install/typecheck/build
+contract and CI. Existing dependency graph, application code, content and assets
+remain unchanged. This is build validation, without project consolidation or
+live acceptance. Revert this scoped commit to roll back.
