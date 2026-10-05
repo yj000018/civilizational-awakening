@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-05",
+  "execution_owner": "Codex",
+  "status": "PREPARED_PENDING_HOSTED_CHECKS",
+  "baseline": "cc7d8b82a60ffad34a035d8bddcf529d62ea2b5a",
+  "scope": [
+    {
+      "path": ".github/workflows/build-validation.yml",
+      "before_sha256": "4466711431dda3e7094666c3c27e41e60dc4e83231964388cf76a0b9a19e6c5f",
+      "after_sha256": "a271695e612fe34e8547fec091628db608a7538c995d59e147b950f3f22bce88",
+      "actions": [
+        {
+          "before": "actions/checkout@v4",
+          "after": "actions/checkout@v7.0.1"
+        },
+        {
+          "before": "pnpm/action-setup@v4",
+          "after": "pnpm/action-setup@v6.1.0"
+        },
+        {
+          "before": "actions/setup-node@v4",
+          "after": "actions/setup-node@v7.0.0"
+        }
+      ]
+    }
+  ],
+  "official_releases": [
+    {
+      "repo": "actions/checkout",
+      "tag": "v7.0.1",
+      "commit": "3d3c42e5aac5ba805825da76410c181273ba90b1",
+      "url": "https://github.com/actions/checkout/releases/tag/v7.0.1",
+      "runs": "\nruns:\r\n  using: node24\r\n  main: dist/index.js\r\n  post: dist/index.js\r\n"
+    },
+    {
+      "repo": "actions/setup-node",
+      "tag": "v7.0.0",
+      "commit": "820762786026740c76f36085b0efc47a31fe5020",
+      "url": "https://github.com/actions/setup-node/releases/tag/v7.0.0",
+      "runs": "\nruns:\n  using: 'node24'\n  main: 'dist/setup/index.js'\n  post: 'dist/cache-save/index.js'\n  post-if: success()\n"
+    },
+    {
+      "repo": "pnpm/action-setup",
+      "tag": "v6.1.0",
+      "commit": "ea17c68df8912ef543352723c149a84f56e3d413",
+      "url": "https://github.com/pnpm/action-setup/releases/tag/v6.1.0",
+      "runs": "\nruns:\n  using: node24\n  main: dist/index.js\n  post: dist/index.js\n"
+    }
+  ],
+  "validation": "Structured workflow equality passes with only exact official action releases normalized. Existing cache inputs, frozen installs, test/type/lint/build/render commands, triggers, permissions, runners, project toolchain versions and all locks/source/assets retained. No privileged PR trigger or removed registry/always-auth inputs.",
+  "boundary": "CI infrastructure only. No physical consolidation, translation/provider workflow change, live-host/device/CMS/creative publication acceptance or new runtime target."
+}
