@@ -15,6 +15,10 @@ for name,expected in baseline.items():
                 step['uses']=action+'@BASELINE'
             if action=='actions/upload-artifact':
                 assert step['with'].pop('archive')=='true'
+            if action=='pnpm/action-setup' and name.endswith('/translate.yml'):
+                declared=json.loads((root/'package.json').read_text())['packageManager'].split('+')[0]
+                assert declared=='pnpm@'+step['with']['version']=='pnpm@10.4.1'
+                step['with']['version']='10'  # retained original broad constraint, now exact native manifest pin
             if action=='actions/setup-node' and name.endswith('/translate.yml'):
                 assert step['with'].pop('package-manager-cache')=='false'
     for job in expected['jobs'].values():
