@@ -1,0 +1,101 @@
+{
+  ".github/workflows/translate.yml": {
+    "name": "Auto-translate content (DeepL)",
+    "on": {
+      "push": {
+        "branches": [
+          "main"
+        ],
+        "paths": [
+          "client/src/content/en/**/*.md"
+        ]
+      },
+      "schedule": [
+        {
+          "cron": "0 6 2 * *"
+        }
+      ],
+      "workflow_dispatch": {
+        "inputs": {
+          "force": {
+            "description": "Force retranslation of all files (ignore hash cache)",
+            "required": "false",
+            "default": "false",
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "concurrency": {
+      "group": "translate-${{ github.ref }}",
+      "cancel-in-progress": "true"
+    },
+    "jobs": {
+      "translate": {
+        "name": "Translate Markdown content",
+        "runs-on": "ubuntu-latest",
+        "permissions": {
+          "contents": "write"
+        },
+        "if": "!contains(github.event.head_commit.message, '[skip ci]')",
+        "steps": [
+          {
+            "name": "Checkout repository",
+            "uses": "actions/checkout@v4",
+            "with": {
+              "fetch-depth": "2",
+              "token": "${{ secrets.GITHUB_TOKEN }}"
+            }
+          },
+          {
+            "name": "Setup Node.js",
+            "uses": "actions/setup-node@v4",
+            "with": {
+              "node-version": "22"
+            }
+          },
+          {
+            "name": "Install pnpm",
+            "uses": "pnpm/action-setup@v3",
+            "with": {
+              "version": "10"
+            }
+          },
+          {
+            "name": "Install dependencies",
+            "run": "pnpm install --frozen-lockfile"
+          },
+          {
+            "name": "Install tsx",
+            "run": "pnpm add -g tsx"
+          },
+          {
+            "name": "Detect changed Markdown files",
+            "id": "changed",
+            "run": "# Get list of changed .md files in content/en/\nCHANGED=$(git diff --name-only HEAD~1 HEAD -- 'client/src/content/en/**/*.md' 2>/dev/null || echo \"\")\nif [ -z \"$CHANGED\" ] && [ \"${{ github.event_name }}\" = \"push\" ]; then\n  echo \"No source Markdown files changed. Skipping translation.\"\n  echo \"has_changes=false\" >> $GITHUB_OUTPUT\nelse\n  echo \"has_changes=true\" >> $GITHUB_OUTPUT\n  echo \"Changed files: $CHANGED\"\nfi\n"
+          },
+          {
+            "name": "Run DeepL translation",
+            "if": "steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'",
+            "env": {
+              "DEEPL_API_KEY": "${{ secrets.DEEPL_API_KEY }}",
+              "TRANSLATION_SOURCE_LOCALE": "en",
+              "TRANSLATION_TARGET_LOCALES": "fr,it"
+            },
+            "run": "FORCE_FLAG=\"\"\nif [ \"${{ github.event.inputs.force }}\" = \"true\" ]; then\n  FORCE_FLAG=\"--force\"\nfi\ntsx scripts/translate-site.ts $FORCE_FLAG\n"
+          },
+          {
+            "name": "Commit translated files",
+            "if": "steps.changed.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'",
+            "run": "git config --local user.email \"github-actions[bot]@users.noreply.github.com\"\ngit config --local user.name \"github-actions[bot]\"\n\ngit add client/src/content/fr/ client/src/content/it/\nif git diff --staged --quiet; then\n  echo \"No translation changes to commit.\"\nelse\n  git commit -m \"chore: auto-translate content [skip ci]\"\n  git push\nfi\n"
+          },
+          {
+            "name": "Summary",
+            "if": "always()",
+            "run": "echo \"## Translation Summary\" >> $GITHUB_STEP_SUMMARY\necho \"- Source locale: en\" >> $GITHUB_STEP_SUMMARY\necho \"- Target locales: fr, it\" >> $GITHUB_STEP_SUMMARY\necho \"- Trigger: ${{ github.event_name }}\" >> $GITHUB_STEP_SUMMARY\necho \"- Force mode: ${{ github.event.inputs.force || 'false' }}\" >> $GITHUB_STEP_SUMMARY\n"
+          }
+        ]
+      }
+    }
+  }
+}

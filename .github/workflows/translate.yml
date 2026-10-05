@@ -43,20 +43,21 @@ jobs:
     steps:
       # - 1. Checkout -
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
         with:
           fetch-depth: 2
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # - 2. Setup Node -
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7.0.0
         with:
           node-version: '22'
+          package-manager-cache: false
 
       # - 3. Install dependencies -
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v6.1.0
         with:
           version: 10
 
